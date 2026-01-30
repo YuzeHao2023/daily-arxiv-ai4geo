@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Wave generation via oscillatory reconnection at a three-dimensional magnetic null point**|Luiz A. C. A. Schiavo et.al.|[2601.21520](http://arxiv.org/abs/2601.21520)|null|
 |**2026-01-28**|**Online Change Point Detection for Multivariate Inhomogeneous Poisson Processes Time Series**|Xiaokai Luo et.al.|[2601.20192](http://arxiv.org/abs/2601.20192)|null|
 |**2026-01-10**|**Low-magnitude seismic activity between the Kamchatka July 20 and July 29, 2025, earthquakes. Spatio-temporal evolution recovered using waveform cross-correlation**|Ivan O. Kitov et.al.|[2601.15302](http://arxiv.org/abs/2601.15302)|null|
 |**2026-01-28**|**Nuclear astrophysics**|Roland Diehl et.al.|[2601.12508](http://arxiv.org/abs/2601.12508)|null|
@@ -27,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography**|Wenxuan Li et.al.|[2601.22134](http://arxiv.org/abs/2601.22134)|null|
+|**2026-01-29**|**Physics Informed Reconstruction of Four-Dimensional Atmospheric Wind Fields Using Multi-UAS Swarm Observations in a Synthetic Turbulent Environment**|Abdullah Tasim et.al.|[2601.22111](http://arxiv.org/abs/2601.22111)|null|
+|**2026-01-29**|**AIRPET: Virtual Positron Emission Tomography**|J. Renner et.al.|[2601.22059](http://arxiv.org/abs/2601.22059)|null|
+|**2026-01-29**|**The Ensemble Inverse Problem: Applications and Methods**|Zhengyan Huan et.al.|[2601.22029](http://arxiv.org/abs/2601.22029)|null|
+|**2026-01-29**|**Multistatic anisotropic travel-time as a tensor tomography problem**|Naeem Desai et.al.|[2601.21640](http://arxiv.org/abs/2601.21640)|null|
+|**2026-01-29**|**PINN-based short-term forecasting of fault slip evolution during the 2010 slow slip event in the Bungo Channel, Japan**|Masayuki Kano et.al.|[2601.21516](http://arxiv.org/abs/2601.21516)|null|
+|**2026-01-29**|**RF-free driving of nuclear spins with color centers in silicon carbide**|Raphael Wörnle et.al.|[2601.21499](http://arxiv.org/abs/2601.21499)|null|
+|**2026-01-29**|**Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking**|Kaito Shiku et.al.|[2601.21479](http://arxiv.org/abs/2601.21479)|null|
+|**2026-01-28**|**Low performing pixel correction in computed tomography with unrolled network and synthetic data training**|Hongxu Yang et.al.|[2601.20995](http://arxiv.org/abs/2601.20995)|null|
+|**2026-01-28**|**Text controllable PET denoising**|Xuehua Ye et.al.|[2601.20990](http://arxiv.org/abs/2601.20990)|null|
 |**2026-01-28**|**Anytime-Valid Quantum Tomography via Confidence Sequences**|Aldo Cumitini et.al.|[2601.20761](http://arxiv.org/abs/2601.20761)|null|
 |**2026-01-28**|**SegRap2025: A Benchmark of Gross Tumor Volume and Lymph Node Clinical Target Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Jia Fu et.al.|[2601.20575](http://arxiv.org/abs/2601.20575)|null|
 |**2026-01-28**|**TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs**|Chen-Yang Dai et.al.|[2601.20361](http://arxiv.org/abs/2601.20361)|null|
@@ -62,6 +73,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Urban Neural Surface Reconstruction from Constrained Sparse Aerial Imagery with 3D SAR Fusion**|Da Li et.al.|[2601.22045](http://arxiv.org/abs/2601.22045)|null|
+|**2026-01-29**|**SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.|[2601.21664](http://arxiv.org/abs/2601.21664)|null|
+|**2026-01-29**|**RSGround-R1: Rethinking Remote Sensing Visual Grounding through Spatial Reasoning**|Shiqi Huang et.al.|[2601.21634](http://arxiv.org/abs/2601.21634)|null|
+|**2026-01-29**|**HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control**|Wei Zuo et.al.|[2601.21346](http://arxiv.org/abs/2601.21346)|null|
+|**2026-01-29**|**SR $^{2}$ -Net: A General Plug-and-Play Model for Spectral Refinement in Hyperspectral Image Super-Resolution**|Ji-Xuan He et.al.|[2601.21338](http://arxiv.org/abs/2601.21338)|null|
+|**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|
+|**2026-01-28**|**DNN-Based Online Source Counting Based on Spatial Generalized Magnitude Squared Coherence**|Henri Gode et.al.|[2601.21114](http://arxiv.org/abs/2601.21114)|null|
+|**2026-01-28**|**Assessing engineering wake models against operational data: insights from the Lillgrund wind farm wake steering campaign**|Diego Siguenza-Alvarado et.al.|[2601.21035](http://arxiv.org/abs/2601.21035)|null|
 |**2026-01-28**|**Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction**|Matej Halinkovic et.al.|[2601.20720](http://arxiv.org/abs/2601.20720)|null|
 |**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Pankhi Kashyap et.al.|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
 |**2026-01-28**|**Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis**|Zixuan Xiao et.al.|[2601.20206](http://arxiv.org/abs/2601.20206)|null|
@@ -114,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
 |**2026-01-12**|**Wattnet: matching electricity consumption with low-carbon, low-water footprint energy supply**|María Castrillo Melguizo et.al.|[2601.11623](http://arxiv.org/abs/2601.11623)|null|
 |**2026-01-06**|**Unraveling Structure-Performance Trade-offs in Porous Transport Layers for PEM Water Electrolysis**|Navneet Goswami et.al.|[2601.03334](http://arxiv.org/abs/2601.03334)|null|
 |**2025-12-26**|**Multiscale filtration framework with nanoconfined phase behavior: Pore Network Modeling with Density Functional Theory calculations**|Irina Nesterova et.al.|[2512.21990](http://arxiv.org/abs/2512.21990)|null|
@@ -129,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**A Comprehensive Network for the Discovery and Characterization of Interstellar Objects**|Oem Trivedi et.al.|[2601.21184](http://arxiv.org/abs/2601.21184)|null|
 |**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
 |**2026-01-26**|**Malicious Repurposing of Open Science Artefacts by Using Large Language Models**|Zahra Hashemi et.al.|[2601.18998](http://arxiv.org/abs/2601.18998)|null|
 |**2026-01-26**|**Forecasting the Maintained Score from the OpenSSF Scorecard for GitHub Repositories linked to PyPI libraries**|Alexandros Tsakpinis et.al.|[2601.18344](http://arxiv.org/abs/2601.18344)|null|
@@ -178,6 +199,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Maxwait: A Generalized Mechanism for Distributed Time-Sensitive Systems**|Francesco Paladino et.al.|[2601.21146](http://arxiv.org/abs/2601.21146)|null|
+|**2026-01-28**|**The quenched structured coalescent for diploid population models on finite graphs with large migrations and uneven offspring distributions**|Maximillian Newman et.al.|[2601.21079](http://arxiv.org/abs/2601.21079)|null|
 |**2026-01-28**|**Graph-Structured Deep Learning Framework for Multi-task Contention Identification with High-dimensional Metrics**|Xiao Yang et.al.|[2601.20389](http://arxiv.org/abs/2601.20389)|null|
 |**2026-01-27**|**Matching and mixing: Matchability of graphs under Markovian error**|Zhirui Li et.al.|[2601.20020](http://arxiv.org/abs/2601.20020)|null|
 |**2026-01-28**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
@@ -204,6 +227,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](http://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Can Local Learning Match Self-Supervised Backpropagation?**|Wu S. Zihan et.al.|[2601.21683](http://arxiv.org/abs/2601.21683)|null|
+|**2026-01-29**|**Representation-Regularized Convolutional Audio Transformer for Audio Understanding**|Bing Han et.al.|[2601.21612](http://arxiv.org/abs/2601.21612)|null|
+|**2026-01-29**|**Hypersolid: Emergent Vision Representations via Short-Range Repulsion**|Esteban Rodríguez-Betancourt et.al.|[2601.21255](http://arxiv.org/abs/2601.21255)|null|
+|**2026-01-28**|**Position-invariant Fine-tuning of Speech Enhancement Models with Self-supervised Speech Representations**|Amit Meghanani et.al.|[2601.21084](http://arxiv.org/abs/2601.21084)|null|
+|**2026-01-28**|**A Study of Data Selection Strategies for Pre-training Self-Supervised Speech Models**|Ryan Whetten et.al.|[2601.20896](http://arxiv.org/abs/2601.20896)|null|
 |**2026-01-28**|**MiLorE-SSL: Scaling Multilingual Capabilities in Self-Supervised Models without Forgetting**|Jing Xu et.al.|[2601.20300](http://arxiv.org/abs/2601.20300)|null|
 |**2026-01-28**|**MAPLE: Self-supervised Learning-Enhanced Nonlinear Dimensionality Reduction for Visual Analysis**|Zeyang Huang et.al.|[2601.20173](http://arxiv.org/abs/2601.20173)|null|
 |**2026-01-28**|**Spectral Ghost in Representation Learning: from Component Analysis to Self-Supervised Learning**|Bo Dai et.al.|[2601.20154](http://arxiv.org/abs/2601.20154)|null|
