@@ -28,6 +28,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Toward Digital Twins in 3D IC Packaging: A Critical Review of Physics, Data, and Hybrid Architectures**|Gourab Datta et.al.|[2601.23226](http://arxiv.org/abs/2601.23226)|null|
+|**2026-01-30**|**Forward and Inverse Mantle Convection with Neural Operators**|Chenxi Kong et.al.|[2601.23178](http://arxiv.org/abs/2601.23178)|null|
+|**2026-01-30**|**Atomic-scale Imaging of Iodide-Gold Interactions in Nanoconfined Liquid-Solid Interfaces**|Oliver R. Waszkiewicz et.al.|[2601.23017](http://arxiv.org/abs/2601.23017)|null|
+|**2026-01-30**|**DC-LA: Difference-of-Convex Langevin Algorithm**|Hoang Phuc Hau Luu et.al.|[2601.22932](http://arxiv.org/abs/2601.22932)|null|
+|**2026-01-30**|**Grassmannian Geometry and Global Convergence of Variable Projection for Neural Networks**|Mathias Dus et.al.|[2601.22897](http://arxiv.org/abs/2601.22897)|null|
+|**2026-01-30**|**Discovering Scaling Exponents with Physics-Informed Müntz-Szász Networks**|Gnankan Landry Regis N'guessan et.al.|[2601.22751](http://arxiv.org/abs/2601.22751)|null|
+|**2026-01-29**|**Time-domain optical coherence tomography at 2 $μ\mathrm{m}$ using GaSb-based broadband superluminescent diode**|Ifte Khairul Aam Bhuiyan et.al.|[2601.22261](http://arxiv.org/abs/2601.22261)|null|
 |**2026-01-29**|**Early and Prediagnostic Detection of Pancreatic Cancer from Computed Tomography**|Wenxuan Li et.al.|[2601.22134](http://arxiv.org/abs/2601.22134)|null|
 |**2026-01-29**|**Physics Informed Reconstruction of Four-Dimensional Atmospheric Wind Fields Using Multi-UAS Swarm Observations in a Synthetic Turbulent Environment**|Abdullah Tasim et.al.|[2601.22111](http://arxiv.org/abs/2601.22111)|null|
 |**2026-01-29**|**AIRPET: Virtual Positron Emission Tomography**|J. Renner et.al.|[2601.22059](http://arxiv.org/abs/2601.22059)|null|
@@ -73,6 +80,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](http://arxiv.org/abs/2601.23159)|null|
+|**2026-01-30**|**FlowCalib: LiDAR-to-Vehicle Miscalibration Detection using Scene Flows**|Ilir Tahiraj et.al.|[2601.23107](http://arxiv.org/abs/2601.23107)|null|
+|**2026-01-30**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](http://arxiv.org/abs/2601.22861)|null|
+|**2026-01-30**|**How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models**|Leonard Hackel et.al.|[2601.22841](http://arxiv.org/abs/2601.22841)|null|
+|**2026-01-30**|**FarmMind: Reasoning-Query-Driven Dynamic Segmentation for Farmland Remote Sensing Images**|Haiyang Wu et.al.|[2601.22809](http://arxiv.org/abs/2601.22809)|null|
+|**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808](http://arxiv.org/abs/2601.22808)|null|
+|**2026-01-30**|**Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images**|Xinxin Xu et.al.|[2601.22755](http://arxiv.org/abs/2601.22755)|null|
+|**2026-01-30**|**GaussianOcc3D: A Gaussian-Based Adaptive Multi-modal 3D Occupancy Prediction**|A. Enes Doruk et.al.|[2601.22729](http://arxiv.org/abs/2601.22729)|null|
+|**2026-01-30**|**FOTBCD: A Large-Scale Building Change Detection Benchmark from French Orthophotos and Topographic Data**|Abdelrrahman Moubane et.al.|[2601.22596](http://arxiv.org/abs/2601.22596)|null|
+|**2026-01-30**|**Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|[2601.22581](http://arxiv.org/abs/2601.22581)|null|
 |**2026-01-29**|**Urban Neural Surface Reconstruction from Constrained Sparse Aerial Imagery with 3D SAR Fusion**|Da Li et.al.|[2601.22045](http://arxiv.org/abs/2601.22045)|null|
 |**2026-01-29**|**SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework**|Xingyue Zhang et.al.|[2601.21664](http://arxiv.org/abs/2601.21664)|null|
 |**2026-01-29**|**RSGround-R1: Rethinking Remote Sensing Visual Grounding through Spatial Reasoning**|Shiqi Huang et.al.|[2601.21634](http://arxiv.org/abs/2601.21634)|null|
@@ -199,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Forward and Inverse Mantle Convection with Neural Operators**|Chenxi Kong et.al.|[2601.23178](http://arxiv.org/abs/2601.23178)|null|
+|**2026-01-30**|**Trojan-Resilient NTT: Protecting Against Control Flow and Timing Faults on Reconfigurable Platforms**|Rourab Paul et.al.|[2601.22804](http://arxiv.org/abs/2601.22804)|null|
 |**2026-01-29**|**Maxwait: A Generalized Mechanism for Distributed Time-Sensitive Systems**|Francesco Paladino et.al.|[2601.21146](http://arxiv.org/abs/2601.21146)|null|
 |**2026-01-28**|**The quenched structured coalescent for diploid population models on finite graphs with large migrations and uneven offspring distributions**|Maximillian Newman et.al.|[2601.21079](http://arxiv.org/abs/2601.21079)|null|
 |**2026-01-28**|**Graph-Structured Deep Learning Framework for Multi-task Contention Identification with High-dimensional Metrics**|Xiao Yang et.al.|[2601.20389](http://arxiv.org/abs/2601.20389)|null|
@@ -227,6 +246,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**A Random Matrix Theory of Masked Self-Supervised Regression**|Arie Wortsman Zurich et.al.|[2601.23208](http://arxiv.org/abs/2601.23208)|null|
+|**2026-01-30**|**Unsupervised Synthetic Image Attribution: Alignment and Disentanglement**|Zongfang Liu et.al.|[2601.22663](http://arxiv.org/abs/2601.22663)|null|
+|**2026-01-30**|**Rethinking Speech Representation Aggregation in Speech Enhancement: A Phonetic Mutual Information Perspective**|Seungu Han et.al.|[2601.22480](http://arxiv.org/abs/2601.22480)|null|
+|**2026-01-29**|**Optimizing Domain-Adaptive Self-Supervised Learning for Clinical Voice-Based Disease Classification**|Weixin Liu et.al.|[2601.22319](http://arxiv.org/abs/2601.22319)|null|
 |**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
 |**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](http://arxiv.org/abs/2601.22009)|null|
 |**2026-01-29**|**Can Local Learning Match Self-Supervised Backpropagation?**|Wu S. Zihan et.al.|[2601.21683](http://arxiv.org/abs/2601.21683)|null|
