@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Pulse waves in the viscoelastic Kelvin-Voigt model: a revisited approach**|Juan Luis Gonzalez-Santander et.al.|[2602.03897](http://arxiv.org/abs/2602.03897)|null|
 |**2026-02-02**|**Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ring Seismology**|Yubo Su et.al.|[2602.02647](http://arxiv.org/abs/2602.02647)|null|
 |**2026-02-01**|**Evaluating the SAIPy Performance using a Local Seismic Network for Volcano-Tectonic Earthquakes Monitoring**|Claudia Quinteros-Cartaya et.al.|[2602.01269](http://arxiv.org/abs/2602.01269)|null|
 |**2026-01-29**|**Wave generation via oscillatory reconnection at a three-dimensional magnetic null point**|Luiz A. C. A. Schiavo et.al.|[2601.21520](http://arxiv.org/abs/2601.21520)|null|
@@ -30,6 +31,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**A Parameterized Physics Informed Neural Network Solver for the Navier Stokes Equations Across Reynolds Numbers**|A. Jangir et.al.|[2602.04670](http://arxiv.org/abs/2602.04670)|null|
+|**2026-02-04**|**HoloHema: Digital Holographic Hematology Analyzer**|Andreas Erik Gejl Madsen et.al.|[2602.04618](http://arxiv.org/abs/2602.04618)|null|
+|**2026-02-04**|**Physics-Informed Neural Networks for the Quantum Droplets in Binary Bose-Einstein Condensates**|Dongshuai Liu et.al.|[2602.04590](http://arxiv.org/abs/2602.04590)|null|
+|**2026-02-04**|**Exterior complex scaling enables physics-informed neural networks for quantum scattering**|Jin Lei et.al.|[2602.04553](http://arxiv.org/abs/2602.04553)|null|
+|**2026-02-04**|**An Information-Theoretic Detector for Multiple Scatterers in SAR Tomography**|Pia Addabbo et.al.|[2602.04465](http://arxiv.org/abs/2602.04465)|null|
+|**2026-02-04**|**Bayesian PINNs for uncertainty-aware inverse problems (BPINN-IP)**|Ali Mohammad-Djafari et.al.|[2602.04459](http://arxiv.org/abs/2602.04459)|null|
+|**2026-02-04**|**Benchmarking Quantum and Classical Algorithms for the 1D Burgers Equation: QTN, HSE, and PINN**|Vanshaj Kerni et.al.|[2602.04239](http://arxiv.org/abs/2602.04239)|null|
+|**2026-02-03**|**Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit**|Piper C. Wysocki et.al.|[2602.03938](http://arxiv.org/abs/2602.03938)|null|
 |**2026-02-03**|**Score-based diffusion models for diffuse optical tomography with uncertainty quantification**|Fabian Schneider et.al.|[2602.03449](http://arxiv.org/abs/2602.03449)|null|
 |**2026-02-03**|**Unlocking the dynamics of Young Stellar Objects: Time-Domain Interferometry with six 4-m class telescopes**|A. Soulain et.al.|[2602.03401](http://arxiv.org/abs/2602.03401)|null|
 |**2026-02-03**|**Full end-to-end diagnostic workflow automation of 3D OCT via foundation model-driven AI for retinal diseases**|Jinze Zhang et.al.|[2602.03302](http://arxiv.org/abs/2602.03302)|null|
@@ -102,6 +111,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+|**2026-02-04**|**Score-Based Change-Point Detection and Region Localization for Spatio-Temporal Point Processes**|Wenbin Zhou et.al.|[2602.04798](http://arxiv.org/abs/2602.04798)|null|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[2602.04749](http://arxiv.org/abs/2602.04749)|null|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
+|**2026-02-04**|**Radar-Inertial Odometry For Computationally Constrained Aerial Navigation**|Jan Michalczyk et.al.|[2602.04631](http://arxiv.org/abs/2602.04631)|null|
+|**2026-02-04**|**ReFRAME or Remain: Unsupervised Lexical Semantic Change Detection with Frame Semantics**|Bach Phan-Tat et.al.|[2602.04514](http://arxiv.org/abs/2602.04514)|null|
+|**2026-02-04**|**PhoQuPy: A Python framework for Automation of Quantum Optics experiments**|Srivatsa Murali et.al.|[2602.04505](http://arxiv.org/abs/2602.04505)|null|
+|**2026-02-04**|**Reducing the labeling burden in time-series mapping using Common Ground: a semi-automated approach to tracking changes in land cover and species over time**|Geethen Singh et.al.|[2602.04373](http://arxiv.org/abs/2602.04373)|null|
+|**2026-02-04**|**DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.|[2602.04102](http://arxiv.org/abs/2602.04102)|null|
 |**2026-02-03**|**An Open Database of Lunar Regolith and Simulants Properties**|Léonie Gasteiner et.al.|[2602.03829](http://arxiv.org/abs/2602.03829)|null|
 |**2026-02-03**|**SPWOOD: Sparse Partial Weakly-Supervised Oriented Object Detection**|Wei Zhang et.al.|[2602.03634](http://arxiv.org/abs/2602.03634)|null|
 |**2026-02-03**|**Inlier-Centric Post-Training Quantization for Object Detection Models**|Minsu Kim et.al.|[2602.03472](http://arxiv.org/abs/2602.03472)|null|
@@ -211,8 +229,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Species Sensitivity Distribution revisited: a Bayesian nonparametric approach**|Louise Alamichel et.al.|[2602.04788](http://arxiv.org/abs/2602.04788)|null|
+|**2026-02-04**|**Passive Incoherent Ultrafast Mid-Infrared Upconversion Imaging and Its Calibration**|Jin-Peng Li et.al.|[2602.04483](http://arxiv.org/abs/2602.04483)|null|
+|**2026-02-04**|**Generative AI in Systems Engineering: A Framework for Risk Assessment of Large Language Models**|Stefan Otten et.al.|[2602.04358](http://arxiv.org/abs/2602.04358)|null|
 |**2026-02-03**|**Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms**|Yiran Qiao et.al.|[2602.03520](http://arxiv.org/abs/2602.03520)|null|
-|**2026-02-03**|**Role of Graphics in Disaster Communication: Practitioner Perspectives on Use, Challenges, and Inclusivity**|Anuradha Madugall et.al.|[2602.02947](http://arxiv.org/abs/2602.02947)|null|
+|**2026-02-04**|**Role of Graphics in Disaster Communication: Practitioner Perspectives on Use, Challenges, and Inclusivity**|Anuradha Madugalla et.al.|[2602.02947](http://arxiv.org/abs/2602.02947)|null|
 |**2026-02-02**|**A spatial random forest algorithm for population-level epidemiological risk assessment**|Duncan Lee et.al.|[2602.02277](http://arxiv.org/abs/2602.02277)|null|
 |**2026-02-02**|**Developing a Portable Solution for Post-Event Analysis Pipelines**|Leonardo Pelonero et.al.|[2602.01798](http://arxiv.org/abs/2602.01798)|null|
 |**2026-02-01**|**Explicit Expressions for Multidimensional Value-at-Risk under Archimedean Copulas**|Dotamana Yéo et.al.|[2602.01245](http://arxiv.org/abs/2602.01245)|null|
@@ -266,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Nota de Política Pública: Quanto de produtividade precisamos para reduzir a jornada de trabalho?**|Victor Rangel et.al.|[2602.03884](http://arxiv.org/abs/2602.03884)|null|
 |**2026-02-03**|**Causal Graph Spatial-Temporal Autoencoder for Reliable and Interpretable Process Monitoring**|Xiangrui Zhang et.al.|[2602.03004](http://arxiv.org/abs/2602.03004)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
 |**2026-02-02**|**Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ring Seismology**|Yubo Su et.al.|[2602.02647](http://arxiv.org/abs/2602.02647)|null|
@@ -302,6 +324,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Temporal Slowness in Central Vision Drives Semantic Object Learning**|Timothy Schaumlöffel et.al.|[2602.04462](http://arxiv.org/abs/2602.04462)|null|
+|**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
+|**2026-02-04**|**Aortic Valve Disease Detection from PPG via Physiology-Informed Self-Supervised Learning**|Jiaze Wang et.al.|[2602.04266](http://arxiv.org/abs/2602.04266)|null|
+|**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](http://arxiv.org/abs/2602.04217)|null|
 |**2026-02-03**|**Self-supervised Physics-Informed Manipulation of Deformable Linear Objects with Non-negligible Dynamics**|Youyuan Long et.al.|[2602.03623](http://arxiv.org/abs/2602.03623)|null|
 |**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
 |**2026-02-03**|**ACL: Aligned Contrastive Learning Improves BERT and Multi-exit BERT Fine-tuning**|Wei Zhu et.al.|[2602.03563](http://arxiv.org/abs/2602.03563)|null|
