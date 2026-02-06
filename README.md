@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Galactic seismology: can a disc-crossing impulse explain the large-scale perturbations in the Milky Way's disc?**|Pavadol Yamsiri et.al.|[2602.05296](http://arxiv.org/abs/2602.05296)|null|
 |**2026-02-03**|**Pulse waves in the viscoelastic Kelvin-Voigt model: a revisited approach**|Juan Luis Gonzalez-Santander et.al.|[2602.03897](http://arxiv.org/abs/2602.03897)|null|
 |**2026-02-02**|**Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ring Seismology**|Yubo Su et.al.|[2602.02647](http://arxiv.org/abs/2602.02647)|null|
 |**2026-02-01**|**Evaluating the SAIPy Performance using a Local Seismic Network for Volcano-Tectonic Earthquakes Monitoring**|Claudia Quinteros-Cartaya et.al.|[2602.01269](http://arxiv.org/abs/2602.01269)|null|
@@ -44,6 +45,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Visualizing the loss landscapes of physics-informed neural networks**|Conor Rowan et.al.|[2602.05849](http://arxiv.org/abs/2602.05849)|null|
+|**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](http://arxiv.org/abs/2602.05812)|null|
+|**2026-02-05**|**Dispersion in nonlinear interferometry: implications for optical coherence tomography with undetected photons**|Ivan Zorin et.al.|[2602.05653](http://arxiv.org/abs/2602.05653)|null|
+|**2026-02-05**|**Simultaneous reconstruction of quantum process and noise via corrupted sensing**|Mengru Ma et.al.|[2602.05604](http://arxiv.org/abs/2602.05604)|null|
+|**2026-02-05**|**Advancing Opinion Dynamics Modeling with Neural Diffusion-Convection-Reaction Equation**|Chenghua Gong et.al.|[2602.05403](http://arxiv.org/abs/2602.05403)|null|
+|**2026-02-04**|**Learning fermionic linear optics with Heisenberg scaling and physical operations**|Aria Christensen et.al.|[2602.05058](http://arxiv.org/abs/2602.05058)|null|
+|**2026-02-04**|**Instance-optimal high-precision shadow tomography with few-copy measurements: A metrological approach**|Senrui Chen et.al.|[2602.04952](http://arxiv.org/abs/2602.04952)|null|
 |**2026-02-04**|**A Parameterized Physics Informed Neural Network Solver for the Navier Stokes Equations Across Reynolds Numbers**|A. Jangir et.al.|[2602.04670](http://arxiv.org/abs/2602.04670)|null|
 |**2026-02-04**|**HoloHema: Digital Holographic Hematology Analyzer**|Andreas Erik Gejl Madsen et.al.|[2602.04618](http://arxiv.org/abs/2602.04618)|null|
 |**2026-02-04**|**Physics-Informed Neural Networks for the Quantum Droplets in Binary Bose-Einstein Condensates**|Dongshuai Liu et.al.|[2602.04590](http://arxiv.org/abs/2602.04590)|null|
@@ -126,6 +134,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**EoCD: Encoder only Remote Sensing Change Detection**|Mubashir Noman et.al.|[2602.05882](http://arxiv.org/abs/2602.05882)|null|
+|**2026-02-05**|**IDSOR: Intensity- and Distance-Aware Statistical Outlier Removal for Weather-Robust LiDAR Point Clouds**|Chenyang Yan et.al.|[2602.05876](http://arxiv.org/abs/2602.05876)|null|
+|**2026-02-05**|**A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion**|Dennis Bank et.al.|[2602.05855](http://arxiv.org/abs/2602.05855)|null|
+|**2026-02-05**|**Unified Sensor Simulation for Autonomous Driving**|Nikolay Patakin et.al.|[2602.05617](http://arxiv.org/abs/2602.05617)|null|
+|**2026-02-05**|**Visual Implicit Geometry Transformer for Autonomous Driving**|Arsenii Shirokov et.al.|[2602.05573](http://arxiv.org/abs/2602.05573)|null|
+|**2026-02-05**|**PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds**|Michael Schwingshackl et.al.|[2602.05557](http://arxiv.org/abs/2602.05557)|null|
+|**2026-02-05**|**A Comparative Study of 3D Person Detection: Sensor Modalities and Robustness in Diverse Indoor and Outdoor Environments**|Malaz Tamim et.al.|[2602.05538](http://arxiv.org/abs/2602.05538)|null|
+|**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|null|
+|**2026-02-05**|**A Migration-Assisted Deep Learning Scheme for Imaging Defects Inside Cylindrical Structures via GPR: A Case Study for Tree Trunks**|Jiwei Qian et.al.|[2602.05308](http://arxiv.org/abs/2602.05308)|null|
+|**2026-02-05**|**Asymptotically optimal sequential change detection for bounded means**|Ashwin Ram et.al.|[2602.05272](http://arxiv.org/abs/2602.05272)|null|
 |**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
 |**2026-02-04**|**Score-Based Change-Point Detection and Region Localization for Spatio-Temporal Point Processes**|Wenbin Zhou et.al.|[2602.04798](http://arxiv.org/abs/2602.04798)|null|
 |**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[2602.04749](http://arxiv.org/abs/2602.04749)|null|
@@ -250,6 +268,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**The Necessity of a Holistic Safety Evaluation Framework for AI-Based Automation Features**|Alireza Abbaspour et.al.|[2602.05157](http://arxiv.org/abs/2602.05157)|null|
+|**2026-02-04**|**Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment**|Liang Wang et.al.|[2602.05110](http://arxiv.org/abs/2602.05110)|null|
+|**2026-02-04**|**VEXA: Evidence-Grounded and Persona-Adaptive Explanations for Scam Risk Sensemaking**|Heajun An et.al.|[2602.05056](http://arxiv.org/abs/2602.05056)|null|
 |**2026-02-04**|**Species Sensitivity Distribution revisited: a Bayesian nonparametric approach**|Louise Alamichel et.al.|[2602.04788](http://arxiv.org/abs/2602.04788)|null|
 |**2026-02-04**|**Passive Incoherent Ultrafast Mid-Infrared Upconversion Imaging and Its Calibration**|Jin-Peng Li et.al.|[2602.04483](http://arxiv.org/abs/2602.04483)|null|
 |**2026-02-04**|**Generative AI in Systems Engineering: A Framework for Risk Assessment of Large Language Models**|Stefan Otten et.al.|[2602.04358](http://arxiv.org/abs/2602.04358)|null|
@@ -312,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|null|
 |**2026-02-03**|**Nota de Política Pública: Quanto de produtividade precisamos para reduzir a jornada de trabalho?**|Victor Rangel et.al.|[2602.03884](http://arxiv.org/abs/2602.03884)|null|
 |**2026-02-03**|**Causal Graph Spatial-Temporal Autoencoder for Reliable and Interpretable Process Monitoring**|Xiangrui Zhang et.al.|[2602.03004](http://arxiv.org/abs/2602.03004)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
@@ -351,6 +373,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
+|**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[2602.05845](http://arxiv.org/abs/2602.05845)|null|
+|**2026-02-05**|**Joint Embedding Variational Bayes**|Amin Oji et.al.|[2602.05639](http://arxiv.org/abs/2602.05639)|null|
+|**2026-02-05**|**ADCA: Attention-Driven Multi-Party Collusion Attack in Federated Self-Supervised Learning**|Jiayao Wang et.al.|[2602.05612](http://arxiv.org/abs/2602.05612)|null|
+|**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[2602.05527](http://arxiv.org/abs/2602.05527)|null|
+|**2026-02-04**|**Feedback Control for Multi-Objective Graph Self-Supervision**|Karish Grover et.al.|[2602.05036](http://arxiv.org/abs/2602.05036)|null|
 |**2026-02-04**|**Temporal Slowness in Central Vision Drives Semantic Object Learning**|Timothy Schaumlöffel et.al.|[2602.04462](http://arxiv.org/abs/2602.04462)|null|
 |**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
 |**2026-02-04**|**Aortic Valve Disease Detection from PPG via Physiology-Informed Self-Supervised Learning**|Jiaze Wang et.al.|[2602.04266](http://arxiv.org/abs/2602.04266)|null|
