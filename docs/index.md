@@ -32,6 +32,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**A Cycle-Consistent Graph Surrogate for Full-Cycle Left Ventricular Myocardial Biomechanics**|Siyu Mu et.al.|[2602.06884](http://arxiv.org/abs/2602.06884)|null|
+|**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[2602.06350](http://arxiv.org/abs/2602.06350)|null|
+|**2026-02-05**|**Exploring Cosmological Tensions with Hubble Parameter Tomography via Linear Cosmography**|Brett Bochner et.al.|[2602.06092](http://arxiv.org/abs/2602.06092)|null|
 |**2026-02-05**|**Visualizing the loss landscapes of physics-informed neural networks**|Conor Rowan et.al.|[2602.05849](http://arxiv.org/abs/2602.05849)|null|
 |**2026-02-05**|**Principled Confidence Estimation for Deep Computed Tomography**|Matteo Gätzner et.al.|[2602.05812](http://arxiv.org/abs/2602.05812)|null|
 |**2026-02-05**|**Dispersion in nonlinear interferometry: implications for optical coherence tomography with undetected photons**|Ivan Zorin et.al.|[2602.05653](http://arxiv.org/abs/2602.05653)|null|
@@ -119,6 +122,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
+|**2026-02-06**|**Gold Exploration using Representations from a Multispectral Autoencoder**|Argyro Tsandalidou et.al.|[2602.06748](http://arxiv.org/abs/2602.06748)|null|
+|**2026-02-06**|**AdaptOVCD: Training-Free Open-Vocabulary Remote Sensing Change Detection via Adaptive Information Fusion**|Mingyu Dou et.al.|[2602.06529](http://arxiv.org/abs/2602.06529)|null|
+|**2026-02-06**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|null|
+|**2026-02-06**|**TFusionOcc: Student's t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2602.06400](http://arxiv.org/abs/2602.06400)|null|
+|**2026-02-06**|**A Consistency-Improved LiDAR-Inertial Bundle Adjustment**|Xinran Li et.al.|[2602.06380](http://arxiv.org/abs/2602.06380)|null|
+|**2026-02-06**|**Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation**|Gensheng Pei et.al.|[2602.06333](http://arxiv.org/abs/2602.06333)|null|
+|**2026-02-06**|**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**|Lucia Gordon et.al.|[2602.06285](http://arxiv.org/abs/2602.06285)|null|
 |**2026-02-05**|**EoCD: Encoder only Remote Sensing Change Detection**|Mubashir Noman et.al.|[2602.05882](http://arxiv.org/abs/2602.05882)|null|
 |**2026-02-05**|**IDSOR: Intensity- and Distance-Aware Statistical Outlier Removal for Weather-Robust LiDAR Point Clouds**|Chenyang Yan et.al.|[2602.05876](http://arxiv.org/abs/2602.05876)|null|
 |**2026-02-05**|**A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion**|Dennis Bank et.al.|[2602.05855](http://arxiv.org/abs/2602.05855)|null|
@@ -247,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction**|Olaf Yunus Laitinen Imanov et.al.|[2602.06129](http://arxiv.org/abs/2602.06129)|null|
 |**2026-02-05**|**The Necessity of a Holistic Safety Evaluation Framework for AI-Based Automation Features**|Alireza Abbaspour et.al.|[2602.05157](http://arxiv.org/abs/2602.05157)|null|
 |**2026-02-04**|**Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment**|Liang Wang et.al.|[2602.05110](http://arxiv.org/abs/2602.05110)|null|
 |**2026-02-04**|**VEXA: Evidence-Grounded and Persona-Adaptive Explanations for Scam Risk Sensemaking**|Heajun An et.al.|[2602.05056](http://arxiv.org/abs/2602.05056)|null|
@@ -308,7 +320,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-05**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|null|
+|**2026-02-06**|**Statistical-Based Metric Threshold Setting Method for Software Fault Prediction in Firmware Projects: An Industrial Experience**|Marco De Luca et.al.|[2602.06831](http://arxiv.org/abs/2602.06831)|null|
+|**2026-02-06**|**Sharp threshold dynamics for a bistable age-structured population model**|Quentin Griette et.al.|[2602.06809](http://arxiv.org/abs/2602.06809)|null|
+|**2026-02-06**|**Theoretical constraints on tidal triggering of slow earthquakes**|Yishuo Zhou et.al.|[2602.06703](http://arxiv.org/abs/2602.06703)|null|
+|**2026-02-06**|**A Human-in-the-Loop, LLM-Centered Architecture for Knowledge-Graph Question Answering**|Larissa Pusch et.al.|[2602.05512](http://arxiv.org/abs/2602.05512)|null|
 |**2026-02-03**|**Nota de Política Pública: Quanto de produtividade precisamos para reduzir a jornada de trabalho?**|Victor Rangel et.al.|[2602.03884](http://arxiv.org/abs/2602.03884)|null|
 |**2026-02-03**|**Causal Graph Spatial-Temporal Autoencoder for Reliable and Interpretable Process Monitoring**|Xiangrui Zhang et.al.|[2602.03004](http://arxiv.org/abs/2602.03004)|null|
 |**2026-02-03**|**Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks**|Harbir Antil et.al.|[2602.02981](http://arxiv.org/abs/2602.02981)|null|
@@ -346,11 +361,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**|Lucia Gordon et.al.|[2602.06285](http://arxiv.org/abs/2602.06285)|null|
+|**2026-02-05**|**ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning**|Aman Anand et.al.|[2602.06251](http://arxiv.org/abs/2602.06251)|null|
+|**2026-02-05**|**STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**|Kaiyuan Zhang et.al.|[2602.06180](http://arxiv.org/abs/2602.06180)|null|
 |**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
 |**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[2602.05845](http://arxiv.org/abs/2602.05845)|null|
 |**2026-02-05**|**Joint Embedding Variational Bayes**|Amin Oji et.al.|[2602.05639](http://arxiv.org/abs/2602.05639)|null|
 |**2026-02-05**|**ADCA: Attention-Driven Multi-Party Collusion Attack in Federated Self-Supervised Learning**|Jiayao Wang et.al.|[2602.05612](http://arxiv.org/abs/2602.05612)|null|
-|**2026-02-05**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[2602.05527](http://arxiv.org/abs/2602.05527)|null|
+|**2026-02-06**|**Generalization of Self-Supervised Vision Transformers for Protein Localization Across Microscopy Domains**|Ben Isselmann et.al.|[2602.05527](http://arxiv.org/abs/2602.05527)|null|
 |**2026-02-04**|**Feedback Control for Multi-Objective Graph Self-Supervision**|Karish Grover et.al.|[2602.05036](http://arxiv.org/abs/2602.05036)|null|
 |**2026-02-04**|**Temporal Slowness in Central Vision Drives Semantic Object Learning**|Timothy Schaumlöffel et.al.|[2602.04462](http://arxiv.org/abs/2602.04462)|null|
 |**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
