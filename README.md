@@ -45,6 +45,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**High-brightness fiber-based Sagnac source of entangled photon pairs for multiplexed quantum networks**|Tess Troisi et.al.|[2602.08863](http://arxiv.org/abs/2602.08863)|null|
+|**2026-02-09**|**The contribution of neutral gas to Faraday tomographic data at low frequencies. A first extensive comparison between real and synthetic data**|Jack Berat et.al.|[2602.08839](http://arxiv.org/abs/2602.08839)|null|
+|**2026-02-09**|**Trajectory Stitching for Solving Inverse Problems with Flow-Based Models**|Alexander Denker et.al.|[2602.08538](http://arxiv.org/abs/2602.08538)|null|
+|**2026-02-09**|**Automatic regularization parameter choice for tomography using a double model approach**|Chuyang Wu et.al.|[2602.08528](http://arxiv.org/abs/2602.08528)|null|
+|**2026-02-09**|**Do physics-informed neural networks (PINNs) need to be deep? Shallow PINNs using the Levenberg-Marquardt algorithm**|Muhammad Luthfi Shahab et.al.|[2602.08515](http://arxiv.org/abs/2602.08515)|null|
+|**2026-02-09**|**Mixing properties of bi-disperse ellipsoid assemblies: Mean-field behaviour in a granular matter experiment**|F. M. Schaller et.al.|[2602.08250](http://arxiv.org/abs/2602.08250)|null|
+|**2026-02-09**|**Preparing squeezed, cat and GKP states with parity measurements**|Zhiyuan Lin et.al.|[2602.08209](http://arxiv.org/abs/2602.08209)|null|
+|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|null|
+|**2026-02-08**|**Continuity-driven Synergistic Diffusion with Neural Priors for Ultra-Sparse-View CBCT Reconstruction**|Junlin Wang et.al.|[2602.07980](http://arxiv.org/abs/2602.07980)|null|
+|**2026-02-08**|**FSP-Diff: Full-Spectrum Prior-Enhanced DualDomain Latent Diffusion for Ultra-Low-Dose Spectral CT Reconstruction**|Peng Peng et.al.|[2602.07979](http://arxiv.org/abs/2602.07979)|null|
 |**2026-02-06**|**A Cycle-Consistent Graph Surrogate for Full-Cycle Left Ventricular Myocardial Biomechanics**|Siyu Mu et.al.|[2602.06884](http://arxiv.org/abs/2602.06884)|null|
 |**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[2602.06350](http://arxiv.org/abs/2602.06350)|null|
 |**2026-02-05**|**Exploring Cosmological Tensions with Hubble Parameter Tomography via Linear Cosmography**|Brett Bochner et.al.|[2602.06092](http://arxiv.org/abs/2602.06092)|null|
@@ -137,6 +147,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Automating the Wildfire Detection and Scheduling Pipeline with Maneuverable Earth Observation Satellites**|Brycen D. Pearl et.al.|[2602.08924](http://arxiv.org/abs/2602.08924)|null|
+|**2026-02-09**|**RFSoC-Based Integrated Navigation and Sensing Using NavIC**|Riya Sachdeva et.al.|[2602.08596](http://arxiv.org/abs/2602.08596)|null|
+|**2026-02-09**|**Graph-Loc: Robust Graph-Based LiDAR Pose Tracking with Compact Structural Map Priors under Low Observability and Occlusion**|Wentao Zhao et.al.|[2602.08417](http://arxiv.org/abs/2602.08417)|null|
+|**2026-02-09**|**Tighnari v2: Mitigating Label Noise and Distribution Shift in Multimodal Plant Distribution Prediction via Mixture of Experts and Weakly Supervised Learning**|Haixu Liu et.al.|[2602.08282](http://arxiv.org/abs/2602.08282)|null|
+|**2026-02-09**|**Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation**|Chufeng Zhou et.al.|[2602.08206](http://arxiv.org/abs/2602.08206)|null|
+|**2026-02-09**|**Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments**|Seoyeon Jang et.al.|[2602.08189](http://arxiv.org/abs/2602.08189)|null|
+|**2026-02-09**|**DAS-SK: An Adaptive Model Integrating Dual Atrous Separable and Selective Kernel CNN for Agriculture Semantic Segmentation**|Mei Ling Chee et.al.|[2602.08168](http://arxiv.org/abs/2602.08168)|null|
+|**2026-02-08**|**MambaFusion: Adaptive State-Space Fusion for Multimodal 3D Object Detection**|Venkatraman Narayanan et.al.|[2602.08126](http://arxiv.org/abs/2602.08126)|null|
+|**2026-02-08**|**Building Damage Detection using Satellite Images and Patch-Based Transformer Methods**|Smriti Siva et.al.|[2602.08117](http://arxiv.org/abs/2602.08117)|null|
+|**2026-02-08**|**MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery**|Sidike Paheding et.al.|[2602.08112](http://arxiv.org/abs/2602.08112)|null|
 |**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
 |**2026-02-06**|**Gold Exploration using Representations from a Multispectral Autoencoder**|Argyro Tsandalidou et.al.|[2602.06748](http://arxiv.org/abs/2602.06748)|null|
 |**2026-02-06**|**AdaptOVCD: Training-Free Open-Vocabulary Remote Sensing Change Detection via Adaptive Information Fusion**|Mingyu Dou et.al.|[2602.06529](http://arxiv.org/abs/2602.06529)|null|
@@ -238,6 +258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**MPM Lite: Linear Kernels and Integration without Particles**|Xiang Feng et.al.|[2602.07853](http://arxiv.org/abs/2602.07853)|null|
 |**2026-02-03**|**Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding**|Joseph Li et.al.|[2602.03099](http://arxiv.org/abs/2602.03099)|null|
 |**2026-02-02**|**Frictional Contact Solving for Material Point Method**|Etienne Ménager et.al.|[2602.02038](http://arxiv.org/abs/2602.02038)|null|
 |**2026-02-02**|**FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization**|Yikun Ma et.al.|[2602.01723](http://arxiv.org/abs/2602.01723)|null|
@@ -279,6 +300,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Scalable Delphi: Large Language Models for Structured Risk Estimation**|Tobias Lorenz et.al.|[2602.08889](http://arxiv.org/abs/2602.08889)|null|
+|**2026-02-08**|**The Development of a Preclinical Alpha Irradiation Platform with Versatile Control of Dose, Dose Rate, and Spatiotemporal Irradiation Patterns**|Harsh Arya et.al.|[2602.07760](http://arxiv.org/abs/2602.07760)|null|
+|**2026-02-07**|**HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology**|Yixin Chen et.al.|[2602.07608](http://arxiv.org/abs/2602.07608)|null|
 |**2026-02-05**|**Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction**|Olaf Yunus Laitinen Imanov et.al.|[2602.06129](http://arxiv.org/abs/2602.06129)|null|
 |**2026-02-05**|**The Necessity of a Holistic Safety Evaluation Framework for AI-Based Automation Features**|Alireza Abbaspour et.al.|[2602.05157](http://arxiv.org/abs/2602.05157)|null|
 |**2026-02-04**|**Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment**|Liang Wang et.al.|[2602.05110](http://arxiv.org/abs/2602.05110)|null|
@@ -345,6 +369,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation**|Pengyu Chang et.al.|[2602.08146](http://arxiv.org/abs/2602.08146)|null|
+|**2026-02-07**|**Model Restrictiveness in Functional and Structural Settings**|Drew Fudenberg et.al.|[2602.07688](http://arxiv.org/abs/2602.07688)|null|
+|**2026-02-07**|**Fractional Filtering and Anomaly-Guided Diagnostics: The Local Damage Mode Extractor (LDME) for Early Gear Fault Detection**|Yaakoub Berrouche et.al.|[2602.07527](http://arxiv.org/abs/2602.07527)|null|
+|**2026-02-07**|**Comprehensive Table of Calculated Huff Factors**|Yuichi Uesaka et.al.|[2602.07501](http://arxiv.org/abs/2602.07501)|null|
+|**2026-02-06**|**Rethinking Scientific Modeling: Toward Physically Consistent and Simulation-Executable Programmatic Generation**|Yongqing Jiang et.al.|[2602.07083](http://arxiv.org/abs/2602.07083)|null|
+|**2026-02-03**|**ST-Raptor: An Agentic System for Semi-Structured Table QA**|Jinxiu Qu et.al.|[2602.07034](http://arxiv.org/abs/2602.07034)|null|
 |**2026-02-06**|**Statistical-Based Metric Threshold Setting Method for Software Fault Prediction in Firmware Projects: An Industrial Experience**|Marco De Luca et.al.|[2602.06831](http://arxiv.org/abs/2602.06831)|null|
 |**2026-02-06**|**Sharp threshold dynamics for a bistable age-structured population model**|Quentin Griette et.al.|[2602.06809](http://arxiv.org/abs/2602.06809)|null|
 |**2026-02-06**|**Theoretical constraints on tidal triggering of slow earthquakes**|Yishuo Zhou et.al.|[2602.06703](http://arxiv.org/abs/2602.06703)|null|
@@ -388,6 +418,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Synergistic cross-modal learning for experimental NMR-based structure elucidation**|Fanjie Xu et.al.|[2602.08752](http://arxiv.org/abs/2602.08752)|null|
+|**2026-02-09**|**PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition**|Xun Su et.al.|[2602.08240](http://arxiv.org/abs/2602.08240)|null|
 |**2026-02-06**|**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**|Lucia Gordon et.al.|[2602.06285](http://arxiv.org/abs/2602.06285)|null|
 |**2026-02-05**|**ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning**|Aman Anand et.al.|[2602.06251](http://arxiv.org/abs/2602.06251)|null|
 |**2026-02-05**|**STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**|Kaiyuan Zhang et.al.|[2602.06180](http://arxiv.org/abs/2602.06180)|null|
