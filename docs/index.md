@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Variability in Performance of a Machine-Learning Seismicity Catalog: Central Italy, 2016-2017**|Jaehong Chung et.al.|[2602.09792](http://arxiv.org/abs/2602.09792)|null|
 |**2026-02-05**|**Galactic seismology: can a disc-crossing impulse explain the large-scale perturbations in the Milky Way's disc?**|Pavadol Yamsiri et.al.|[2602.05296](http://arxiv.org/abs/2602.05296)|null|
 |**2026-02-03**|**Pulse waves in the viscoelastic Kelvin-Voigt model: a revisited approach**|Juan Luis Gonzalez-Santander et.al.|[2602.03897](http://arxiv.org/abs/2602.03897)|null|
 |**2026-02-02**|**Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ring Seismology**|Yubo Su et.al.|[2602.02647](http://arxiv.org/abs/2602.02647)|null|
@@ -32,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks**|Enzo Nicolas Spotorno et.al.|[2602.09980](http://arxiv.org/abs/2602.09980)|null|
+|**2026-02-10**|**Drug Release Modeling using Physics-Informed Neural Networks**|Daanish Aleem Qureshi et.al.|[2602.09963](http://arxiv.org/abs/2602.09963)|null|
+|**2026-02-10**|**Probing Internal Dynamics of Spatiotemporal Optical Vortex Strings: Spatiotemporal Attraction and Filament Stretching**|Xiuyu Yao et.al.|[2602.09941](http://arxiv.org/abs/2602.09941)|null|
+|**2026-02-10**|**A 4D-STEM Tomographic Framework Assisted by Object Tracking for Nanoparticle Structure Solution**|Saleh Gholam et.al.|[2602.09768](http://arxiv.org/abs/2602.09768)|null|
+|**2026-02-10**|**Error-mitigated quantum state tomography using neural networks**|Yixuan Hu et.al.|[2602.09733](http://arxiv.org/abs/2602.09733)|null|
+|**2026-02-10**|**Differentiable Modeling for Low-Inertia Grids: Benchmarking PINNs, NODEs, and DP for Identification and Control of SMIB System**|Shinhoo Kang et.al.|[2602.09667](http://arxiv.org/abs/2602.09667)|null|
+|**2026-02-10**|**Split, Skip and Play: Variance-Reduced ProxSkip for Tomography Reconstruction is Extremely Fast**|Evangelos Papoutsellis et.al.|[2602.09527](http://arxiv.org/abs/2602.09527)|null|
+|**2026-02-10**|**The Trouble with Weak Values**|Jacob A. Barandes et.al.|[2602.09380](http://arxiv.org/abs/2602.09380)|null|
+|**2026-02-10**|**A Trainable-Embedding Quantum Physics-Informed Framework for Multi-Species Reaction-Diffusion Systems**|Ban Q. Tran et.al.|[2602.09291](http://arxiv.org/abs/2602.09291)|null|
+|**2026-02-09**|**Quantum State Characterization of Gravitational Waves via Graviton Counting Statistics**|Kristian Toccacelo et.al.|[2602.09125](http://arxiv.org/abs/2602.09125)|null|
 |**2026-02-09**|**High-brightness fiber-based Sagnac source of entangled photon pairs for multiplexed quantum networks**|Tess Troisi et.al.|[2602.08863](http://arxiv.org/abs/2602.08863)|null|
 |**2026-02-09**|**The contribution of neutral gas to Faraday tomographic data at low frequencies. A first extensive comparison between real and synthetic data**|Jack Berat et.al.|[2602.08839](http://arxiv.org/abs/2602.08839)|null|
 |**2026-02-09**|**Trajectory Stitching for Solving Inverse Problems with Flow-Based Models**|Alexander Denker et.al.|[2602.08538](http://arxiv.org/abs/2602.08538)|null|
@@ -132,6 +143,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**A Collision-Free Sway Damping Model Predictive Controller for Safe and Reactive Forestry Crane Navigation**|Marc-Philip Ecker et.al.|[2602.10035](http://arxiv.org/abs/2602.10035)|null|
+|**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032](http://arxiv.org/abs/2602.10032)|null|
+|**2026-02-10**|**TriPilot-FF: Coordinated Whole-Body Teleoperation with Force Feedback**|Zihao Li et.al.|[2602.09888](http://arxiv.org/abs/2602.09888)|null|
+|**2026-02-10**|**SCA-Net: Spatial-Contextual Aggregation Network for Enhanced Small Building and Road Change Detection**|Emad Gholibeigi et.al.|[2602.09529](http://arxiv.org/abs/2602.09529)|null|
+|**2026-02-10**|**Multimode fiber laser cavities as nonlinear optical processors**|Dilem Eşlik et.al.|[2602.09519](http://arxiv.org/abs/2602.09519)|null|
+|**2026-02-10**|**Bridging the Modality Gap in Roadside LiDAR: A Training-Free Vision-Language Model Framework for Vehicle Classification**|Yiqiao Li et.al.|[2602.09425](http://arxiv.org/abs/2602.09425)|null|
+|**2026-02-09**|**Risk-Aware Obstacle Avoidance Algorithm for Real-Time Applications**|Ozan Kaya et.al.|[2602.09204](http://arxiv.org/abs/2602.09204)|null|
 |**2026-02-09**|**Automating the Wildfire Detection and Scheduling Pipeline with Maneuverable Earth Observation Satellites**|Brycen D. Pearl et.al.|[2602.08924](http://arxiv.org/abs/2602.08924)|null|
 |**2026-02-09**|**RFSoC-Based Integrated Navigation and Sensing Using NavIC**|Riya Sachdeva et.al.|[2602.08596](http://arxiv.org/abs/2602.08596)|null|
 |**2026-02-09**|**Graph-Loc: Robust Graph-Based LiDAR Pose Tracking with Compact Structural Map Priors under Low Observability and Occlusion**|Wentao Zhao et.al.|[2602.08417](http://arxiv.org/abs/2602.08417)|null|
@@ -241,7 +259,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-08**|**MPM Lite: Linear Kernels and Integration without Particles**|Xiang Feng et.al.|[2602.07853](http://arxiv.org/abs/2602.07853)|null|
+|**2026-02-10**|**MPM Lite: Linear Kernels and Integration without Particles**|Xiang Feng et.al.|[2602.07853](http://arxiv.org/abs/2602.07853)|null|
 |**2026-02-03**|**Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding**|Joseph Li et.al.|[2602.03099](http://arxiv.org/abs/2602.03099)|null|
 |**2026-02-02**|**Frictional Contact Solving for Material Point Method**|Etienne Ménager et.al.|[2602.02038](http://arxiv.org/abs/2602.02038)|null|
 |**2026-02-02**|**FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization**|Yikun Ma et.al.|[2602.01723](http://arxiv.org/abs/2602.01723)|null|
@@ -279,6 +297,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**GeoFormer: A Swin Transformer-Based Framework for Scene-Level Building Height and Footprint Estimation from Sentinel Imagery**|Han Jinzhen et.al.|[2602.09932](http://arxiv.org/abs/2602.09932)|null|
+|**2026-02-10**|**Community-Centered Resilience Enhancement of Urban Power and Gas Networks via Microgrid Partitioning, Mobile Energy Storage, and Data-Driven Risk Assessment**|Arya Abdollahi et.al.|[2602.09673](http://arxiv.org/abs/2602.09673)|null|
+|**2026-02-10**|**Trade-Offs in Deploying Legal AI: Insights from a Public Opinion Study to Guide AI Risk Management**|Kimon Kieslich et.al.|[2602.09636](http://arxiv.org/abs/2602.09636)|null|
 |**2026-02-09**|**Scalable Delphi: Large Language Models for Structured Risk Estimation**|Tobias Lorenz et.al.|[2602.08889](http://arxiv.org/abs/2602.08889)|null|
 |**2026-02-08**|**The Development of a Preclinical Alpha Irradiation Platform with Versatile Control of Dose, Dose Rate, and Spatiotemporal Irradiation Patterns**|Harsh Arya et.al.|[2602.07760](http://arxiv.org/abs/2602.07760)|null|
 |**2026-02-07**|**HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology**|Yixin Chen et.al.|[2602.07608](http://arxiv.org/abs/2602.07608)|null|
@@ -344,7 +365,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-08**|**Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation**|Pengyu Chang et.al.|[2602.08146](http://arxiv.org/abs/2602.08146)|null|
+|**2026-02-10**|**Rolling Element Bearing Fault Detection and Diagnosis with One-Dimensional Convolutional Neural Network**|Barathan Pubalan et.al.|[2602.09699](http://arxiv.org/abs/2602.09699)|null|
+|**2026-02-10**|**Performance Comparison of CNN and AST Models with Stacked Features for Environmental Sound Classification**|Parinaz Binandeh Dehaghania et.al.|[2602.09321](http://arxiv.org/abs/2602.09321)|null|
+|**2026-02-10**|**Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation**|Pengyu Chang et.al.|[2602.08146](http://arxiv.org/abs/2602.08146)|null|
 |**2026-02-07**|**Model Restrictiveness in Functional and Structural Settings**|Drew Fudenberg et.al.|[2602.07688](http://arxiv.org/abs/2602.07688)|null|
 |**2026-02-07**|**Fractional Filtering and Anomaly-Guided Diagnostics: The Local Damage Mode Extractor (LDME) for Early Gear Fault Detection**|Yaakoub Berrouche et.al.|[2602.07527](http://arxiv.org/abs/2602.07527)|null|
 |**2026-02-07**|**Comprehensive Table of Calculated Huff Factors**|Yuichi Uesaka et.al.|[2602.07501](http://arxiv.org/abs/2602.07501)|null|
@@ -391,6 +414,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications**|Heitor R. Guimarães et.al.|[2602.09970](http://arxiv.org/abs/2602.09970)|null|
+|**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
+|**2026-02-10**|**Self-Supervised Learning as Discrete Communication**|Kawtar Zaher et.al.|[2602.09764](http://arxiv.org/abs/2602.09764)|null|
 |**2026-02-09**|**Synergistic cross-modal learning for experimental NMR-based structure elucidation**|Fanjie Xu et.al.|[2602.08752](http://arxiv.org/abs/2602.08752)|null|
 |**2026-02-09**|**PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition**|Xun Su et.al.|[2602.08240](http://arxiv.org/abs/2602.08240)|null|
 |**2026-02-06**|**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**|Lucia Gordon et.al.|[2602.06285](http://arxiv.org/abs/2602.06285)|null|
