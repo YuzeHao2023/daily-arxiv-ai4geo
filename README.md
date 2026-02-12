@@ -46,6 +46,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Statistical Learning Analysis of Physics-Informed Neural Networks**|David A. Barajas-Solano et.al.|[2602.11097](http://arxiv.org/abs/2602.11097)|null|
+|**2026-02-11**|**A Diffusion-Based Generative Prior Approach to Sparse-view Computed Tomography**|Davide Evangelista et.al.|[2602.10722](http://arxiv.org/abs/2602.10722)|null|
+|**2026-02-11**|**On the Role of Consistency Between Physics and Data in Physics-Informed Neural Networks**|Nicolás Becerra-Zuniga et.al.|[2602.10611](http://arxiv.org/abs/2602.10611)|null|
+|**2026-02-11**|**Solving PDEs in One Shot via Fourier Features with Exact Analytical Derivatives**|Antonin Sulc et.al.|[2602.10541](http://arxiv.org/abs/2602.10541)|null|
+|**2026-02-10**|**Comp2Comp: Open-Source Software with FDA-Cleared Artificial Intelligence Algorithms for Computed Tomography Image Analysis**|Adrit Rao et.al.|[2602.10364](http://arxiv.org/abs/2602.10364)|null|
+|**2026-02-10**|**Tomography of 1-forms on a gas giant**|Joonas Ilmavirta et.al.|[2602.10322](http://arxiv.org/abs/2602.10322)|null|
 |**2026-02-10**|**Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks**|Enzo Nicolas Spotorno et.al.|[2602.09980](http://arxiv.org/abs/2602.09980)|null|
 |**2026-02-10**|**Drug Release Modeling using Physics-Informed Neural Networks**|Daanish Aleem Qureshi et.al.|[2602.09963](http://arxiv.org/abs/2602.09963)|null|
 |**2026-02-10**|**Probing Internal Dynamics of Spatiotemporal Optical Vortex Strings: Spatiotemporal Attraction and Filament Stretching**|Xiuyu Yao et.al.|[2602.09941](http://arxiv.org/abs/2602.09941)|null|
@@ -158,6 +164,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
+|**2026-02-11**|**Token-Efficient Change Detection in LLM APIs**|Timothée Chauvin et.al.|[2602.11083](http://arxiv.org/abs/2602.11083)|null|
+|**2026-02-11**|**Digging for Data: Experiments in Rock Pile Characterization Using Only Proprioceptive Sensing in Excavation**|Unal Artan et.al.|[2602.11082](http://arxiv.org/abs/2602.11082)|null|
+|**2026-02-11**|**Normalized Surveillance in the Datafied Car: How Autonomous Vehicle Users Rationalize Privacy Trade-offs**|Yehuda Perry et.al.|[2602.11026](http://arxiv.org/abs/2602.11026)|null|
+|**2026-02-11**|**Hyperspectral Smoke Segmentation via Mixture of Prototypes**|Lujian Yao et.al.|[2602.10858](http://arxiv.org/abs/2602.10858)|null|
+|**2026-02-11**|**FPGA Implementation of Sketched LiDAR for a 192 x 128 SPAD Image Sensor**|Zhenya Zang et.al.|[2602.10837](http://arxiv.org/abs/2602.10837)|null|
+|**2026-02-11**|**RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation**|Zihui Zhou et.al.|[2602.10799](http://arxiv.org/abs/2602.10799)|null|
+|**2026-02-11**|**FGAA-FPN: Foreground-Guided Angle-Aware Feature Pyramid Network for Oriented Object Detection**|Jialin Ma et.al.|[2602.10710](http://arxiv.org/abs/2602.10710)|null|
+|**2026-02-11**|**1%>100%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization**|Dongshuo Yin et.al.|[2602.10513](http://arxiv.org/abs/2602.10513)|null|
+|**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492](http://arxiv.org/abs/2602.10492)|null|
 |**2026-02-10**|**A Collision-Free Sway Damping Model Predictive Controller for Safe and Reactive Forestry Crane Navigation**|Marc-Philip Ecker et.al.|[2602.10035](http://arxiv.org/abs/2602.10035)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032](http://arxiv.org/abs/2602.10032)|null|
 |**2026-02-10**|**TriPilot-FF: Coordinated Whole-Body Teleoperation with Force Feedback**|Zihao Li et.al.|[2602.09888](http://arxiv.org/abs/2602.09888)|null|
@@ -318,6 +334,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**CVPL: A Geometric Framework for Post-Hoc Linkage Risk Assessment in Protected Tabular Data**|Valery Khvatov et.al.|[2602.11015](http://arxiv.org/abs/2602.11015)|null|
+|**2026-02-11**|**Integrating granular data into a multilayer network: an interbank model of the euro area for systemic risk assessment**|Ilias Aarab et.al.|[2602.10960](http://arxiv.org/abs/2602.10960)|null|
+|**2026-02-09**|**Exploring Semantic Labeling Strategies for Third-Party Cybersecurity Risk Assessment Questionnaires**|Ali Nour Eldin et.al.|[2602.10149](http://arxiv.org/abs/2602.10149)|null|
 |**2026-02-10**|**GeoFormer: A Swin Transformer-Based Framework for Scene-Level Building Height and Footprint Estimation from Sentinel Imagery**|Han Jinzhen et.al.|[2602.09932](http://arxiv.org/abs/2602.09932)|null|
 |**2026-02-10**|**Community-Centered Resilience Enhancement of Urban Power and Gas Networks via Microgrid Partitioning, Mobile Energy Storage, and Data-Driven Risk Assessment**|Arya Abdollahi et.al.|[2602.09673](http://arxiv.org/abs/2602.09673)|null|
 |**2026-02-10**|**Trade-Offs in Deploying Legal AI: Insights from a Public Opinion Study to Guide AI Risk Management**|Kimon Kieslich et.al.|[2602.09636](http://arxiv.org/abs/2602.09636)|null|
@@ -372,6 +391,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Comparison of generative algorithms for conceptual groundwater modeling of coastal volcanic aquifer features with disparate, sparse and extremely imbalanced data**|Michael J. Friedel et.al.|[2602.10121](http://arxiv.org/abs/2602.10121)|null|
 |**2026-01-22**|**Physics Informed Differentiable Solvers for Learning Parametric Solution Manifolds in Heterogeneous Physical Systems**|Milad Panahi et.al.|[2601.16350](http://arxiv.org/abs/2601.16350)|null|
 |**2026-01-01**|**Effect of Electric Charge on Biotherapeutic Transport, Binding and Absorption: A Computational Study**|Mario de Lucio et.al.|[2601.00505](http://arxiv.org/abs/2601.00505)|null|
 |**2025-12-04**|**Uncertainty Quantification of the Fresh-Saltwater Interface from Time-Domain Electromagnetic Data**|Arsalan Ahmed et.al.|[2512.04437](http://arxiv.org/abs/2512.04437)|null|
@@ -390,10 +410,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Integrating granular data into a multilayer network: an interbank model of the euro area for systemic risk assessment**|Ilias Aarab et.al.|[2602.10960](http://arxiv.org/abs/2602.10960)|null|
+|**2026-02-09**|**Privacy by Voice: Modeling Youth Privacy-Protective Behavior in Smart Voice Assistants**|Molly Campbell et.al.|[2602.10142](http://arxiv.org/abs/2602.10142)|null|
 |**2026-02-10**|**Rolling Element Bearing Fault Detection and Diagnosis with One-Dimensional Convolutional Neural Network**|Barathan Pubalan et.al.|[2602.09699](http://arxiv.org/abs/2602.09699)|null|
 |**2026-02-10**|**Performance Comparison of CNN and AST Models with Stacked Features for Environmental Sound Classification**|Parinaz Binandeh Dehaghania et.al.|[2602.09321](http://arxiv.org/abs/2602.09321)|null|
 |**2026-02-10**|**Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation**|Pengyu Chang et.al.|[2602.08146](http://arxiv.org/abs/2602.08146)|null|
-|**2026-02-07**|**Model Restrictiveness in Functional and Structural Settings**|Drew Fudenberg et.al.|[2602.07688](http://arxiv.org/abs/2602.07688)|null|
+|**2026-02-11**|**Model Restrictiveness in Functional and Structural Settings**|Drew Fudenberg et.al.|[2602.07688](http://arxiv.org/abs/2602.07688)|null|
 |**2026-02-07**|**Fractional Filtering and Anomaly-Guided Diagnostics: The Local Damage Mode Extractor (LDME) for Early Gear Fault Detection**|Yaakoub Berrouche et.al.|[2602.07527](http://arxiv.org/abs/2602.07527)|null|
 |**2026-02-07**|**Comprehensive Table of Calculated Huff Factors**|Yuichi Uesaka et.al.|[2602.07501](http://arxiv.org/abs/2602.07501)|null|
 |**2026-02-06**|**Rethinking Scientific Modeling: Toward Physically Consistent and Simulation-Executable Programmatic Generation**|Yongqing Jiang et.al.|[2602.07083](http://arxiv.org/abs/2602.07083)|null|
@@ -441,8 +463,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
+|**2026-02-11**|**Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning**|Kian Majlessi et.al.|[2602.10744](http://arxiv.org/abs/2602.10744)|null|
+|**2026-02-11**|**A solvable high-dimensional model where nonlinear autoencoders learn structure invisible to PCA while test loss misaligns with generalization**|Vicente Conde Mendes et.al.|[2602.10680](http://arxiv.org/abs/2602.10680)|null|
+|**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
 |**2026-02-10**|**BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications**|Heitor R. Guimarães et.al.|[2602.09970](http://arxiv.org/abs/2602.09970)|null|
-|**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
+|**2026-02-11**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
 |**2026-02-10**|**Self-Supervised Learning as Discrete Communication**|Kawtar Zaher et.al.|[2602.09764](http://arxiv.org/abs/2602.09764)|null|
 |**2026-02-09**|**Synergistic cross-modal learning for experimental NMR-based structure elucidation**|Fanjie Xu et.al.|[2602.08752](http://arxiv.org/abs/2602.08752)|null|
 |**2026-02-09**|**PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition**|Xun Su et.al.|[2602.08240](http://arxiv.org/abs/2602.08240)|null|
