@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations**|Sihui Zhong et.al.|[2602.11884](http://arxiv.org/abs/2602.11884)|null|
 |**2026-02-10**|**Variability in Performance of a Machine-Learning Seismicity Catalog: Central Italy, 2016-2017**|Jaehong Chung et.al.|[2602.09792](http://arxiv.org/abs/2602.09792)|null|
 |**2026-02-05**|**Galactic seismology: can a disc-crossing impulse explain the large-scale perturbations in the Milky Way's disc?**|Pavadol Yamsiri et.al.|[2602.05296](http://arxiv.org/abs/2602.05296)|null|
 |**2026-02-03**|**Pulse waves in the viscoelastic Kelvin-Voigt model: a revisited approach**|Juan Luis Gonzalez-Santander et.al.|[2602.03897](http://arxiv.org/abs/2602.03897)|null|
@@ -33,6 +34,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](http://arxiv.org/abs/2602.11705)|null|
+|**2026-02-12**|**GR-Diffusion: 3D Gaussian Representation Meets Diffusion in Whole-Body PET Reconstruction**|Mengxiao Geng et.al.|[2602.11653](http://arxiv.org/abs/2602.11653)|null|
+|**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](http://arxiv.org/abs/2602.11625)|null|
+|**2026-02-12**|**Supervise-assisted Multi-modality Fusion Diffusion Model for PET Restoration**|Yingkai Zhang et.al.|[2602.11545](http://arxiv.org/abs/2602.11545)|null|
+|**2026-02-11**|**Fighting MRI Anisotropy: Learning Multiple Cardiac Shapes From a Single Implicit Neural Representation**|Carolina Brás et.al.|[2602.11436](http://arxiv.org/abs/2602.11436)|null|
+|**2026-02-11**|**Using a 4-megapixel hybrid photon counting detector for fast, lab-based nanoscale x-ray tomography**|Jordan Fonseca et.al.|[2602.11375](http://arxiv.org/abs/2602.11375)|null|
 |**2026-02-11**|**Statistical Learning Analysis of Physics-Informed Neural Networks**|David A. Barajas-Solano et.al.|[2602.11097](http://arxiv.org/abs/2602.11097)|null|
 |**2026-02-11**|**A Diffusion-Based Generative Prior Approach to Sparse-view Computed Tomography**|Davide Evangelista et.al.|[2602.10722](http://arxiv.org/abs/2602.10722)|null|
 |**2026-02-11**|**On the Role of Consistency Between Physics and Data in Physics-Informed Neural Networks**|Nicolás Becerra-Zuniga et.al.|[2602.10611](http://arxiv.org/abs/2602.10611)|null|
@@ -149,6 +156,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.|[2602.12177](http://arxiv.org/abs/2602.12177)|null|
+|**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
+|**2026-02-12**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al.|[2602.11554](http://arxiv.org/abs/2602.11554)|null|
+|**2026-02-12**|**A Dual-Branch Framework for Semantic Change Detection with Boundary and Temporal Awareness**|Yun-Cheng Li et.al.|[2602.11466](http://arxiv.org/abs/2602.11466)|null|
+|**2026-02-11**|**Revealing Exotic Nanophase Iron in Lunar Samples Through Impact-Driven Spatial Fingerprints**|Ziyu Huang et.al.|[2602.11317](http://arxiv.org/abs/2602.11317)|null|
 |**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
 |**2026-02-11**|**Token-Efficient Change Detection in LLM APIs**|Timothée Chauvin et.al.|[2602.11083](http://arxiv.org/abs/2602.11083)|null|
 |**2026-02-11**|**Digging for Data: Experiments in Rock Pile Characterization Using Only Proprioceptive Sensing in Excavation**|Unal Artan et.al.|[2602.11082](http://arxiv.org/abs/2602.11082)|null|
@@ -275,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Rapid Dissipative Ground State Preparation at Chemical Transition States**|Thomas W. Watts et.al.|[2602.11603](http://arxiv.org/abs/2602.11603)|null|
 |**2026-02-10**|**MPM Lite: Linear Kernels and Integration without Particles**|Xiang Feng et.al.|[2602.07853](http://arxiv.org/abs/2602.07853)|null|
 |**2026-02-03**|**Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding**|Joseph Li et.al.|[2602.03099](http://arxiv.org/abs/2602.03099)|null|
 |**2026-02-02**|**Frictional Contact Solving for Material Point Method**|Etienne Ménager et.al.|[2602.02038](http://arxiv.org/abs/2602.02038)|null|
@@ -297,6 +310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
 |**2026-01-12**|**Wattnet: matching electricity consumption with low-carbon, low-water footprint energy supply**|María Castrillo Melguizo et.al.|[2601.11623](http://arxiv.org/abs/2601.11623)|null|
 |**2026-01-06**|**Unraveling Structure-Performance Trade-offs in Porous Transport Layers for PEM Water Electrolysis**|Navneet Goswami et.al.|[2601.03334](http://arxiv.org/abs/2601.03334)|null|
@@ -313,6 +327,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Evaluating LLM Safety Under Repeated Inference via Accelerated Prompt Stress Testing**|Keita Broadwater et.al.|[2602.11786](http://arxiv.org/abs/2602.11786)|null|
+|**2026-02-11**|**Advancing AI Trustworthiness Through Patient Simulation: Risk Assessment of Conversational Agents for Antidepressant Selection**|Md Tanvir Rouf Shawon et.al.|[2602.11391](http://arxiv.org/abs/2602.11391)|null|
+|**2026-02-11**|**Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP**|Zeynab Anbiaee et.al.|[2602.11327](http://arxiv.org/abs/2602.11327)|null|
 |**2026-02-11**|**CVPL: A Geometric Framework for Post-Hoc Linkage Risk Assessment in Protected Tabular Data**|Valery Khvatov et.al.|[2602.11015](http://arxiv.org/abs/2602.11015)|null|
 |**2026-02-11**|**Integrating granular data into a multilayer network: an interbank model of the euro area for systemic risk assessment**|Ilias Aarab et.al.|[2602.10960](http://arxiv.org/abs/2602.10960)|null|
 |**2026-02-09**|**Exploring Semantic Labeling Strategies for Third-Party Cybersecurity Risk Assessment Questionnaires**|Ali Nour Eldin et.al.|[2602.10149](http://arxiv.org/abs/2602.10149)|null|
@@ -385,6 +402,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**The Radius Cliff is a Waterfall: Explaining Sub-Neptune Exoplanets with Steam Worlds**|Aritra Chakrabarty et.al.|[2602.11923](http://arxiv.org/abs/2602.11923)|null|
+|**2026-02-12**|**Eigenfracture approximation of quasi-static crack growth in brittle materials**|Ba Duc Duong et.al.|[2602.11915](http://arxiv.org/abs/2602.11915)|null|
+|**2026-02-12**|**Search-Based Quantum Program Testing via Commuting Pauli String**|Asmar Muqeet et.al.|[2602.11487](http://arxiv.org/abs/2602.11487)|null|
 |**2026-02-11**|**Integrating granular data into a multilayer network: an interbank model of the euro area for systemic risk assessment**|Ilias Aarab et.al.|[2602.10960](http://arxiv.org/abs/2602.10960)|null|
 |**2026-02-09**|**Privacy by Voice: Modeling Youth Privacy-Protective Behavior in Smart Voice Assistants**|Molly Campbell et.al.|[2602.10142](http://arxiv.org/abs/2602.10142)|null|
 |**2026-02-10**|**Rolling Element Bearing Fault Detection and Diagnosis with One-Dimensional Convolutional Neural Network**|Barathan Pubalan et.al.|[2602.09699](http://arxiv.org/abs/2602.09699)|null|
@@ -436,6 +456,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao et.al.|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**Brain4FMs: A Benchmark of Foundation Models for Electrical Brain Signal**|Fanqi Shen et.al.|[2602.11558](http://arxiv.org/abs/2602.11558)|null|
+|**2026-02-12**|**Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis**|De-Xing Huang et.al.|[2602.11536](http://arxiv.org/abs/2602.11536)|null|
+|**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
 |**2026-02-11**|**Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning**|Kian Majlessi et.al.|[2602.10744](http://arxiv.org/abs/2602.10744)|null|
 |**2026-02-11**|**A solvable high-dimensional model where nonlinear autoencoders learn structure invisible to PCA while test loss misaligns with generalization**|Vicente Conde Mendes et.al.|[2602.10680](http://arxiv.org/abs/2602.10680)|null|
