@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**The Effect of Gravitational Stratification on Kink Oscillations in Curved Coronal Loops**|Mingzhe Guo et.al.|[2602.12890](http://arxiv.org/abs/2602.12890)|null|
+|**2026-02-12**|**Detecting Spatiotemporal b-Value Anomalies with a Progressive Deep Learning Architecture**|Jonas Köhler et.al.|[2602.12408](http://arxiv.org/abs/2602.12408)|null|
+|**2026-02-12**|**Excitation and Damping of Oscillation Modes in Gaseous Planets**|Jim Fuller et.al.|[2602.12348](http://arxiv.org/abs/2602.12348)|null|
 |**2026-02-12**|**Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations**|Sihui Zhong et.al.|[2602.11884](http://arxiv.org/abs/2602.11884)|null|
 |**2026-02-10**|**Variability in Performance of a Machine-Learning Seismicity Catalog: Central Italy, 2016-2017**|Jaehong Chung et.al.|[2602.09792](http://arxiv.org/abs/2602.09792)|null|
 |**2026-02-05**|**Galactic seismology: can a disc-crossing impulse explain the large-scale perturbations in the Milky Way's disc?**|Pavadol Yamsiri et.al.|[2602.05296](http://arxiv.org/abs/2602.05296)|null|
@@ -34,6 +37,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Comparative Study of Ultrasound Shape Completion and CBCT-Based AR Workflows for Spinal Needle Interventions**|Tianyu Song et.al.|[2602.12920](http://arxiv.org/abs/2602.12920)|null|
+|**2026-02-13**|**Ultrasound-Guided Real-Time Spinal Motion Visualization for Spinal Instability Assessment**|Feng Li et.al.|[2602.12917](http://arxiv.org/abs/2602.12917)|null|
+|**2026-02-13**|**Towards reconstructing experimental sparse-view X-ray CT data with diffusion models**|Nelas J. Thomsen et.al.|[2602.12755](http://arxiv.org/abs/2602.12755)|null|
+|**2026-02-13**|**Image-based investigation of the zebrafish developmental process using in vivo dynamic and multi-contrast optical coherence tomography**|Cunyou Bao et.al.|[2602.12655](http://arxiv.org/abs/2602.12655)|null|
+|**2026-02-13**|**Compressed Sensing Shadow Tomography**|Joseph Barreto et.al.|[2602.12518](http://arxiv.org/abs/2602.12518)|null|
+|**2026-02-12**|**A Machine Learning Approach to the Nirenberg Problem**|Gianfranco Cortés et.al.|[2602.12368](http://arxiv.org/abs/2602.12368)|null|
 |**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](http://arxiv.org/abs/2602.11705)|null|
 |**2026-02-12**|**GR-Diffusion: 3D Gaussian Representation Meets Diffusion in Whole-Body PET Reconstruction**|Mengxiao Geng et.al.|[2602.11653](http://arxiv.org/abs/2602.11653)|null|
 |**2026-02-12**|**PLOT-CT: Pre-log Voronoi Decomposition Assisted Generation for Low-dose CT Reconstruction**|Bin Huang et.al.|[2602.11625](http://arxiv.org/abs/2602.11625)|null|
@@ -156,6 +165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022](http://arxiv.org/abs/2602.13022)|null|
+|**2026-02-13**|**X-VORTEX: Spatio-Temporal Contrastive Learning for Wake Vortex Trajectory Forecasting**|Zhan Qu et.al.|[2602.12869](http://arxiv.org/abs/2602.12869)|null|
+|**2026-02-13**|**TRANS: Terrain-aware Reinforcement Learning for Agile Navigation of Quadruped Robots under Social Interactions**|Wei Zhu et.al.|[2602.12724](http://arxiv.org/abs/2602.12724)|null|
+|**2026-02-13**|**CBEN -- A Multimodal Machine Learning Dataset for Cloud Robust Remote Sensing Image Understanding**|Marco Stricker et.al.|[2602.12652](http://arxiv.org/abs/2602.12652)|null|
+|**2026-02-13**|**Vehicle behaviour estimation for abnormal event detection using distributed fiber optic sensing**|Hemant Prasad et.al.|[2602.12591](http://arxiv.org/abs/2602.12591)|null|
+|**2026-02-13**|**Self-Supervised JEPA-based World Models for LiDAR Occupancy Completion and Forecasting**|Haoran Zhu et.al.|[2602.12540](http://arxiv.org/abs/2602.12540)|null|
+|**2026-02-13**|**LiDAR-Anchored Collaborative Distillation for Robust 2D Representations**|Wonjun Jo et.al.|[2602.12524](http://arxiv.org/abs/2602.12524)|null|
+|**2026-02-13**|**Compressed Sensing Shadow Tomography**|Joseph Barreto et.al.|[2602.12518](http://arxiv.org/abs/2602.12518)|null|
+|**2026-02-13**|**Matching of SAR and optical images based on transformation to shared modality**|Alexey Borisov et.al.|[2602.12515](http://arxiv.org/abs/2602.12515)|null|
+|**2026-02-12**|**Visible and Hyperspectral Imaging for Quality Assessment of Milk: Property Characterisation and Identification**|Massimo Martinelli et.al.|[2602.12313](http://arxiv.org/abs/2602.12313)|null|
 |**2026-02-12**|**EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.|[2602.12177](http://arxiv.org/abs/2602.12177)|null|
 |**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
 |**2026-02-12**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al.|[2602.11554](http://arxiv.org/abs/2602.11554)|null|
@@ -287,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scalable Changepoint Detection for Large Spatiotemporal Data on the Sphere**|Samantha Shi-Jun et.al.|[2602.12435](http://arxiv.org/abs/2602.12435)|null|
 |**2026-02-12**|**Rapid Dissipative Ground State Preparation at Chemical Transition States**|Thomas W. Watts et.al.|[2602.11603](http://arxiv.org/abs/2602.11603)|null|
 |**2026-02-10**|**MPM Lite: Linear Kernels and Integration without Particles**|Xiang Feng et.al.|[2602.07853](http://arxiv.org/abs/2602.07853)|null|
 |**2026-02-03**|**Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding**|Joseph Li et.al.|[2602.03099](http://arxiv.org/abs/2602.03099)|null|
@@ -327,6 +347,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication**|Nan Lu et.al.|[2602.12941](http://arxiv.org/abs/2602.12941)|null|
 |**2026-02-12**|**Evaluating LLM Safety Under Repeated Inference via Accelerated Prompt Stress Testing**|Keita Broadwater et.al.|[2602.11786](http://arxiv.org/abs/2602.11786)|null|
 |**2026-02-11**|**Advancing AI Trustworthiness Through Patient Simulation: Risk Assessment of Conversational Agents for Antidepressant Selection**|Md Tanvir Rouf Shawon et.al.|[2602.11391](http://arxiv.org/abs/2602.11391)|null|
 |**2026-02-11**|**Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP**|Zeynab Anbiaee et.al.|[2602.11327](http://arxiv.org/abs/2602.11327)|null|
@@ -402,6 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Physics-Informed Glass-Structure Descriptors for Assessing the Intrinsic Reactivity of Mixed Amorphous-Crystalline Precursors in Alkali-Activated Materials**|Zhu Pan et.al.|[2602.13101](http://arxiv.org/abs/2602.13101)|null|
 |**2026-02-12**|**The Radius Cliff is a Waterfall: Explaining Sub-Neptune Exoplanets with Steam Worlds**|Aritra Chakrabarty et.al.|[2602.11923](http://arxiv.org/abs/2602.11923)|null|
 |**2026-02-12**|**Eigenfracture approximation of quasi-static crack growth in brittle materials**|Ba Duc Duong et.al.|[2602.11915](http://arxiv.org/abs/2602.11915)|null|
 |**2026-02-12**|**Search-Based Quantum Program Testing via Commuting Pauli String**|Asmar Muqeet et.al.|[2602.11487](http://arxiv.org/abs/2602.11487)|null|
@@ -456,6 +478,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**LiDAR-Anchored Collaborative Distillation for Robust 2D Representations**|Wonjun Jo et.al.|[2602.12524](http://arxiv.org/abs/2602.12524)|null|
+|**2026-02-12**|**Zero-Shot Adaptation to Robot Structural Damage via Natural Language-Informed Kinodynamics Modeling**|Anuj Pokhrel et.al.|[2602.12385](http://arxiv.org/abs/2602.12385)|null|
 |**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
 |**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
 |**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao et.al.|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
