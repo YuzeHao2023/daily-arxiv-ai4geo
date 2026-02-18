@@ -51,6 +51,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Intracoronary Optical Coherence Tomography Image Processing and Vessel Classification Using Machine Learning**|Amal Lahchim et.al.|[2602.15579](http://arxiv.org/abs/2602.15579)|null|
+|**2026-02-17**|**Total variation regularization with reduced basis in electrical impedance tomography**|A. Hannukainen et.al.|[2602.15399](http://arxiv.org/abs/2602.15399)|null|
+|**2026-02-16**|**Tomography by Design: An Algebraic Approach to Low-Rank Quantum States**|Shakir Showkat Sofi et.al.|[2602.15202](http://arxiv.org/abs/2602.15202)|null|
+|**2026-02-16**|**StrokeNeXt: A Siamese-encoder Approach for Brain Stroke Classification in Computed Tomography Imagery**|Leo Thomas Ramos et.al.|[2602.15087](http://arxiv.org/abs/2602.15087)|null|
 |**2026-02-16**|**Gradient Networks for Universal Magnetic Modeling of Synchronous Machines**|Junyi Li et.al.|[2602.14947](http://arxiv.org/abs/2602.14947)|null|
 |**2026-02-16**|**CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography**|Qingqing Zhu et.al.|[2602.14879](http://arxiv.org/abs/2602.14879)|null|
 |**2026-02-16**|**BEACONS: Bounded-Error, Algebraically-Composable Neural Solvers for Partial Differential Equations**|Jonathan Gorard et.al.|[2602.14853](http://arxiv.org/abs/2602.14853)|null|
@@ -191,6 +195,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Rethinking Metrics for Lexical Semantic Change Detection**|Roksana Goworek et.al.|[2602.15716](http://arxiv.org/abs/2602.15716)|null|
+|**2026-02-17**|**Physics-Informed Anomaly Detection of Terrain Material Change in Radar Imagery**|Abdel Hakiem Mohamed Abbas Mohamed Ahmed et.al.|[2602.15618](http://arxiv.org/abs/2602.15618)|null|
+|**2026-02-17**|**An Industrial Dataset for Scene Acquisitions and Functional Schematics Alignment**|Flavien Armangeon et.al.|[2602.15584](http://arxiv.org/abs/2602.15584)|null|
+|**2026-02-17**|**AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents**|Zhixing Zhang et.al.|[2602.15325](http://arxiv.org/abs/2602.15325)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
 |**2026-02-16**|**Cross-view Domain Generalization via Geometric Consistency for LiDAR Semantic Segmentation**|Jindong Zhao et.al.|[2602.14525](http://arxiv.org/abs/2602.14525)|null|
 |**2026-02-16**|**AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation**|Morgan Byrd et.al.|[2602.14363](http://arxiv.org/abs/2602.14363)|null|
@@ -477,6 +485,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Latent Regularization in Generative Test Input Generation**|Giorgi Merabishvili et.al.|[2602.15552](http://arxiv.org/abs/2602.15552)|null|
+|**2026-02-17**|**Benchmarking IoT Time-Series AD with Event-Level Augmentations**|Dmitry Zhevnenko et.al.|[2602.15457](http://arxiv.org/abs/2602.15457)|null|
 |**2026-02-16**|**Fault Detection in Electrical Distribution System using Autoencoders**|Sidharthenee Nayak et.al.|[2602.14939](http://arxiv.org/abs/2602.14939)|null|
 |**2026-02-15**|**Reverse N-Wise Output-Oriented Testing for AI/ML and Quantum Computing Systems**|Lamine Rihani et.al.|[2602.14275](http://arxiv.org/abs/2602.14275)|null|
 |**2026-02-13**|**Physics-Informed Glass-Structure Descriptors for Assessing the Intrinsic Reactivity of Mixed Amorphous-Crystalline Precursors in Alkali-Activated Materials**|Zhu Pan et.al.|[2602.13101](http://arxiv.org/abs/2602.13101)|null|
@@ -536,6 +546,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.|[2602.15484](http://arxiv.org/abs/2602.15484)|null|
+|**2026-02-17**|**Benchmarking Self-Supervised Models for Cardiac Ultrasound View Classification**|Youssef Megahed et.al.|[2602.15339](http://arxiv.org/abs/2602.15339)|null|
+|**2026-02-17**|**What Do Neurons Listen To? A Neuron-level Dissection of a General-purpose Audio Model**|Takao Kawamura et.al.|[2602.15307](http://arxiv.org/abs/2602.15307)|null|
 |**2026-02-16**|**Neurosim: A Fast Simulator for Neuromorphic Robot Perception**|Richeek Das et.al.|[2602.15018](http://arxiv.org/abs/2602.15018)|null|
 |**2026-02-16**|**BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs**|Tianyi Ma et.al.|[2602.14919](http://arxiv.org/abs/2602.14919)|null|
 |**2026-02-16**|**SA-SSL-MOS: Self-supervised Learning MOS Prediction with Spectral Augmentation for Generalized Multi-Rate Speech Assessment**|Fengyuan Cao et.al.|[2602.14785](http://arxiv.org/abs/2602.14785)|null|
