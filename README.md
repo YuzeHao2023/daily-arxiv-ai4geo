@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**An Interpretable Physics Informed Multi-Stream Deep Learning Architecture for the Discrimination between Earthquake, Quarry Blast and Noise**|Nishtha Srivastava et.al.|[2602.15993](http://arxiv.org/abs/2602.15993)|null|
 |**2026-02-15**|**Three-dimensional kink modes in solar coronal slabs: group velocities and their implications for impulsively excited waves**|Jing Liu et.al.|[2602.13952](http://arxiv.org/abs/2602.13952)|null|
 |**2026-02-13**|**The Effect of Gravitational Stratification on Kink Oscillations in Curved Coronal Loops**|Mingzhe Guo et.al.|[2602.12890](http://arxiv.org/abs/2602.12890)|null|
 |**2026-02-12**|**Detecting Spatiotemporal b-Value Anomalies with a Progressive Deep Learning Architecture**|Jonas Köhler et.al.|[2602.12408](http://arxiv.org/abs/2602.12408)|null|
@@ -51,6 +52,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks**|Jithu J. Athalathil et.al.|[2602.16656](http://arxiv.org/abs/2602.16656)|null|
+|**2026-02-18**|**WindDensity-MBIR: Model-Based Iterative Reconstruction for Wind Tunnel 3D Density Estimation**|Karl J. Weisenburger et.al.|[2602.16621](http://arxiv.org/abs/2602.16621)|null|
+|**2026-02-18**|**Bichromatic Quantum Teleportation of Weak Coherent Polarization States on a Metropolitan Fiber**|Zofia A. Borowska et.al.|[2602.16613](http://arxiv.org/abs/2602.16613)|null|
+|**2026-02-18**|**Optical Inversion and Spectral Unmixing of Spectroscopic Photoacoustic Images with Physics-Informed Neural Networks**|Sarkis Ter Martirosyan et.al.|[2602.16357](http://arxiv.org/abs/2602.16357)|null|
+|**2026-02-18**|**Rethinking Input Domains in Physics-Informed Neural Networks via Geometric Compactification Mappings**|Zhenzhen Huang et.al.|[2602.16193](http://arxiv.org/abs/2602.16193)|null|
+|**2026-02-18**|**Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning**|Binghang Lu et.al.|[2602.16167](http://arxiv.org/abs/2602.16167)|null|
+|**2026-02-18**|**Solving BDNK diffusion using physics-informed neural networks**|Vicente Chomalí-Castro et.al.|[2602.16117](http://arxiv.org/abs/2602.16117)|null|
+|**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Tianwei Lin et.al.|[2602.16110](http://arxiv.org/abs/2602.16110)|null|
+|**2026-02-17**|**Non-local physics-informed neural networks for forward and inverse solutions of granular flows**|Saghar Zolfaghari et.al.|[2602.16081](http://arxiv.org/abs/2602.16081)|null|
+|**2026-02-17**|**Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods**|Tanxin Zhu et.al.|[2602.16000](http://arxiv.org/abs/2602.16000)|null|
 |**2026-02-17**|**Intracoronary Optical Coherence Tomography Image Processing and Vessel Classification Using Machine Learning**|Amal Lahchim et.al.|[2602.15579](http://arxiv.org/abs/2602.15579)|null|
 |**2026-02-17**|**Total variation regularization with reduced basis in electrical impedance tomography**|A. Hannukainen et.al.|[2602.15399](http://arxiv.org/abs/2602.15399)|null|
 |**2026-02-16**|**Tomography by Design: An Algebraic Approach to Low-Rank Quantum States**|Shakir Showkat Sofi et.al.|[2602.15202](http://arxiv.org/abs/2602.15202)|null|
@@ -195,6 +206,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|
+|**2026-02-18**|**Propagation Characteristics of the April 21, 2023 CME**|Sandeep Kumar et.al.|[2602.16239](http://arxiv.org/abs/2602.16239)|null|
+|**2026-02-17**|**Device for MHz-rate rastering of arbitrary 2D optical potentials**|Edita Bytyqi et.al.|[2602.16025](http://arxiv.org/abs/2602.16025)|null|
 |**2026-02-17**|**Rethinking Metrics for Lexical Semantic Change Detection**|Roksana Goworek et.al.|[2602.15716](http://arxiv.org/abs/2602.15716)|null|
 |**2026-02-17**|**Physics-Informed Anomaly Detection of Terrain Material Change in Radar Imagery**|Abdel Hakiem Mohamed Abbas Mohamed Ahmed et.al.|[2602.15618](http://arxiv.org/abs/2602.15618)|null|
 |**2026-02-17**|**An Industrial Dataset for Scene Acquisitions and Functional Schematics Alignment**|Flavien Armangeon et.al.|[2602.15584](http://arxiv.org/abs/2602.15584)|null|
@@ -400,6 +414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Phase Transitions in Collective Damage of Civil Structures under Natural Hazards**|Sebin Oh et.al.|[2602.16195](http://arxiv.org/abs/2602.16195)|null|
+|**2026-02-17**|**Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability**|Valentin Dorseuil et.al.|[2602.15919](http://arxiv.org/abs/2602.15919)|null|
 |**2026-02-16**|**Geodetically Anchored 0.30m Digital Elevation Model of the Chandrayaan-3 Vikram Landing Site from Chandrayaan-2 Orbital High Resolution Camera (OHRC) Stereo Imagery**|Chandra Tungathurthi et.al.|[2602.14993](http://arxiv.org/abs/2602.14993)|null|
 |**2026-02-16**|**World Models for Policy Refinement in StarCraft II**|Yixin Zhang et.al.|[2602.14857](http://arxiv.org/abs/2602.14857)|null|
 |**2026-02-15**|**Soft aura topological spaces and rough approximation operators**|Ahu Acikgoz et.al.|[2602.14131](http://arxiv.org/abs/2602.14131)|null|
@@ -485,6 +501,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
+|**2026-02-18**|**Explainability for Fault Detection System in Chemical Processes**|Georgios Gravanis et.al.|[2602.16341](http://arxiv.org/abs/2602.16341)|null|
+|**2026-02-18**|**Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**|Muhammad Fasih Waheed et.al.|[2602.16118](http://arxiv.org/abs/2602.16118)|null|
+|**2026-02-18**|**Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing**|Muhammad Fasih Waheed et.al.|[2602.16108](http://arxiv.org/abs/2602.16108)|null|
+|**2026-02-18**|**Axle Sensor Fusion for Online Continual Wheel Fault Detection in Wayside Railway Monitoring**|Afonso Lourenço et.al.|[2602.16101](http://arxiv.org/abs/2602.16101)|null|
+|**2026-02-17**|**An Interpretable Physics Informed Multi-Stream Deep Learning Architecture for the Discrimination between Earthquake, Quarry Blast and Noise**|Nishtha Srivastava et.al.|[2602.15993](http://arxiv.org/abs/2602.15993)|null|
+|**2026-02-17**|**ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization**|Junbo Jacob Lian et.al.|[2602.15983](http://arxiv.org/abs/2602.15983)|null|
+|**2026-02-17**|**Latent Objective Induction and Diversity-Constrained Selection: Algorithms for Multi-Locale Retrieval Pipelines**|Faruk Alpay et.al.|[2602.15921](http://arxiv.org/abs/2602.15921)|null|
 |**2026-02-17**|**Latent Regularization in Generative Test Input Generation**|Giorgi Merabishvili et.al.|[2602.15552](http://arxiv.org/abs/2602.15552)|null|
 |**2026-02-17**|**Benchmarking IoT Time-Series AD with Event-Level Augmentations**|Dmitry Zhevnenko et.al.|[2602.15457](http://arxiv.org/abs/2602.15457)|null|
 |**2026-02-16**|**Fault Detection in Electrical Distribution System using Autoencoders**|Sidharthenee Nayak et.al.|[2602.14939](http://arxiv.org/abs/2602.14939)|null|
@@ -546,6 +570,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
+|**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
+|**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[2602.15967](http://arxiv.org/abs/2602.15967)|null|
 |**2026-02-17**|**Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.|[2602.15484](http://arxiv.org/abs/2602.15484)|null|
 |**2026-02-17**|**Benchmarking Self-Supervised Models for Cardiac Ultrasound View Classification**|Youssef Megahed et.al.|[2602.15339](http://arxiv.org/abs/2602.15339)|null|
 |**2026-02-17**|**What Do Neurons Listen To? A Neuron-level Dissection of a General-purpose Audio Model**|Takao Kawamura et.al.|[2602.15307](http://arxiv.org/abs/2602.15307)|null|
