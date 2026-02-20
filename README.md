@@ -52,6 +52,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Superiority of Krylov shadow tomography in estimating quantum Fisher information: From bounds to exactness**|Yuan-Hao Wang et.al.|[2602.17361](http://arxiv.org/abs/2602.17361)|null|
+|**2026-02-19**|**Application and Evaluation of the Common Circles Method**|Michael Quellmalz et.al.|[2602.17353](http://arxiv.org/abs/2602.17353)|null|
+|**2026-02-19**|**Raster Scan Diffraction Tomography**|Peter Elbau et.al.|[2602.17351](http://arxiv.org/abs/2602.17351)|null|
+|**2026-02-19**|**Invertibility of the Fourier Diffraction Relation in Raster Scan Diffraction Tomography**|Peter Elbau et.al.|[2602.17344](http://arxiv.org/abs/2602.17344)|null|
+|**2026-02-19**|**Gaussian surrogates do well on Poisson inverse problems**|Alexandra Spitzer et.al.|[2602.17274](http://arxiv.org/abs/2602.17274)|null|
+|**2026-02-19**|**Safe Continuous-time Multi-Agent Reinforcement Learning via Epigraph Form**|Xuefeng Wang et.al.|[2602.17078](http://arxiv.org/abs/2602.17078)|null|
+|**2026-02-18**|**Theory of striped dynamic spectra of the Crab pulsar high-frequency interpulse**|Mikhail V. Medvedev et.al.|[2602.16955](http://arxiv.org/abs/2602.16955)|null|
+|**2026-02-18**|**C3NN-SBI: Learning Hierarchies of $N$ -Point Statistics from Cosmological Fields with Physics-Informed Neural Networks**|Kai Lehman et.al.|[2602.16768](http://arxiv.org/abs/2602.16768)|null|
 |**2026-02-18**|**Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks**|Jithu J. Athalathil et.al.|[2602.16656](http://arxiv.org/abs/2602.16656)|null|
 |**2026-02-18**|**WindDensity-MBIR: Model-Based Iterative Reconstruction for Wind Tunnel 3D Density Estimation**|Karl J. Weisenburger et.al.|[2602.16621](http://arxiv.org/abs/2602.16621)|null|
 |**2026-02-18**|**Bichromatic Quantum Teleportation of Weak Coherent Polarization States on a Metropolitan Fiber**|Zofia A. Borowska et.al.|[2602.16613](http://arxiv.org/abs/2602.16613)|null|
@@ -206,6 +214,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|
+|**2026-02-19**|**A High-Level Survey of Optical Remote Sensing**|Panagiotis Koletsis et.al.|[2602.17397](http://arxiv.org/abs/2602.17397)|null|
+|**2026-02-19**|**Contact-Anchored Proprioceptive Odometry for Quadruped Robots**|Minxing Sun et.al.|[2602.17393](http://arxiv.org/abs/2602.17393)|null|
+|**2026-02-19**|**Tree crop mapping of South America reveals links to deforestation and conservation**|Yuchang Jiang et.al.|[2602.17372](http://arxiv.org/abs/2602.17372)|null|
+|**2026-02-19**|**Physics Encoded Spatial and Temporal Generative Adversarial Network for Tropical Cyclone Image Super-resolution**|Ruoyi Zhang et.al.|[2602.17277](http://arxiv.org/abs/2602.17277)|null|
+|**2026-02-19**|**A Multi-modal Detection System for Infrastructure-based Freight Signal Priority**|Ziyan Zhang et.al.|[2602.17252](http://arxiv.org/abs/2602.17252)|null|
+|**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|null|
+|**2026-02-18**|**Boreas Road Trip: A Multi-Sensor Autonomous Driving Dataset on Challenging Roads**|Daniil Lisus et.al.|[2602.16870](http://arxiv.org/abs/2602.16870)|null|
 |**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|
 |**2026-02-18**|**Propagation Characteristics of the April 21, 2023 CME**|Sandeep Kumar et.al.|[2602.16239](http://arxiv.org/abs/2602.16239)|null|
 |**2026-02-17**|**Device for MHz-rate rastering of arbitrary 2D optical potentials**|Edita Bytyqi et.al.|[2602.16025](http://arxiv.org/abs/2602.16025)|null|
@@ -366,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting**|Yicheng Cao et.al.|[2602.17117](http://arxiv.org/abs/2602.17117)|null|
 |**2026-02-16**|**A unified framework for evaluating the robustness of machine-learning interpretability for prospect risking**|Prithwijit Chowdhury et.al.|[2602.14430](http://arxiv.org/abs/2602.14430)|null|
 |**2026-02-13**|**Non-Uniform Quantum Fourier Transform**|Junaid Aftab et.al.|[2602.13472](http://arxiv.org/abs/2602.13472)|null|
 |**2026-02-13**|**Quantum Algorithm Framework for Phase-Contrast Transmission Electron Microscopy Image Simulation**|Sean D. Lam et.al.|[2602.13438](http://arxiv.org/abs/2602.13438)|null|
@@ -414,6 +431,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Astra: AI Safety, Trust, & Risk Assessment**|Pranav Aggarwal et.al.|[2602.17357](http://arxiv.org/abs/2602.17357)|null|
+|**2026-02-19**|**The Sound of Death: Deep Learning Reveals Vascular Damage from Carotid Ultrasound**|Christoph Balada et.al.|[2602.17321](http://arxiv.org/abs/2602.17321)|null|
 |**2026-02-18**|**Phase Transitions in Collective Damage of Civil Structures under Natural Hazards**|Sebin Oh et.al.|[2602.16195](http://arxiv.org/abs/2602.16195)|null|
 |**2026-02-17**|**Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability**|Valentin Dorseuil et.al.|[2602.15919](http://arxiv.org/abs/2602.15919)|null|
 |**2026-02-16**|**Geodetically Anchored 0.30m Digital Elevation Model of the Chandrayaan-3 Vikram Landing Site from Chandrayaan-2 Orbital High Resolution Camera (OHRC) Stereo Imagery**|Chandra Tungathurthi et.al.|[2602.14993](http://arxiv.org/abs/2602.14993)|null|
@@ -501,6 +520,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
+|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
+|**2026-02-19**|**An extension to reversible jump Markov chain Monte Carlo for change point problems with heterogeneous temporal dynamics**|Emily Gribbin et.al.|[2602.17503](http://arxiv.org/abs/2602.17503)|null|
+|**2026-02-19**|**Terrestrial Analogs to Titan for Geophysical Research**|Conor A. Nixon et.al.|[2602.17464](http://arxiv.org/abs/2602.17464)|null|
 |**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
 |**2026-02-18**|**Explainability for Fault Detection System in Chemical Processes**|Georgios Gravanis et.al.|[2602.16341](http://arxiv.org/abs/2602.16341)|null|
 |**2026-02-18**|**Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**|Muhammad Fasih Waheed et.al.|[2602.16118](http://arxiv.org/abs/2602.16118)|null|
@@ -570,6 +593,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
 |**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
 |**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
 |**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[2602.15967](http://arxiv.org/abs/2602.15967)|null|
