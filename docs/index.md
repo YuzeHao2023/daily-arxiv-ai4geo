@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems**|Yongsheng Chen et.al.|[2602.19967](http://arxiv.org/abs/2602.19967)|null|
+|**2026-02-23**|**Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images**|Wen-Liang Lin et.al.|[2602.19891](http://arxiv.org/abs/2602.19891)|null|
+|**2026-02-23**|**Magnon squeezing in the quantum regime**|Yuan-Chao Weng et.al.|[2602.19671](http://arxiv.org/abs/2602.19671)|null|
+|**2026-02-23**|**A Green Learning Approach to LDCT Image Restoration**|Wei Wang et.al.|[2602.19540](http://arxiv.org/abs/2602.19540)|null|
+|**2026-02-23**|**The Hydrostatic Mass Bias and the $σ_8$ Tension: A Multi-Probe Forecast for Stage-IV/V Surveys**|Ayodeji Ibitoye et.al.|[2602.19478](http://arxiv.org/abs/2602.19478)|null|
+|**2026-02-23**|**Scale-PINN: Learning Efficient Physics-Informed Neural Networks Through Sequential Correction**|Pao-Hsiung Chiu et.al.|[2602.19475](http://arxiv.org/abs/2602.19475)|null|
+|**2026-02-22**|**RetinaVision: XAI-Driven Augmented Regulation for Precise Retinal Disease Classification using deep learning framework**|Mohammad Tahmid Noor et.al.|[2602.19324](http://arxiv.org/abs/2602.19324)|null|
+|**2026-02-22**|**Learning partial transpose signatures in qubit ququart states from a few measurements**|Christian Candeago et.al.|[2602.19307](http://arxiv.org/abs/2602.19307)|null|
+|**2026-02-22**|**Spectral bias in physics-informed and operator learning: Analysis and mitigation guidelines**|Siavash Khodakarami et.al.|[2602.19265](http://arxiv.org/abs/2602.19265)|null|
+|**2026-02-21**|**Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L**|KenHee Ryou et.al.|[2602.18954](http://arxiv.org/abs/2602.18954)|null|
 |**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
 |**2026-02-20**|**Reconfigurable Geometric Phase Matching by Multilayered Nonlinear Thin-Film Crystals**|Danielle Ben-Haim et.al.|[2602.18418](http://arxiv.org/abs/2602.18418)|null|
 |**2026-02-20**|**Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study**|Orfeas Bourchas et.al.|[2602.18403](http://arxiv.org/abs/2602.18403)|null|
@@ -209,6 +219,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach**|Fabio Busacca et.al.|[2602.20105](http://arxiv.org/abs/2602.20105)|null|
+|**2026-02-23**|**RADE-Net: Robust Attention Network for Radar-Only Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[2602.19994](http://arxiv.org/abs/2602.19994)|null|
+|**2026-02-23**|**Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations**|Blaž Rolih et.al.|[2602.19881](http://arxiv.org/abs/2602.19881)|null|
+|**2026-02-23**|**Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|[2602.19863](http://arxiv.org/abs/2602.19863)|null|
+|**2026-02-23**|**InfScene-SR: Spatially Continuous Inference for Arbitrary-Size Image Super-Resolution**|Shoukun Sun et.al.|[2602.19736](http://arxiv.org/abs/2602.19736)|null|
+|**2026-02-23**|**VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments**|Jingyi Xu et.al.|[2602.19735](http://arxiv.org/abs/2602.19735)|null|
+|**2026-02-23**|**Satellite-Based Detection of Looted Archaeological Sites Using Machine Learning**|Girmaw Abebe Tadesse et.al.|[2602.19608](http://arxiv.org/abs/2602.19608)|null|
+|**2026-02-22**|**UP-Fuse: Uncertainty-guided LiDAR-Camera Fusion for 3D Panoptic Segmentation**|Rohit Mohan et.al.|[2602.19349](http://arxiv.org/abs/2602.19349)|null|
+|**2026-02-22**|**Knowledge-aware Visual Question Generation for Remote Sensing Images**|Siran Li et.al.|[2602.19224](http://arxiv.org/abs/2602.19224)|null|
+|**2026-02-22**|**Questions beyond Pixels: Integrating Commonsense Knowledge in Visual Question Generation for Remote Sensing**|Siran Li et.al.|[2602.19217](http://arxiv.org/abs/2602.19217)|null|
 |**2026-02-20**|**Quantum-enhanced satellite image classification**|Qi Zhang et.al.|[2602.18350](http://arxiv.org/abs/2602.18350)|null|
 |**2026-02-20**|**GrandTour: A Legged Robotics Dataset in the Wild for Multi-Modal Perception and State Estimation**|Jonas Frey et.al.|[2602.18164](http://arxiv.org/abs/2602.18164)|null|
 |**2026-02-20**|**Comparative Assessment of Multimodal Earth Observation Data for Soil Moisture Estimation**|Ioannis Kontogiorgakis et.al.|[2602.18083](http://arxiv.org/abs/2602.18083)|null|
@@ -427,6 +447,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Spatio-temporal modeling of urban extreme rainfall events at high resolution**|Chloé Serre-Combe et.al.|[2602.19774](http://arxiv.org/abs/2602.19774)|null|
+|**2026-02-23**|**Beyond the Binary: A nuanced path for open-weight advanced AI**|Bengüsu Özcan et.al.|[2602.19682](http://arxiv.org/abs/2602.19682)|null|
+|**2026-02-22**|**Safety Acquisitions: Redundancy for non-repeatable multi-orbit STIS visits**|Matthew M. Dallas et.al.|[2602.19286](http://arxiv.org/abs/2602.19286)|null|
 |**2026-02-18**|**Closing Africa's Early Warning Gap: AI Weather Forecasting for Disaster Prevention**|Qness Ndlovu et.al.|[2602.17726](http://arxiv.org/abs/2602.17726)|null|
 |**2026-02-19**|**Astra: AI Safety, Trust, & Risk Assessment**|Pranav Aggarwal et.al.|[2602.17357](http://arxiv.org/abs/2602.17357)|null|
 |**2026-02-19**|**The Sound of Death: Deep Learning Reveals Vascular Damage from Carotid Ultrasound**|Christoph Balada et.al.|[2602.17321](http://arxiv.org/abs/2602.17321)|null|
@@ -515,7 +538,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-20**|**PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting**|Shubham Bhardwaj et.al.|[2602.17998](http://arxiv.org/abs/2602.17998)|null|
 |**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
-|**2026-02-19**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
+|**2026-02-21**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
 |**2026-02-19**|**An extension to reversible jump Markov chain Monte Carlo for change point problems with heterogeneous temporal dynamics**|Emily Gribbin et.al.|[2602.17503](http://arxiv.org/abs/2602.17503)|null|
 |**2026-02-19**|**Terrestrial Analogs to Titan for Geophysical Research**|Conor A. Nixon et.al.|[2602.17464](http://arxiv.org/abs/2602.17464)|null|
 |**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
@@ -585,6 +608,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
+|**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](http://arxiv.org/abs/2602.19348)|null|
+|**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
+|**2026-02-21**|**Variational views for self-supervised learning in radio astronomy**|Johnny Joseph Alphonse et.al.|[2602.18923](http://arxiv.org/abs/2602.18923)|null|
+|**2026-02-20**|**Musical Training, but not Mere Exposure to Music, Drives the Emergence of Chroma Equivalence in Artificial Neural Networks**|Lukas Grasse et.al.|[2602.18635](http://arxiv.org/abs/2602.18635)|null|
+|**2026-02-20**|**Audio-Visual Continual Test-Time Adaptation without Forgetting**|Sarthak Kumar Maharana et.al.|[2602.18528](http://arxiv.org/abs/2602.18528)|null|
 |**2026-02-19**|**MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis**|Junkai Liu et.al.|[2602.17901](http://arxiv.org/abs/2602.17901)|null|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
