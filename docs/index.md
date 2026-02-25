@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**The UK and Ireland Geophysical Array -- Concept and Design**|Andrew Curtis et.al.|[2602.20984](http://arxiv.org/abs/2602.20984)|null|
 |**2026-02-17**|**An Interpretable Physics Informed Multi-Stream Deep Learning Architecture for the Discrimination between Earthquake, Quarry Blast and Noise**|Nishtha Srivastava et.al.|[2602.15993](http://arxiv.org/abs/2602.15993)|null|
 |**2026-02-15**|**Three-dimensional kink modes in solar coronal slabs: group velocities and their implications for impulsively excited waves**|Jing Liu et.al.|[2602.13952](http://arxiv.org/abs/2602.13952)|null|
 |**2026-02-13**|**The Effect of Gravitational Stratification on Kink Oscillations in Curved Coronal Loops**|Mingzhe Guo et.al.|[2602.12890](http://arxiv.org/abs/2602.12890)|null|
@@ -39,6 +40,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
+|**2026-02-24**|**Hölder-Logarithmic Stability and Convergence Rates for an Inverse Random Source Problem**|Philipp Mickan et.al.|[2602.20822](http://arxiv.org/abs/2602.20822)|null|
+|**2026-02-24**|**Visual Cooperative Drone Tracking for Open-Path Gas Measurements**|Marius Schaab et.al.|[2602.20768](http://arxiv.org/abs/2602.20768)|null|
+|**2026-02-24**|**The Adaptive Solution of High-Frequency Helmholtz Equations via Multi-Grade Deep Learning**|Peiyao Zhao et.al.|[2602.20719](http://arxiv.org/abs/2602.20719)|null|
+|**2026-02-24**|**Provable orbit recovery over SO(3) from the non-uniform second moment**|Tamir Bendory et.al.|[2602.20590](http://arxiv.org/abs/2602.20590)|null|
+|**2026-02-24**|**Comparing Implicit Neural Representations and B-Splines for Continuous Function Fitting from Sparse Samples**|Hongze Yu et.al.|[2602.20535](http://arxiv.org/abs/2602.20535)|null|
 |**2026-02-23**|**Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems**|Yongsheng Chen et.al.|[2602.19967](http://arxiv.org/abs/2602.19967)|null|
 |**2026-02-23**|**Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images**|Wen-Liang Lin et.al.|[2602.19891](http://arxiv.org/abs/2602.19891)|null|
 |**2026-02-23**|**Magnon squeezing in the quantum regime**|Yuan-Chao Weng et.al.|[2602.19671](http://arxiv.org/abs/2602.19671)|null|
@@ -219,10 +226,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**A quantum mechanical analysis of the coherence de Broglie wavelength for superresolution and enhanced sensitivity in a coupled interferometer scheme**|B. S. Ham et.al.|[2602.20410](http://arxiv.org/abs/2602.20410)|null|
+|**2026-02-23**|**Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.|[2602.20316](http://arxiv.org/abs/2602.20316)|null|
 |**2026-02-23**|**Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach**|Fabio Busacca et.al.|[2602.20105](http://arxiv.org/abs/2602.20105)|null|
 |**2026-02-23**|**RADE-Net: Robust Attention Network for Radar-Only Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[2602.19994](http://arxiv.org/abs/2602.19994)|null|
 |**2026-02-23**|**Make Some Noise: Unsupervised Remote Sensing Change Detection Using Latent Space Perturbations**|Blaž Rolih et.al.|[2602.19881](http://arxiv.org/abs/2602.19881)|null|
-|**2026-02-23**|**Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|[2602.19863](http://arxiv.org/abs/2602.19863)|null|
+|**2026-02-24**|**Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|[2602.19863](http://arxiv.org/abs/2602.19863)|null|
 |**2026-02-23**|**InfScene-SR: Spatially Continuous Inference for Arbitrary-Size Image Super-Resolution**|Shoukun Sun et.al.|[2602.19736](http://arxiv.org/abs/2602.19736)|null|
 |**2026-02-23**|**VGGT-MPR: VGGT-Enhanced Multimodal Place Recognition in Autonomous Driving Environments**|Jingyi Xu et.al.|[2602.19735](http://arxiv.org/abs/2602.19735)|null|
 |**2026-02-23**|**Satellite-Based Detection of Looted Archaeological Sites Using Machine Learning**|Girmaw Abebe Tadesse et.al.|[2602.19608](http://arxiv.org/abs/2602.19608)|null|
@@ -401,6 +410,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials**|Ignacio Loaiza et.al.|[2602.20270](http://arxiv.org/abs/2602.20270)|null|
+|**2026-02-23**|**Quantum Simulations for Extreme Ultraviolet Photolithography**|Tyler D. Kharazi et.al.|[2602.20234](http://arxiv.org/abs/2602.20234)|null|
 |**2026-02-19**|**QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration**|Meng Ye et.al.|[2602.17784](http://arxiv.org/abs/2602.17784)|null|
 |**2026-02-19**|**i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting**|Yicheng Cao et.al.|[2602.17117](http://arxiv.org/abs/2602.17117)|null|
 |**2026-02-16**|**A unified framework for evaluating the robustness of machine-learning interpretability for prospect risking**|Prithwijit Chowdhury et.al.|[2602.14430](http://arxiv.org/abs/2602.14430)|null|
@@ -430,6 +441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
 |**2026-01-12**|**Wattnet: matching electricity consumption with low-carbon, low-water footprint energy supply**|María Castrillo Melguizo et.al.|[2601.11623](http://arxiv.org/abs/2601.11623)|null|
@@ -447,6 +459,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Surrogate impact modelling for crop yield assessment**|Odysseas Vlachopoulos et.al.|[2602.20928](http://arxiv.org/abs/2602.20928)|null|
+|**2026-02-24**|**Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty**|Xu Wan et.al.|[2602.20729](http://arxiv.org/abs/2602.20729)|null|
+|**2026-02-24**|**Vision-Language Models for Ergonomic Assessment of Manual Lifting Tasks: Estimating Horizontal and Vertical Hand Distances from RGB Video**|Mohammad Sadra Rajabi et.al.|[2602.20658](http://arxiv.org/abs/2602.20658)|null|
 |**2026-02-23**|**Spatio-temporal modeling of urban extreme rainfall events at high resolution**|Chloé Serre-Combe et.al.|[2602.19774](http://arxiv.org/abs/2602.19774)|null|
 |**2026-02-23**|**Beyond the Binary: A nuanced path for open-weight advanced AI**|Bengüsu Özcan et.al.|[2602.19682](http://arxiv.org/abs/2602.19682)|null|
 |**2026-02-22**|**Safety Acquisitions: Redundancy for non-repeatable multi-orbit STIS visits**|Matthew M. Dallas et.al.|[2602.19286](http://arxiv.org/abs/2602.19286)|null|
@@ -536,6 +551,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
+|**2026-02-24**|**Synapse-Inspired Energy Networks: A Neuromorphic Approach to Microgrid Protection without Communication Links**|Saurabh Prabhakar et.al.|[2602.20944](http://arxiv.org/abs/2602.20944)|null|
+|**2026-02-24**|**On chromatic number of countable graphs**|Hirotaka Kikyo et.al.|[2602.20667](http://arxiv.org/abs/2602.20667)|null|
 |**2026-02-20**|**PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting**|Shubham Bhardwaj et.al.|[2602.17998](http://arxiv.org/abs/2602.17998)|null|
 |**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
 |**2026-02-21**|**GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking**|Zixu Cheng et.al.|[2602.17555](http://arxiv.org/abs/2602.17555)|null|
@@ -608,6 +626,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
+|**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](http://arxiv.org/abs/2602.19348)|null|
 |**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
