@@ -53,6 +53,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining**|Yuetan Chu et.al.|[2602.22143](http://arxiv.org/abs/2602.22143)|null|
+|**2026-02-25**|**Quantum tomography for non-iid sources**|Leonardo Zambrano et.al.|[2602.22057](http://arxiv.org/abs/2602.22057)|null|
+|**2026-02-25**|**Solving stiff dark matter equations via Jacobian Normalization with Physics-Informed Neural Networks**|M. P. Bento et.al.|[2602.21988](http://arxiv.org/abs/2602.21988)|null|
+|**2026-02-25**|**A Framework for Cross-Domain Generalization in Coronary Artery Calcium Scoring Across Gated and Non-Gated Computed Tomography**|Mahmut S. Gokmen et.al.|[2602.21935](http://arxiv.org/abs/2602.21935)|null|
+|**2026-02-25**|**SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning**|Jiayi Wang et.al.|[2602.21735](http://arxiv.org/abs/2602.21735)|null|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
+|**2026-02-25**|**Physics Informed Neural Network using Finite Difference Method**|Kart Leong Lim et.al.|[2602.21590](http://arxiv.org/abs/2602.21590)|null|
+|**2026-02-24**|**RelA-Diffusion: Relativistic Adversarial Diffusion for Multi-Tracer PET Synthesis from Multi-Sequence MRI**|Minhui Yu et.al.|[2602.21345](http://arxiv.org/abs/2602.21345)|null|
+|**2026-02-24**|**SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks**|Elizabeth S. Z. Tan et.al.|[2602.21307](http://arxiv.org/abs/2602.21307)|null|
 |**2026-02-24**|**Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography**|Xingyi Cheng et.al.|[2602.21195](http://arxiv.org/abs/2602.21195)|null|
 |**2026-02-24**|**Hölder-Logarithmic Stability and Convergence Rates for an Inverse Random Source Problem**|Philipp Mickan et.al.|[2602.20822](http://arxiv.org/abs/2602.20822)|null|
 |**2026-02-24**|**Visual Cooperative Drone Tracking for Open-Path Gas Measurements**|Marius Schaab et.al.|[2602.20768](http://arxiv.org/abs/2602.20768)|null|
@@ -241,6 +250,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.|[2602.22140](http://arxiv.org/abs/2602.22140)|null|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
+|**2026-02-25**|**TIRAuxCloud: A Thermal Infrared Dataset for Day and Night Cloud Detection**|Alexis Apostolakis et.al.|[2602.21905](http://arxiv.org/abs/2602.21905)|null|
+|**2026-02-25**|**LiREC-Net: A Target-Free and Learning-Based Network for LiDAR, RGB, and Event Calibration**|Aditya Ranjan Dash et.al.|[2602.21754](http://arxiv.org/abs/2602.21754)|null|
+|**2026-02-25**|**SF3D-RGB: Scene Flow Estimation from Monocular Camera and Sparse LiDAR**|Rajai Alhimdiat et.al.|[2602.21699](http://arxiv.org/abs/2602.21699)|null|
+|**2026-02-25**|**SEF-MAP: Subspace-Decomposed Expert Fusion for Robust Multimodal HD Map Prediction**|Haoxiang Fu et.al.|[2602.21589](http://arxiv.org/abs/2602.21589)|null|
+|**2026-02-25**|**Deep Unfolding Real-Time Super-Resolution Using Subpixel-Shift Twin Image and Convex Self-Similarity Prior**|Chia-Hsiang Lin et.al.|[2602.21513](http://arxiv.org/abs/2602.21513)|null|
+|**2026-02-23**|**Cross domain Persistent Monitoring for Hybrid Aerial Underwater Vehicles**|Ricardo B. Grando et.al.|[2602.21259](http://arxiv.org/abs/2602.21259)|null|
 |**2026-02-23**|**A quantum mechanical analysis of the coherence de Broglie wavelength for superresolution and enhanced sensitivity in a coupled interferometer scheme**|B. S. Ham et.al.|[2602.20410](http://arxiv.org/abs/2602.20410)|null|
 |**2026-02-23**|**Inspectorch: Efficient rare event exploration in solar observations**|C. J. Díaz Baso et.al.|[2602.20316](http://arxiv.org/abs/2602.20316)|null|
 |**2026-02-23**|**Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach**|Fabio Busacca et.al.|[2602.20105](http://arxiv.org/abs/2602.20105)|null|
@@ -427,9 +444,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-23**|**Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials**|Ignacio Loaiza et.al.|[2602.20270](http://arxiv.org/abs/2602.20270)|null|
+|**2026-02-25**|**Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials**|Ignacio Loaiza et.al.|[2602.20270](http://arxiv.org/abs/2602.20270)|null|
 |**2026-02-23**|**Quantum Simulations for Extreme Ultraviolet Photolithography**|Tyler D. Kharazi et.al.|[2602.20234](http://arxiv.org/abs/2602.20234)|null|
-|**2026-02-19**|**QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration**|Meng Ye et.al.|[2602.17784](http://arxiv.org/abs/2602.17784)|null|
+|**2026-02-24**|**QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration**|Meng Ye et.al.|[2602.17784](http://arxiv.org/abs/2602.17784)|null|
 |**2026-02-19**|**i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting**|Yicheng Cao et.al.|[2602.17117](http://arxiv.org/abs/2602.17117)|null|
 |**2026-02-16**|**A unified framework for evaluating the robustness of machine-learning interpretability for prospect risking**|Prithwijit Chowdhury et.al.|[2602.14430](http://arxiv.org/abs/2602.14430)|null|
 |**2026-02-13**|**Non-Uniform Quantum Fourier Transform**|Junaid Aftab et.al.|[2602.13472](http://arxiv.org/abs/2602.13472)|null|
@@ -480,6 +497,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**|Emannuel L. de A. Bezerra et.al.|[2602.22149](http://arxiv.org/abs/2602.22149)|null|
+|**2026-02-25**|**fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation**|Abeer Dyoub et.al.|[2602.21746](http://arxiv.org/abs/2602.21746)|null|
+|**2026-02-25**|**Towards Structure-Aware Surrogate Modeling: Explicit Region Interaction Improves Knee Contact Stress Prediction**|Zhengye Pan et.al.|[2602.21488](http://arxiv.org/abs/2602.21488)|null|
 |**2026-02-24**|**Surrogate impact modelling for crop yield assessment**|Odysseas Vlachopoulos et.al.|[2602.20928](http://arxiv.org/abs/2602.20928)|null|
 |**2026-02-24**|**Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty**|Xu Wan et.al.|[2602.20729](http://arxiv.org/abs/2602.20729)|null|
 |**2026-02-24**|**Vision-Language Models for Ergonomic Assessment of Manual Lifting Tasks: Estimating Horizontal and Vertical Hand Distances from RGB Video**|Mohammad Sadra Rajabi et.al.|[2602.20658](http://arxiv.org/abs/2602.20658)|null|
@@ -576,8 +596,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**From female choice to social structure: Modeling harem formation in camelids**|Tomás Ignacio González et.al.|[2602.22139](http://arxiv.org/abs/2602.22139)|null|
+|**2026-02-25**|**Geometric Priors for Generalizable World Models via Vector Symbolic Architecture**|William Youngwoo Chung et.al.|[2602.21467](http://arxiv.org/abs/2602.21467)|null|
+|**2026-02-24**|**Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling**|Guancheng Tu et.al.|[2602.21317](http://arxiv.org/abs/2602.21317)|null|
 |**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
-|**2026-02-24**|**Synapse-Inspired Energy Networks: A Neuromorphic Approach to Microgrid Protection without Communication Links**|Saurabh Prabhakar et.al.|[2602.20944](http://arxiv.org/abs/2602.20944)|null|
+|**2026-02-25**|**Synapse-Inspired Energy Networks: A Neuromorphic Approach to Microgrid Protection without Communication Links**|Saurabh Prabhakar et.al.|[2602.20944](http://arxiv.org/abs/2602.20944)|null|
 |**2026-02-24**|**On chromatic number of countable graphs**|Hirotaka Kikyo et.al.|[2602.20667](http://arxiv.org/abs/2602.20667)|null|
 |**2026-02-20**|**PHAST: Port-Hamiltonian Architecture for Structured Temporal Dynamics Forecasting**|Shubham Bhardwaj et.al.|[2602.17998](http://arxiv.org/abs/2602.17998)|null|
 |**2026-02-19**|**Modeling Distinct Human Interaction in Web Agents**|Faria Huq et.al.|[2602.17588](http://arxiv.org/abs/2602.17588)|null|
@@ -653,6 +676,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
 |**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
