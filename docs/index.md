@@ -40,6 +40,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**The extremely low-luminosity Type Iax SNe 2022ywf and 2023zgx**|Barnabás Barna et.al.|[2602.23175](http://arxiv.org/abs/2602.23175)|null|
+|**2026-02-26**|**Quantum thermodynamics and semidefinite programming: regularization and algorithms**|Emanuele Caputo et.al.|[2602.23144](http://arxiv.org/abs/2602.23144)|null|
+|**2026-02-26**|**Information and coherence as resources for work extraction from unknown quantum state and providing quantum advantages**|Tanmoy Biswas et.al.|[2602.22893](http://arxiv.org/abs/2602.22893)|null|
+|**2026-02-26**|**TorchLean: Formalizing Neural Networks in Lean**|Robert Joseph George et.al.|[2602.22631](http://arxiv.org/abs/2602.22631)|null|
+|**2026-02-26**|**DisQ-HNet: A Disentangled Quantized Half-UNet for Interpretable Multimodal Image Synthesis Applications to Tau-PET Synthesis from T1 and FLAIR MRI**|Agamdeep S. Chopra et.al.|[2602.22545](http://arxiv.org/abs/2602.22545)|null|
+|**2026-02-26**|**HARU-Net: Hybrid Attention Residual U-Net for Edge-Preserving Denoising in Cone-Beam Computed Tomography**|Khuram Naveed et.al.|[2602.22544](http://arxiv.org/abs/2602.22544)|null|
+|**2026-02-25**|**Full Waveform Inversion using the Wasserstein metric for ultrasound transducer array based NDT**|Daniel Rossato et.al.|[2602.22378](http://arxiv.org/abs/2602.22378)|null|
 |**2026-02-25**|**MedTri: A Platform for Structured Medical Report Normalization to Enhance Vision-Language Pretraining**|Yuetan Chu et.al.|[2602.22143](http://arxiv.org/abs/2602.22143)|null|
 |**2026-02-25**|**Quantum tomography for non-iid sources**|Leonardo Zambrano et.al.|[2602.22057](http://arxiv.org/abs/2602.22057)|null|
 |**2026-02-25**|**Solving stiff dark matter equations via Jacobian Normalization with Physics-Informed Neural Networks**|M. P. Bento et.al.|[2602.21988](http://arxiv.org/abs/2602.21988)|null|
@@ -235,6 +242,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**CubeSounder: Low SWaP-C 180 GHz Radiometer for Atmospheric Sensing Tested on High Altitude Balloons**|Kyle D. Massingill et.al.|[2602.23338](http://arxiv.org/abs/2602.23338)|null|
+|**2026-02-26**|**LineGraph2Road: Structural Graph Reasoning on Line Graphs for Road Network Extraction**|Zhengyang Wei et.al.|[2602.23290](http://arxiv.org/abs/2602.23290)|null|
+|**2026-02-26**|**Partial recovery of meter-scale surface weather**|Jonathan Giezendanner et.al.|[2602.23146](http://arxiv.org/abs/2602.23146)|null|
+|**2026-02-26**|**No Labels, No Look-Ahead: Unsupervised Online Video Stabilization with Classical Priors**|Tao Liu et.al.|[2602.23141](http://arxiv.org/abs/2602.23141)|null|
+|**2026-02-26**|**OSDaR-AR: Enhancing Railway Perception Datasets via Multi-modal Augmented Reality**|Federico Nesti et.al.|[2602.22920](http://arxiv.org/abs/2602.22920)|null|
+|**2026-02-26**|**Multi-modal Data Driven Virtual Base Station Construction for Massive MIMO Beam Alignment**|Yijie Bian et.al.|[2602.22796](http://arxiv.org/abs/2602.22796)|null|
+|**2026-02-26**|**Sapling-NeRF: Geo-Localised Sapling Reconstruction in Forests for Ecological Monitoring**|Miguel Ángel Muñoz-Bañón et.al.|[2602.22731](http://arxiv.org/abs/2602.22731)|null|
+|**2026-02-26**|**Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery**|Minh Kha Do et.al.|[2602.22613](http://arxiv.org/abs/2602.22613)|null|
 |**2026-02-25**|**Lumosaic: Hyperspectral Video via Active Illumination and Coded-Exposure Pixels**|Dhruv Verma et.al.|[2602.22140](http://arxiv.org/abs/2602.22140)|null|
 |**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**TIRAuxCloud: A Thermal Infrared Dataset for Day and Night Cloud Detection**|Alexis Apostolakis et.al.|[2602.21905](http://arxiv.org/abs/2602.21905)|null|
@@ -476,6 +491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**An Empirical Analysis of Cooperative Perception for Occlusion Risk Mitigation**|Aihong Wang et.al.|[2602.23051](http://arxiv.org/abs/2602.23051)|null|
 |**2026-02-25**|**Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**|Emannuel L. de A. Bezerra et.al.|[2602.22149](http://arxiv.org/abs/2602.22149)|null|
 |**2026-02-25**|**fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation**|Abeer Dyoub et.al.|[2602.21746](http://arxiv.org/abs/2602.21746)|null|
 |**2026-02-25**|**Towards Structure-Aware Surrogate Modeling: Explicit Region Interaction Improves Knee Contact Stress Prediction**|Zhengye Pan et.al.|[2602.21488](http://arxiv.org/abs/2602.21488)|null|
@@ -571,6 +587,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Mechanistic Insights into Li+ Transport Enabled by Isolated Sulfur Species in Li3PS4 Glasses**|J. Pawelko et.al.|[2602.22989](http://arxiv.org/abs/2602.22989)|null|
+|**2026-02-25**|**Model Predictive Control for output tracking with prescribed performance**|Dario Dennstädt et.al.|[2602.22458](http://arxiv.org/abs/2602.22458)|null|
+|**2026-02-25**|**Learning Rewards, Not Labels: Adversarial Inverse Reinforcement Learning for Machinery Fault Detection**|Dhiraj Neupane et.al.|[2602.22297](http://arxiv.org/abs/2602.22297)|null|
+|**2026-02-25**|**Data-Driven Supervision of a Thermal-Hydraulic Process Towards a Physics-Based Digital Twin**|Osimone Imhogiemhe et.al.|[2602.22267](http://arxiv.org/abs/2602.22267)|null|
+|**2026-02-25**|**CryoNet.Refine: A One-step Diffusion Model for Rapid Refinement of Structural Models with Cryo-EM Density Map Restraints**|Fuyao Huang et.al.|[2602.22263](http://arxiv.org/abs/2602.22263)|null|
 |**2026-02-25**|**From female choice to social structure: Modeling harem formation in camelids**|Tomás Ignacio González et.al.|[2602.22139](http://arxiv.org/abs/2602.22139)|null|
 |**2026-02-25**|**Geometric Priors for Generalizable World Models via Vector Symbolic Architecture**|William Youngwoo Chung et.al.|[2602.21467](http://arxiv.org/abs/2602.21467)|null|
 |**2026-02-24**|**Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling**|Guancheng Tu et.al.|[2602.21317](http://arxiv.org/abs/2602.21317)|null|
@@ -649,9 +670,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
+|**2026-02-26**|**BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition**|Can Yao et.al.|[2602.22701](http://arxiv.org/abs/2602.22701)|null|
+|**2026-02-25**|**Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging**|Victor Sechaud et.al.|[2602.22279](http://arxiv.org/abs/2602.22279)|null|
+|**2026-02-24**|**Improving Spatial Allocation for Energy System Coupling with Graph Neural Networks**|Xuanhao Mu et.al.|[2602.22249](http://arxiv.org/abs/2602.22249)|null|
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
 |**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
-|**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
+|**2026-02-26**|**TokEye: Fast Signal Extraction for Fluctuating Time Series via Offline Self-Supervised Learning From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](http://arxiv.org/abs/2602.19348)|null|
 |**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
