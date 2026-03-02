@@ -40,6 +40,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**RF heating-enhanced photoacoustic tomography**|Skyler P. Selvin et.al.|[2602.23938](http://arxiv.org/abs/2602.23938)|null|
+|**2026-02-27**|**Phase variance as a seismic quality-control attribute**|Akshika Rohatgi et.al.|[2602.23585](http://arxiv.org/abs/2602.23585)|null|
+|**2026-02-26**|**Spherical Radon transforms with smoothly varying radii**|James W. Webber et.al.|[2602.23512](http://arxiv.org/abs/2602.23512)|null|
+|**2026-02-26**|**Extracting a Toponium Signal at the LHC with Spin and Quantum Information Tools**|Laura Antozzi et.al.|[2602.23426](http://arxiv.org/abs/2602.23426)|null|
 |**2026-02-26**|**The extremely low-luminosity Type Iax SNe 2022ywf and 2023zgx**|Barnabás Barna et.al.|[2602.23175](http://arxiv.org/abs/2602.23175)|null|
 |**2026-02-26**|**Quantum thermodynamics and semidefinite programming: regularization and algorithms**|Emanuele Caputo et.al.|[2602.23144](http://arxiv.org/abs/2602.23144)|null|
 |**2026-02-26**|**Information and coherence as resources for work extraction from unknown quantum state and providing quantum advantages**|Tanmoy Biswas et.al.|[2602.22893](http://arxiv.org/abs/2602.22893)|null|
@@ -242,6 +246,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
+|**2026-02-27**|**How IMU Drift Influences Multi-Radar Inertial Odometry for Ground Robots in Subterranean Terrains**|Moumita Mukherjee et.al.|[2602.24192](http://arxiv.org/abs/2602.24192)|null|
+|**2026-02-27**|**Autonomous Inspection of Power Line Insulators with UAV on an Unmapped Transmission Tower**|Václav Riss et.al.|[2602.24011](http://arxiv.org/abs/2602.24011)|null|
+|**2026-02-27**|**Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition**|Mohammadreza Heidarianbaei et.al.|[2602.23869](http://arxiv.org/abs/2602.23869)|null|
+|**2026-02-27**|**Fourier Angle Alignment for Oriented Object Detection in Remote Sensing**|Changyu Gu et.al.|[2602.23790](http://arxiv.org/abs/2602.23790)|null|
+|**2026-02-27**|**Deep Sleep Scheduling for Satellite IoT via Simulation Based Optimization**|Wanja de Sombre et.al.|[2602.23788](http://arxiv.org/abs/2602.23788)|null|
+|**2026-02-27**|**Tilewise Domain-Separated Selective Encryption for Remote Sensing Imagery under Chosen-Plaintext Attacks**|Jilei Sun et.al.|[2602.23772](http://arxiv.org/abs/2602.23772)|null|
+|**2026-02-27**|**Decoupling Spatio-Temporal Dynamics: Microvibration Imaging Using Coherent Detection Ghost Imaging Lidar**|Shuang Liu et.al.|[2602.23689](http://arxiv.org/abs/2602.23689)|null|
+|**2026-02-27**|**Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand**|Dingqi Ye et.al.|[2602.23678](http://arxiv.org/abs/2602.23678)|null|
+|**2026-02-27**|**BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds**|Tongyan Hua et.al.|[2602.23645](http://arxiv.org/abs/2602.23645)|null|
 |**2026-02-26**|**CubeSounder: Low SWaP-C 180 GHz Radiometer for Atmospheric Sensing Tested on High Altitude Balloons**|Kyle D. Massingill et.al.|[2602.23338](http://arxiv.org/abs/2602.23338)|null|
 |**2026-02-26**|**LineGraph2Road: Structural Graph Reasoning on Line Graphs for Road Network Extraction**|Zhengyang Wei et.al.|[2602.23290](http://arxiv.org/abs/2602.23290)|null|
 |**2026-02-26**|**Partial recovery of meter-scale surface weather**|Jonathan Giezendanner et.al.|[2602.23146](http://arxiv.org/abs/2602.23146)|null|
@@ -493,7 +507,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-26**|**An Empirical Analysis of Cooperative Perception for Occlusion Risk Mitigation**|Aihong Wang et.al.|[2602.23051](http://arxiv.org/abs/2602.23051)|null|
 |**2026-02-25**|**Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**|Emannuel L. de A. Bezerra et.al.|[2602.22149](http://arxiv.org/abs/2602.22149)|null|
-|**2026-02-25**|**fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation**|Abeer Dyoub et.al.|[2602.21746](http://arxiv.org/abs/2602.21746)|null|
+|**2026-02-27**|**fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation**|Abeer Dyoub et.al.|[2602.21746](http://arxiv.org/abs/2602.21746)|null|
 |**2026-02-25**|**Towards Structure-Aware Surrogate Modeling: Explicit Region Interaction Improves Knee Contact Stress Prediction**|Zhengye Pan et.al.|[2602.21488](http://arxiv.org/abs/2602.21488)|null|
 |**2026-02-24**|**Surrogate impact modelling for crop yield assessment**|Odysseas Vlachopoulos et.al.|[2602.20928](http://arxiv.org/abs/2602.20928)|null|
 |**2026-02-24**|**Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty**|Xu Wan et.al.|[2602.20729](http://arxiv.org/abs/2602.20729)|null|
@@ -587,6 +601,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System**|Kriti Thakur et.al.|[2602.24254](http://arxiv.org/abs/2602.24254)|null|
+|**2026-02-27**|**Resolving the Metastable Si-XIII Structure through Convergent Theory and Experiment**|Fabrizio Rovaris et.al.|[2602.24248](http://arxiv.org/abs/2602.24248)|null|
+|**2026-02-27**|**Flowette: Flow Matching with Graphette Priors for Graph Generation**|Asiri Wijesinghe et.al.|[2602.23566](http://arxiv.org/abs/2602.23566)|null|
 |**2026-02-26**|**Mechanistic Insights into Li+ Transport Enabled by Isolated Sulfur Species in Li3PS4 Glasses**|J. Pawelko et.al.|[2602.22989](http://arxiv.org/abs/2602.22989)|null|
 |**2026-02-25**|**Model Predictive Control for output tracking with prescribed performance**|Dario Dennstädt et.al.|[2602.22458](http://arxiv.org/abs/2602.22458)|null|
 |**2026-02-25**|**Learning Rewards, Not Labels: Adversarial Inverse Reinforcement Learning for Machinery Fault Detection**|Dhiraj Neupane et.al.|[2602.22297](http://arxiv.org/abs/2602.22297)|null|
@@ -670,6 +687,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**The Geometry of Transfer: Unlocking Medical Vision Manifolds for Training-Free Model Ranking**|Jiaqi Tang et.al.|[2602.23916](http://arxiv.org/abs/2602.23916)|null|
+|**2026-02-27**|**When Does Multimodal Learning Help in Healthcare? A Benchmark on EHR and Chest X-Ray Fusion**|Kejing Yin et.al.|[2602.23614](http://arxiv.org/abs/2602.23614)|null|
 |**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
 |**2026-02-26**|**BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition**|Can Yao et.al.|[2602.22701](http://arxiv.org/abs/2602.22701)|null|
 |**2026-02-25**|**Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging**|Victor Sechaud et.al.|[2602.22279](http://arxiv.org/abs/2602.22279)|null|
