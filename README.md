@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](http://arxiv.org/abs/2603.02149)|null|
+|**2026-03-02**|**A Template-Based Search for Large-Scale-Structure--Correlated Anisotropy in the Nanohertz Gravitational-Wave Background Using the Public NANOGrav 15-Year Data Set**|Yun Fang et.al.|[2603.02110](http://arxiv.org/abs/2603.02110)|null|
+|**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](http://arxiv.org/abs/2603.02012)|null|
+|**2026-03-02**|**Hybrid ROM-PINN Framework for Closure Modeling in Convection-Dominated Systems**|Ferhat Kaya et.al.|[2603.01998](http://arxiv.org/abs/2603.01998)|null|
+|**2026-03-02**|**A z $\sim$1 galactic-scale outflow transversally mapped to $\sim$ 50 kpc through gravitational-arc tomography**|J. A. Hernández-Guajardo et.al.|[2603.01882](http://arxiv.org/abs/2603.01882)|null|
+|**2026-03-02**|**CTForensics: A Comprehensive Dataset and Method for AI-Generated CT Image Detection**|Yiheng Li et.al.|[2603.01878](http://arxiv.org/abs/2603.01878)|null|
+|**2026-03-02**|**Solving Inverse PDE Problems using Minimization Methods and AI**|Noura Helwani et.al.|[2603.01731](http://arxiv.org/abs/2603.01731)|null|
+|**2026-03-02**|**Single-ion phonon laser in the quantum regime**|Dong Yuanzhang et.al.|[2603.01585](http://arxiv.org/abs/2603.01585)|null|
+|**2026-03-02**|**Intersubjectivity as a principle determining physical observables and non-classicality**|Shun Umekawa et.al.|[2603.01575](http://arxiv.org/abs/2603.01575)|null|
+|**2026-03-02**|**Efficient Learning Algorithms for Noisy Quantum State and Process Tomography**|Chenyang Li et.al.|[2603.01521](http://arxiv.org/abs/2603.01521)|null|
 |**2026-02-27**|**RF heating-enhanced photoacoustic tomography**|Skyler P. Selvin et.al.|[2602.23938](http://arxiv.org/abs/2602.23938)|null|
 |**2026-02-27**|**Phase variance as a seismic quality-control attribute**|Akshika Rohatgi et.al.|[2602.23585](http://arxiv.org/abs/2602.23585)|null|
 |**2026-02-26**|**Spherical Radon transforms with smoothly varying radii**|James W. Webber et.al.|[2602.23512](http://arxiv.org/abs/2602.23512)|null|
@@ -261,6 +271,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[2603.02172](http://arxiv.org/abs/2603.02172)|null|
+|**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](http://arxiv.org/abs/2603.02149)|null|
+|**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](http://arxiv.org/abs/2603.02142)|null|
+|**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](http://arxiv.org/abs/2603.01999)|null|
+|**2026-03-02**|**Plug-and-play forward backward algorithm to restore Landsat images: A preliminary step to uncover the history of surface waters**|Pierre Audisio et.al.|[2603.01868](http://arxiv.org/abs/2603.01868)|null|
+|**2026-03-02**|**LEAR: Learning Edge-Aware Representations for Event-to-LiDAR Localization**|Kuangyi Chen et.al.|[2603.01839](http://arxiv.org/abs/2603.01839)|null|
+|**2026-03-02**|**Meta-Learning Hyperparameters for Parameter Efficient Fine-Tuning**|Zichen Tian et.al.|[2603.01759](http://arxiv.org/abs/2603.01759)|null|
+|**2026-03-02**|**Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining**|Yuxuan Li et.al.|[2603.01758](http://arxiv.org/abs/2603.01758)|null|
+|**2026-03-02**|**Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration**|Guanglu Dong et.al.|[2603.01725](http://arxiv.org/abs/2603.01725)|null|
+|**2026-03-02**|**Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications**|Saurabh Kaushik et.al.|[2603.01576](http://arxiv.org/abs/2603.01576)|null|
 |**2026-02-27**|**Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach**|Arnaud Coatanhay et.al.|[2602.24280](http://arxiv.org/abs/2602.24280)|null|
 |**2026-02-27**|**How IMU Drift Influences Multi-Radar Inertial Odometry for Ground Robots in Subterranean Terrains**|Moumita Mukherjee et.al.|[2602.24192](http://arxiv.org/abs/2602.24192)|null|
 |**2026-02-27**|**Autonomous Inspection of Power Line Insulators with UAV on an Unmapped Transmission Tower**|Václav Riss et.al.|[2602.24011](http://arxiv.org/abs/2602.24011)|null|
@@ -473,6 +493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Nonlocality distillation can outperform entanglement distillation**|Peter Høyer et.al.|[2603.00940](http://arxiv.org/abs/2603.00940)|null|
+|**2026-02-28**|**Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling**|Muhammad Kashif et.al.|[2603.00625](http://arxiv.org/abs/2603.00625)|null|
 |**2026-02-25**|**Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials**|Ignacio Loaiza et.al.|[2602.20270](http://arxiv.org/abs/2602.20270)|null|
 |**2026-02-23**|**Quantum Simulations for Extreme Ultraviolet Photolithography**|Tyler D. Kharazi et.al.|[2602.20234](http://arxiv.org/abs/2602.20234)|null|
 |**2026-02-24**|**QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration**|Meng Ye et.al.|[2602.17784](http://arxiv.org/abs/2602.17784)|null|
@@ -510,6 +532,7 @@
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
 |**2026-01-12**|**Wattnet: matching electricity consumption with low-carbon, low-water footprint energy supply**|María Castrillo Melguizo et.al.|[2601.11623](http://arxiv.org/abs/2601.11623)|null|
+|**2026-02-28**|**Structural Climate--Carbon Feedback Since the Last Interglacial**|Satoshi Nakano et.al.|[2601.06986](http://arxiv.org/abs/2601.06986)|null|
 |**2026-01-06**|**Unraveling Structure-Performance Trade-offs in Porous Transport Layers for PEM Water Electrolysis**|Navneet Goswami et.al.|[2601.03334](http://arxiv.org/abs/2601.03334)|null|
 |**2025-12-26**|**Multiscale filtration framework with nanoconfined phase behavior: Pore Network Modeling with Density Functional Theory calculations**|Irina Nesterova et.al.|[2512.21990](http://arxiv.org/abs/2512.21990)|null|
 |**2025-12-04**|**Sedimentary models of fossil biomolecules, principles and methodological improvements**|Wan-Qian Zhao et.al.|[2512.04427](http://arxiv.org/abs/2512.04427)|null|
@@ -526,6 +549,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Quantifying Uncertainty in Void Swelling Prediction: A Conformal Prediction Framework for Reactor Safety Margins**|Minhee Kim et.al.|[2603.01981](http://arxiv.org/abs/2603.01981)|null|
+|**2026-02-28**|**Recent Analytical and Computational Developments on the Advection-Diffusion-Reaction Wildfire Model**|Luca Nieding et.al.|[2603.00831](http://arxiv.org/abs/2603.00831)|null|
+|**2026-02-28**|**Physics-Based Seismic Hazard and Risk Assessment: A New Paradigm for Earthquake Forecasting**|Davide Zaccagnino et.al.|[2603.00570](http://arxiv.org/abs/2603.00570)|null|
 |**2026-02-26**|**An Empirical Analysis of Cooperative Perception for Occlusion Risk Mitigation**|Aihong Wang et.al.|[2602.23051](http://arxiv.org/abs/2602.23051)|null|
 |**2026-02-25**|**Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**|Emannuel L. de A. Bezerra et.al.|[2602.22149](http://arxiv.org/abs/2602.22149)|null|
 |**2026-02-27**|**fEDM+: A Risk-Based Fuzzy Ethical Decision Making Framework with Principle-Level Explainability and Pluralistic Validation**|Abeer Dyoub et.al.|[2602.21746](http://arxiv.org/abs/2602.21746)|null|
@@ -607,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Consistent initialization of mixed-dimensional multiphysics models for fractured reservoirs under geomechanical constraints and field measurements**|Jakub Wiktor Both et.al.|[2603.01835](http://arxiv.org/abs/2603.01835)|null|
 |**2026-01-27**|**Comparison of generative algorithms for conceptual groundwater modeling of coastal volcanic aquifer features with disparate, sparse and extremely imbalanced data**|Michael J. Friedel et.al.|[2602.10121](http://arxiv.org/abs/2602.10121)|null|
 |**2026-01-22**|**Physics Informed Differentiable Solvers for Learning Parametric Solution Manifolds in Heterogeneous Physical Systems**|Milad Panahi et.al.|[2601.16350](http://arxiv.org/abs/2601.16350)|null|
 |**2026-01-01**|**Effect of Electric Charge on Biotherapeutic Transport, Binding and Absorption: A Computational Study**|Mario de Lucio et.al.|[2601.00505](http://arxiv.org/abs/2601.00505)|null|
@@ -626,6 +653,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Phishing the Phishers with SpecularNet: Hierarchical Graph Autoencoding for Reference-Free Web Phishing Detection**|Tailai Song et.al.|[2603.01874](http://arxiv.org/abs/2603.01874)|null|
+|**2026-03-02**|**A Unified Explanation for JWST Little Red Dots and High-Redshift Low-Mass Disk-like Galaxies: Prolate Galaxies Viewed End-on vs Side-on**|Yingjie Peng et.al.|[2603.01668](http://arxiv.org/abs/2603.01668)|null|
+|**2026-03-02**|**Information-Theoretic Digital Twins for Stealthy Attack Detection in Industrial Control Systems: A Closed-Form KL Divergence Approach**|Inda Kreso et.al.|[2603.01621](http://arxiv.org/abs/2603.01621)|null|
+|**2026-03-02**|**MIST-RL: Mutation-based Incremental Suite Testing via Reinforcement Learning**|Sicheng Zhu et.al.|[2603.01409](http://arxiv.org/abs/2603.01409)|null|
+|**2026-03-01**|**MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation**|Yuqi Zhan et.al.|[2603.01131](http://arxiv.org/abs/2603.01131)|null|
+|**2026-02-28**|**SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning**|Yi Zhang et.al.|[2603.00409](http://arxiv.org/abs/2603.00409)|null|
+|**2026-02-27**|**Anticorruption Enforcement and Sale Mechanism Choice in China's Land Market**|Julia Manso et.al.|[2603.00291](http://arxiv.org/abs/2603.00291)|null|
+|**2026-02-27**|**Empowering Future Cybersecurity Leaders: Advancing Students through FINDS Education for Digital Forensic Excellence**|Yashas Hariprasad et.al.|[2603.00222](http://arxiv.org/abs/2603.00222)|null|
 |**2026-02-27**|**FaultXformer: A Transformer-Encoder Based Fault Classification and Location Identification model in PMU-Integrated Active Electrical Distribution System**|Kriti Thakur et.al.|[2602.24254](http://arxiv.org/abs/2602.24254)|null|
 |**2026-02-27**|**Resolving the Metastable Si-XIII Structure through Convergent Theory and Experiment**|Fabrizio Rovaris et.al.|[2602.24248](http://arxiv.org/abs/2602.24248)|null|
 |**2026-02-27**|**Flowette: Flow Matching with Graphette Priors for Graph Generation**|Asiri Wijesinghe et.al.|[2602.23566](http://arxiv.org/abs/2602.23566)|null|
@@ -714,6 +749,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection**|Hashim Ali et.al.|[2603.01482](http://arxiv.org/abs/2603.01482)|null|
+|**2026-03-01**|**Fake It Right: Injecting Anatomical Logic into Synthetic Supervised Pre-training for Medical Segmentation**|Jiaqi Tang et.al.|[2603.00979](http://arxiv.org/abs/2603.00979)|null|
+|**2026-02-28**|**Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training**|Quan Kong et.al.|[2603.00518](http://arxiv.org/abs/2603.00518)|null|
+|**2026-02-27**|**Detecting Transportation Mode Using Dense Smartphone GPS Trajectories and Transformer Models**|Yuandong Zhang et.al.|[2603.00340](http://arxiv.org/abs/2603.00340)|null|
+|**2026-02-26**|**ThreatFormer-IDS: Robust Transformer Intrusion Detection with Zero-Day Generalization and Explainable Attribution**|Srikumar Nayak et.al.|[2603.00185](http://arxiv.org/abs/2603.00185)|null|
+|**2026-02-25**|**DINOv3 Meets YOLO26 for Weed Detection in Vegetable Crops**|Boyang Deng et.al.|[2603.00160](http://arxiv.org/abs/2603.00160)|null|
 |**2026-02-27**|**The Geometry of Transfer: Unlocking Medical Vision Manifolds for Training-Free Model Ranking**|Jiaqi Tang et.al.|[2602.23916](http://arxiv.org/abs/2602.23916)|null|
 |**2026-02-27**|**When Does Multimodal Learning Help in Healthcare? A Benchmark on EHR and Chest X-Ray Fusion**|Kejing Yin et.al.|[2602.23614](http://arxiv.org/abs/2602.23614)|null|
 |**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
