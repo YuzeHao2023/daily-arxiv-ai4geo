@@ -53,6 +53,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems**|Süleyman Cengizci et.al.|[2603.03259](http://arxiv.org/abs/2603.03259)|null|
+|**2026-03-03**|**Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks**|Divyavardhan Singh et.al.|[2603.03224](http://arxiv.org/abs/2603.03224)|null|
+|**2026-03-03**|**Safe and Robust Domains of Attraction for Discrete-Time Systems: A Set-Based Characterization and Certifiable Neural Network Estimation**|Mohamed Serry et.al.|[2603.03082](http://arxiv.org/abs/2603.03082)|null|
+|**2026-03-03**|**Simulating a quantum sensor: quantum state tomography of NV-spin systems**|Alberto López-García et.al.|[2603.03049](http://arxiv.org/abs/2603.03049)|null|
+|**2026-03-03**|**Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results**|Alberto Miño Calero et.al.|[2603.02948](http://arxiv.org/abs/2603.02948)|null|
+|**2026-03-03**|**Learning Hamiltonians for solid-state quantum simulators**|Jarosław Pawłowski et.al.|[2603.02889](http://arxiv.org/abs/2603.02889)|null|
+|**2026-03-03**|**Two-stage Convolutional Neural Network for six-dimensional phase space reconstruction**|Sayantan Mukherjee et.al.|[2603.02733](http://arxiv.org/abs/2603.02733)|null|
+|**2026-03-03**|**Qudit Designs and Where to Find Them**|Namit Anand et.al.|[2603.02659](http://arxiv.org/abs/2603.02659)|null|
 |**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](http://arxiv.org/abs/2603.02149)|null|
 |**2026-03-02**|**A Template-Based Search for Large-Scale-Structure--Correlated Anisotropy in the Nanohertz Gravitational-Wave Background Using the Public NANOGrav 15-Year Data Set**|Yun Fang et.al.|[2603.02110](http://arxiv.org/abs/2603.02110)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](http://arxiv.org/abs/2603.02012)|null|
@@ -271,6 +279,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design**|Miguel Espinosa et.al.|[2603.03239](http://arxiv.org/abs/2603.03239)|null|
+|**2026-03-03**|**On the biogenic hydrodynamic transport of upward and downward cruising copepods**|Yunxing Su et.al.|[2603.03178](http://arxiv.org/abs/2603.03178)|null|
+|**2026-03-03**|**Seeing Clearly without Training: Mitigating Hallucinations in Multimodal LLMs for Remote Sensing**|Yi Liu et.al.|[2603.02754](http://arxiv.org/abs/2603.02754)|null|
+|**2026-03-03**|**VLMFusionOcc3D: VLM Assisted Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2603.02609](http://arxiv.org/abs/2603.02609)|null|
+|**2026-03-03**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|Liang Zeng et.al.|[2603.02522](http://arxiv.org/abs/2603.02522)|null|
+|**2026-03-03**|**SGMA: Semantic-Guided Modality-Aware Segmentation for Remote Sensing with Incomplete Multimodal Data**|Lekang Wen et.al.|[2603.02505](http://arxiv.org/abs/2603.02505)|null|
+|**2026-03-03**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al.|[2603.02481](http://arxiv.org/abs/2603.02481)|null|
+|**2026-03-02**|**TruckDrive: Long-Range Autonomous Highway Driving Dataset**|Filippo Ghilotti et.al.|[2603.02413](http://arxiv.org/abs/2603.02413)|null|
+|**2026-03-02**|**Advancing Earth Observation Through Machine Learning: A TorchGeo Tutorial**|Caleb Robinson et.al.|[2603.02386](http://arxiv.org/abs/2603.02386)|null|
 |**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[2603.02172](http://arxiv.org/abs/2603.02172)|null|
 |**2026-03-02**|**3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems**|Namhoon Kim et.al.|[2603.02149](http://arxiv.org/abs/2603.02149)|null|
 |**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](http://arxiv.org/abs/2603.02142)|null|
@@ -549,6 +567,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Contributions of geolocated weather and building related data for insurance assessment of flood risks**|Mulah Moriah et.al.|[2603.02418](http://arxiv.org/abs/2603.02418)|null|
 |**2026-03-02**|**Quantifying Uncertainty in Void Swelling Prediction: A Conformal Prediction Framework for Reactor Safety Margins**|Minhee Kim et.al.|[2603.01981](http://arxiv.org/abs/2603.01981)|null|
 |**2026-02-28**|**Recent Analytical and Computational Developments on the Advection-Diffusion-Reaction Wildfire Model**|Luca Nieding et.al.|[2603.00831](http://arxiv.org/abs/2603.00831)|null|
 |**2026-02-28**|**Physics-Based Seismic Hazard and Risk Assessment: A New Paradigm for Earthquake Forecasting**|Davide Zaccagnino et.al.|[2603.00570](http://arxiv.org/abs/2603.00570)|null|
@@ -653,6 +672,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Mantle Convection and Nightside Volcanism on Lava World K2-141 b**|Tobias G. Meier et.al.|[2603.02408](http://arxiv.org/abs/2603.02408)|null|
 |**2026-03-02**|**Phishing the Phishers with SpecularNet: Hierarchical Graph Autoencoding for Reference-Free Web Phishing Detection**|Tailai Song et.al.|[2603.01874](http://arxiv.org/abs/2603.01874)|null|
 |**2026-03-02**|**A Unified Explanation for JWST Little Red Dots and High-Redshift Low-Mass Disk-like Galaxies: Prolate Galaxies Viewed End-on vs Side-on**|Yingjie Peng et.al.|[2603.01668](http://arxiv.org/abs/2603.01668)|null|
 |**2026-03-02**|**Information-Theoretic Digital Twins for Stealthy Attack Detection in Industrial Control Systems: A Closed-Form KL Divergence Approach**|Inda Kreso et.al.|[2603.01621](http://arxiv.org/abs/2603.01621)|null|
@@ -749,6 +769,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
+|**2026-03-03**|**GloPath: An Entity-Centric Foundation Model for Glomerular Lesion Assessment and Clinicopathological Insights**|Qiming He et.al.|[2603.02926](http://arxiv.org/abs/2603.02926)|null|
+|**2026-03-03**|**DSBA: Dynamic Stealthy Backdoor Attack with Collaborative Optimization in Self-Supervised Learning**|Jiayao Wang et.al.|[2603.02849](http://arxiv.org/abs/2603.02849)|null|
+|**2026-03-03**|**NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining**|Liang Zeng et.al.|[2603.02522](http://arxiv.org/abs/2603.02522)|null|
+|**2026-03-02**|**DINOv3 Visual Representations for Blueberry Perception Toward Robotic Harvesting**|Rui-Feng Wang et.al.|[2603.02419](http://arxiv.org/abs/2603.02419)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**A SUPERB-Style Benchmark of Self-Supervised Speech Models for Audio Deepfake Detection**|Hashim Ali et.al.|[2603.01482](http://arxiv.org/abs/2603.01482)|null|
 |**2026-03-01**|**Fake It Right: Injecting Anatomical Logic into Synthetic Supervised Pre-training for Medical Segmentation**|Jiaqi Tang et.al.|[2603.00979](http://arxiv.org/abs/2603.00979)|null|
 |**2026-02-28**|**Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training**|Quan Kong et.al.|[2603.00518](http://arxiv.org/abs/2603.00518)|null|
