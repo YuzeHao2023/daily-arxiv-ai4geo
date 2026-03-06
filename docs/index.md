@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Detection of C3 in Titan with VLT-ESPRESSO**|Rafael Rianço-Silva et.al.|[2603.05365](http://arxiv.org/abs/2603.05365)|null|
 |**2026-02-23**|**GreenPhase: A Green Learning Approach for Earthquake Phase Picking**|Yixing Wu et.al.|[2603.03344](http://arxiv.org/abs/2603.03344)|null|
 |**2026-02-24**|**The UK and Ireland Geophysical Array -- Concept and Design**|Andrew Curtis et.al.|[2602.20984](http://arxiv.org/abs/2602.20984)|null|
 |**2026-02-17**|**An Interpretable Physics Informed Multi-Stream Deep Learning Architecture for the Discrimination between Earthquake, Quarry Blast and Noise**|Nishtha Srivastava et.al.|[2602.15993](http://arxiv.org/abs/2602.15993)|null|
@@ -41,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](http://arxiv.org/abs/2603.05183)|null|
+|**2026-03-05**|**Classical shadows for non-iid quantum sources**|Leonardo Zambrano et.al.|[2603.05137](http://arxiv.org/abs/2603.05137)|null|
+|**2026-03-05**|**Exploiting Intermediate Reconstructions in Optical Coherence Tomography for Test-Time Adaption of Medical Image Segmentation**|Thomas Pinetz et.al.|[2603.05041](http://arxiv.org/abs/2603.05041)|null|
+|**2026-03-05**|**Neural blind deconvolution to reconstruct high-resolution ground-based solar observations**|Christoph Schirninger et.al.|[2603.05033](http://arxiv.org/abs/2603.05033)|null|
+|**2026-03-05**|**Quantum relative entropy regularization for quantum state tomography**|Florian Oberender et.al.|[2603.04922](http://arxiv.org/abs/2603.04922)|null|
+|**2026-03-05**|**Structure Observation Driven Image-Text Contrastive Learning for Computed Tomography Report Generation**|Hong Liu et.al.|[2603.04878](http://arxiv.org/abs/2603.04878)|null|
+|**2026-03-05**|**Multilevel Training for Kolmogorov Arnold Networks**|Ben S. Southworth et.al.|[2603.04827](http://arxiv.org/abs/2603.04827)|null|
+|**2026-03-05**|**Physics-Informed Deep Learning for Industrial Processes: Time-Discrete VPINNs for heat conduction**|Manuela Bastidas Olivares et.al.|[2603.04711](http://arxiv.org/abs/2603.04711)|null|
+|**2026-03-04**|**X-ray Doppler tomography of Fe K $α$ emission in a low-mass X-ray binary 4U 1822-371 - a localized reflector at the accretion stream-disk overflow**|N. Sameshima et.al.|[2603.04679](http://arxiv.org/abs/2603.04679)|null|
+|**2026-03-04**|**Improving the accuracy of physics-informed neural networks via last-layer retraining**|Saad Qadeer et.al.|[2603.04672](http://arxiv.org/abs/2603.04672)|null|
 |**2026-03-04**|**Physics Informed Deep Unfolded Full Waveform Inversion for Edema Detection**|Ruizhi Zhang et.al.|[2603.04070](http://arxiv.org/abs/2603.04070)|null|
 |**2026-03-04**|**Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility**|Antonin Sulc et.al.|[2603.04019](http://arxiv.org/abs/2603.04019)|null|
 |**2026-03-04**|**Hierarchical Inference and Closure Learning via Adaptive Surrogates for ODEs and PDEs**|Pengyu Zhang et.al.|[2603.03922](http://arxiv.org/abs/2603.03922)|null|
@@ -273,6 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](http://arxiv.org/abs/2603.05473)|null|
+|**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
+|**2026-03-05**|**Omni-Manip: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception**|Pei Qu et.al.|[2603.05355](http://arxiv.org/abs/2603.05355)|null|
+|**2026-03-05**|**Fusion4CA: Boosting 3D Object Detection via Comprehensive Image Exploitation**|Kang Luo et.al.|[2603.05305](http://arxiv.org/abs/2603.05305)|null|
+|**2026-03-05**|**SPyCer: Semi-Supervised Physics-Guided Contextual Attention for Near-Surface Air Temperature Estimation from Satellite Imagery**|Sofiane Bouaziz et.al.|[2603.05219](http://arxiv.org/abs/2603.05219)|null|
+|**2026-03-05**|**Fusion of JWST data - Demonstrating practical feasibility**|Landry Marquis et.al.|[2603.05014](http://arxiv.org/abs/2603.05014)|null|
+|**2026-03-05**|**Person Detection and Tracking from an Overhead Crane LiDAR**|Nilusha Jayawickrama et.al.|[2603.04938](http://arxiv.org/abs/2603.04938)|null|
+|**2026-03-05**|**RMK RetinaNet: Rotated Multi-Kernel RetinaNet for Robust Oriented Object Detection in Remote Sensing Imagery**|Huiran Sun et.al.|[2603.04793](http://arxiv.org/abs/2603.04793)|null|
+|**2026-03-05**|**A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification**|Sai Shi et.al.|[2603.04720](http://arxiv.org/abs/2603.04720)|null|
+|**2026-03-04**|**Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data**|Habib Pourdelan et.al.|[2603.04683](http://arxiv.org/abs/2603.04683)|null|
 |**2026-03-04**|**GSeg3D: A High-Precision Grid-Based Algorithm for Safety-Critical Ground Segmentation in LiDAR Point Clouds**|Muhammad Haider Khan Lodhi et.al.|[2603.04208](http://arxiv.org/abs/2603.04208)|null|
 |**2026-03-04**|**Any2Any: Unified Arbitrary Modality Translation for Remote Sensing**|Haoyang Chen et.al.|[2603.04114](http://arxiv.org/abs/2603.04114)|null|
 |**2026-03-04**|**GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery**|Lifan Jiang et.al.|[2603.03983](http://arxiv.org/abs/2603.03983)|null|
@@ -561,6 +582,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**The Vertical Challenge of Low-Altitude Economy: Why We Need a Unified Height System?**|Shuaichen Yan et.al.|[2603.04866](http://arxiv.org/abs/2603.04866)|null|
+|**2026-03-04**|**Towards automated data analysis: A guided framework for LLM-based risk estimation**|Panteleimon Rodis et.al.|[2603.04631](http://arxiv.org/abs/2603.04631)|null|
 |**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](http://arxiv.org/abs/2603.03633)|null|
 |**2026-03-03**|**Safety-Centered Scenario Generation for Autonomous Vehicles**|Kiruthiga Chandra Shekar et.al.|[2603.03574](http://arxiv.org/abs/2603.03574)|null|
 |**2026-02-27**|**Advancing Food Nanotoxicology with Microphysiological Systems: Rebalancing the Risk/Benefit Ratio Toward Safer Nano-Enabled Food Innovations**|Georges Dubourg et.al.|[2603.03356](http://arxiv.org/abs/2603.03356)|null|
@@ -665,6 +688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Iman Nematollahi et.al.|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
 |**2026-03-04**|**Incompressible limit for an age-structured tumor model**|Maeve Wildes et.al.|[2603.04331](http://arxiv.org/abs/2603.04331)|null|
 |**2026-03-04**|**Breaking Bad Email Habits: Bounding the Impact of Simulated Phishing Campaigns**|Muhammad Zia Hydari et.al.|[2603.04324](http://arxiv.org/abs/2603.04324)|null|
 |**2026-03-02**|**Optimization of Cost Functions in Absolute Plate Motion Modeling**|James Unwin et.al.|[2603.03366](http://arxiv.org/abs/2603.03366)|null|
@@ -763,6 +787,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
+|**2026-03-05**|**Revealing the Topology invariance of vectorial vortex beam in complex media**|Shuailing Wang et.al.|[2603.04726](http://arxiv.org/abs/2603.04726)|null|
 |**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
 |**2026-03-03**|**Spectrum Shortage for Radio Sensing? Leveraging Ambient 5G Signals for Human Activity Detection**|Kunzhe Song et.al.|[2603.03579](http://arxiv.org/abs/2603.03579)|null|
 |**2026-03-03**|**Directional Neural Collapse Explains Few-Shot Transfer in Self-Supervised Learning**|Achleshwar Luthra et.al.|[2603.03530](http://arxiv.org/abs/2603.03530)|null|
