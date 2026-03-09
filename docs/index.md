@@ -43,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**An Atomic Interface for High-Dimensional Temporal Mode Quantum Networks**|Shicheng Zhang et.al.|[2603.06558](http://arxiv.org/abs/2603.06558)|null|
 |**2026-03-06**|**Certified and accurate computation of function space norms of deep neural networks**|Johannes Gründler et.al.|[2603.06431](http://arxiv.org/abs/2603.06431)|null|
 |**2026-03-06**|**Epitaxy of strained, nuclear-spin free $^{76}$ Ge quantum wells from solid source materials**|Maximilian Oezkent et.al.|[2603.06372](http://arxiv.org/abs/2603.06372)|null|
 |**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](http://arxiv.org/abs/2603.06300)|null|
@@ -293,6 +294,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**|Yuhan Zhou et.al.|[2603.06544](http://arxiv.org/abs/2603.06544)|null|
+|**2026-03-06**|**Spatial Calibration of Diffuse LiDARs**|Nikhil Behari et.al.|[2603.06531](http://arxiv.org/abs/2603.06531)|null|
 |**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[2603.06501](http://arxiv.org/abs/2603.06501)|null|
 |**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
 |**2026-03-06**|**Towards Robotic Lake Maintenance: Integrating SONAR and Satellite Data to Assist Human Operators**|Ahmed H. Elsayed et.al.|[2603.06266](http://arxiv.org/abs/2603.06266)|null|
