@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**UK White Paper on Magnetohydrodynamic (MHD) seismology of solar and heliospheric plasmas**|Valery M. Nakariakov et.al.|[2603.05571](http://arxiv.org/abs/2603.05571)|null|
 |**2026-03-05**|**Detection of C3 in Titan with VLT-ESPRESSO**|Rafael Rianço-Silva et.al.|[2603.05365](http://arxiv.org/abs/2603.05365)|null|
 |**2026-02-23**|**GreenPhase: A Green Learning Approach for Earthquake Phase Picking**|Yixing Wu et.al.|[2603.03344](http://arxiv.org/abs/2603.03344)|null|
 |**2026-02-24**|**The UK and Ireland Geophysical Array -- Concept and Design**|Andrew Curtis et.al.|[2602.20984](http://arxiv.org/abs/2602.20984)|null|
@@ -42,6 +43,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Certified and accurate computation of function space norms of deep neural networks**|Johannes Gründler et.al.|[2603.06431](http://arxiv.org/abs/2603.06431)|null|
+|**2026-03-06**|**Epitaxy of strained, nuclear-spin free $^{76}$ Ge quantum wells from solid source materials**|Maximilian Oezkent et.al.|[2603.06372](http://arxiv.org/abs/2603.06372)|null|
+|**2026-03-06**|**3D CBCT Artefact Removal Using Perpendicular Score-Based Diffusion Models**|Susanne Schaub et.al.|[2603.06300](http://arxiv.org/abs/2603.06300)|null|
+|**2026-03-06**|**Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs**|Akshay Govind Srinivasan et.al.|[2603.06287](http://arxiv.org/abs/2603.06287)|null|
+|**2026-03-06**|**Tracing the film structure of an organic semiconductor with photoemission orbital tomography**|Monja Stettner et.al.|[2603.06204](http://arxiv.org/abs/2603.06204)|null|
+|**2026-03-06**|**CBCT-Based Synthetic CT Generation Using Conditional Flow Matching Model**|Junbo Peng et.al.|[2603.05796](http://arxiv.org/abs/2603.05796)|null|
+|**2026-03-06**|**An Optimization Framework for Monitor Placement in Quantum Network Tomography**|Athira Kalavampara Raghunadhan et.al.|[2603.05777](http://arxiv.org/abs/2603.05777)|null|
+|**2026-03-05**|**Non-intrusive Monitoring of Sealed Microreactor Cores Using Physics-Informed Muon Scattering Tomography With Momentum Measurements**|Reshma Ughade et.al.|[2603.05712](http://arxiv.org/abs/2603.05712)|null|
 |**2026-03-05**|**Limited-Angle CT Reconstruction Using Multi-Volume Latent Consistency Model**|Hinako Isogai et.al.|[2603.05183](http://arxiv.org/abs/2603.05183)|null|
 |**2026-03-05**|**Classical shadows for non-iid quantum sources**|Leonardo Zambrano et.al.|[2603.05137](http://arxiv.org/abs/2603.05137)|null|
 |**2026-03-05**|**Exploiting Intermediate Reconstructions in Optical Coherence Tomography for Test-Time Adaption of Medical Image Segmentation**|Thomas Pinetz et.al.|[2603.05041](http://arxiv.org/abs/2603.05041)|null|
@@ -284,6 +293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[2603.06501](http://arxiv.org/abs/2603.06501)|null|
+|**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
+|**2026-03-06**|**Towards Robotic Lake Maintenance: Integrating SONAR and Satellite Data to Assist Human Operators**|Ahmed H. Elsayed et.al.|[2603.06266](http://arxiv.org/abs/2603.06266)|null|
+|**2026-03-06**|**EntON: Eigenentropy-Optimized Neighborhood Densification in 3D Gaussian Splatting**|Miriam Jäger et.al.|[2603.06216](http://arxiv.org/abs/2603.06216)|null|
+|**2026-03-06**|**KISS-IMU: Self-supervised Inertial Odometry with Motion-balanced Learning and Uncertainty-aware Inference**|Jiwon Choi et.al.|[2603.06205](http://arxiv.org/abs/2603.06205)|null|
+|**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
+|**2026-03-06**|**Demystifying KAN for Vision Tasks: The RepKAN Approach**|Minjong Cheon et.al.|[2603.06002](http://arxiv.org/abs/2603.06002)|null|
+|**2026-03-06**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
+|**2026-03-06**|**Indoor Space Authentication by ISS-based Keypoint Extraction from 3D Point Clouds**|Yuki Yamada et.al.|[2603.05858](http://arxiv.org/abs/2603.05858)|null|
+|**2026-03-06**|**Remote Sensing Image Classification Using Deep Ensemble Learning**|Niful Islam et.al.|[2603.05844](http://arxiv.org/abs/2603.05844)|null|
 |**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](http://arxiv.org/abs/2603.05473)|null|
 |**2026-03-05**|**Loop Closure via Maximal Cliques in 3D LiDAR-Based SLAM**|Javier Laserna et.al.|[2603.05397](http://arxiv.org/abs/2603.05397)|null|
 |**2026-03-05**|**Omni-Manip: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception**|Pei Qu et.al.|[2603.05355](http://arxiv.org/abs/2603.05355)|null|
@@ -530,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**A Scheduler for the Active Volume Architecture**|Sam Heavey et.al.|[2603.06376](http://arxiv.org/abs/2603.06376)|null|
 |**2026-03-01**|**Nonlocality distillation can outperform entanglement distillation**|Peter Høyer et.al.|[2603.00940](http://arxiv.org/abs/2603.00940)|null|
 |**2026-02-28**|**Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling**|Muhammad Kashif et.al.|[2603.00625](http://arxiv.org/abs/2603.00625)|null|
 |**2026-02-25**|**Quantum algorithm for simulating resonant inelastic X-ray scattering in battery materials**|Ignacio Loaiza et.al.|[2602.20270](http://arxiv.org/abs/2602.20270)|null|
@@ -582,6 +602,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**An Integrated Failure and Threat Mode and Effect Analysis (FTMEA) Framework with Quantified Cross-Domain Correlation Factors for Automotive Semiconductors**|Antonino Armato et.al.|[2603.06299](http://arxiv.org/abs/2603.06299)|null|
+|**2026-03-06**|**OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving**|Kota Shimomura et.al.|[2603.05936](http://arxiv.org/abs/2603.05936)|null|
+|**2026-03-06**|**Towards Driver Behavior Understanding: Weakly-Supervised Risk Perception in Driving Scenes**|Nakul Agarwal et.al.|[2603.05926](http://arxiv.org/abs/2603.05926)|null|
+|**2026-03-06**|**TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis**|Sijing Li et.al.|[2603.05867](http://arxiv.org/abs/2603.05867)|null|
 |**2026-03-05**|**The Vertical Challenge of Low-Altitude Economy: Why We Need a Unified Height System?**|Shuaichen Yan et.al.|[2603.04866](http://arxiv.org/abs/2603.04866)|null|
 |**2026-03-04**|**Towards automated data analysis: A guided framework for LLM-based risk estimation**|Panteleimon Rodis et.al.|[2603.04631](http://arxiv.org/abs/2603.04631)|null|
 |**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](http://arxiv.org/abs/2603.03633)|null|
@@ -688,6 +712,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing**|Mohammadhossein Ghahramani et.al.|[2603.06361](http://arxiv.org/abs/2603.06361)|null|
+|**2026-03-06**|**Real-World Fault Detection for C-Extended Python Projects with Automated Unit Test Generation**|Lucas Berg et.al.|[2603.06107](http://arxiv.org/abs/2603.06107)|null|
+|**2026-03-06**|**HART: Data-Driven Hallucination Attribution and Evidence-Based Tracing for Large Language Models**|Shize Liang et.al.|[2603.05828](http://arxiv.org/abs/2603.05828)|null|
 |**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Iman Nematollahi et.al.|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
 |**2026-03-04**|**Incompressible limit for an age-structured tumor model**|Maeve Wildes et.al.|[2603.04331](http://arxiv.org/abs/2603.04331)|null|
 |**2026-03-04**|**Breaking Bad Email Habits: Bounding the Impact of Simulated Phishing Campaigns**|Muhammad Zia Hydari et.al.|[2603.04324](http://arxiv.org/abs/2603.04324)|null|
@@ -787,6 +814,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[2603.06164](http://arxiv.org/abs/2603.06164)|null|
+|**2026-03-05**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581](http://arxiv.org/abs/2603.05581)|null|
 |**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
 |**2026-03-05**|**Revealing the Topology invariance of vectorial vortex beam in complex media**|Shuailing Wang et.al.|[2603.04726](http://arxiv.org/abs/2603.04726)|null|
 |**2026-03-04**|**Cyclostationarity Analysis as a Complement to Self-Supervised Representations for Speech Deepfake Detection**|Cemal Hanilçi et.al.|[2603.03921](http://arxiv.org/abs/2603.03921)|null|
