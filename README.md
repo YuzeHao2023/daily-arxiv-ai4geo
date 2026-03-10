@@ -57,6 +57,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Gate Optimization via Efficient Two-Qubit Benchmarking for NV Centers in Diamond**|Alessandro Marcomini et.al.|[2603.08581](http://arxiv.org/abs/2603.08581)|null|
+|**2026-03-09**|**MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries**|Weizheng Zhang et.al.|[2603.08465](http://arxiv.org/abs/2603.08465)|null|
+|**2026-03-09**|**All-in-plane image sensors free from readout integrated circuits**|Kirill Kapralov et.al.|[2603.08178](http://arxiv.org/abs/2603.08178)|null|
+|**2026-03-09**|**Simulating non-Markovian open quantum dynamics by exploiting physics-informed neural network**|Long Cao et.al.|[2603.08081](http://arxiv.org/abs/2603.08081)|null|
+|**2026-03-09**|**Chemotaxis with tomography**|Valeria Cuentas et.al.|[2603.08070](http://arxiv.org/abs/2603.08070)|null|
+|**2026-03-09**|**Physics-Informed Global Extraction of the Universal Small- $x$ Dipole Amplitude**|Si-Wei Dai et.al.|[2603.08008](http://arxiv.org/abs/2603.08008)|null|
+|**2026-03-08**|**Learning embeddings of non-linear PDEs: the Burgers' equation**|Pedro Tarancón-Álvarez et.al.|[2603.07812](http://arxiv.org/abs/2603.07812)|null|
+|**2026-03-08**|**Meta-PINNs: Meta-Learning Enhanced Physics-Informed Machine Learning Framework for Turbomachinery Flow Predictions under Varying Operation Conditions**|Yuling Han et.al.|[2603.07740](http://arxiv.org/abs/2603.07740)|null|
+|**2026-03-08**|**Sharpening Worst-Case Error Assessment for Fault-Tolerant Quantum Computing: Fidelity and Its Deviation**|Kyoungho Cho et.al.|[2603.07495](http://arxiv.org/abs/2603.07495)|null|
 |**2026-03-07**|**Extending gPET for Multi-Layer PET Simulation**|Satzhan Sitmukhambetov et.al.|[2603.07327](http://arxiv.org/abs/2603.07327)|null|
 |**2026-03-07**|**Polarimetric Tomography Applied to Synthetic Multi-Spacecraft White-Light Images: Observing Coronal Mass Ejections in 3D**|David Barnes et.al.|[2603.07171](http://arxiv.org/abs/2603.07171)|null|
 |**2026-03-07**|**Optimize discrete loss with finite-difference physics constraint and time-stepping for solving incompressible flow**|Yali Luo et.al.|[2603.07151](http://arxiv.org/abs/2603.07151)|null|
@@ -317,6 +326,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
+|**2026-03-09**|**BuildMamba: A Visual State-Space Based Model for Multi-Task Building Segmentation and Height Estimation from Satellite Images**|Sinan U. Ulu et.al.|[2603.08523](http://arxiv.org/abs/2603.08523)|null|
+|**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Yutong Hu et.al.|[2603.08491](http://arxiv.org/abs/2603.08491)|null|
+|**2026-03-09**|**Adaptive Entropy-Driven Sensor Selection in a Camera-LiDAR Particle Filter for Single-Vessel Tracking**|Andrei Starodubov et.al.|[2603.08457](http://arxiv.org/abs/2603.08457)|null|
+|**2026-03-09**|**Efficient Policy Learning with Hybrid Evaluation-Based Genetic Programming for Uncertain Agile Earth Observation Satellite Scheduling**|Junhua Xue et.al.|[2603.08447](http://arxiv.org/abs/2603.08447)|null|
+|**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|
+|**2026-03-09**|**Human-Aware Robot Behaviour in Self-Driving Labs**|Satheeshkumar Veeramani et.al.|[2603.08420](http://arxiv.org/abs/2603.08420)|null|
+|**2026-03-09**|**Perception-Aware Communication-Free Multi-UAV Coordination in the Wild**|Manuel Boldrer et.al.|[2603.08379](http://arxiv.org/abs/2603.08379)|null|
+|**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
+|**2026-03-09**|**SiMO: Single-Modality-Operable Multimodal Collaborative Perception**|Jiageng Wen et.al.|[2603.08240](http://arxiv.org/abs/2603.08240)|null|
 |**2026-03-07**|**LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture**|Erik Scheurer et.al.|[2603.07246](http://arxiv.org/abs/2603.07246)|null|
 |**2026-03-07**|**Physics-Guided VLM Priors for All-Cloud Removal**|Liying Xu et.al.|[2603.07074](http://arxiv.org/abs/2603.07074)|null|
 |**2026-03-06**|**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**|Qianqian Zhang et.al.|[2603.06925](http://arxiv.org/abs/2603.06925)|null|
@@ -583,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Metriq: A Collaborative Platform for Benchmarking Quantum Computers**|Alessandro Cosentino et.al.|[2603.08680](http://arxiv.org/abs/2603.08680)|null|
 |**2026-03-07**|**DiffSIM: Unconditional and conditional facies simulation based on denoising diffusion generative models**|Minghui Xu et.al.|[2603.07383](http://arxiv.org/abs/2603.07383)|null|
 |**2026-03-06**|**A Scheduler for the Active Volume Architecture**|Sam Heavey et.al.|[2603.06376](http://arxiv.org/abs/2603.06376)|null|
 |**2026-03-01**|**Nonlocality distillation can outperform entanglement distillation**|Peter Høyer et.al.|[2603.00940](http://arxiv.org/abs/2603.00940)|null|
@@ -620,6 +640,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
 |**2026-03-07**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
 |**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
@@ -642,11 +663,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles**|Soheyb Ribouh et.al.|[2603.08438](http://arxiv.org/abs/2603.08438)|null|
+|**2026-03-08**|**Where Do LLM-based Systems Break? A System-Level Security Framework for Risk Assessment and Treatment**|Neha Nagaraja et.al.|[2603.07460](http://arxiv.org/abs/2603.07460)|null|
 |**2026-03-06**|**Extracting and analyzing 3D histomorphometric features related to perineural and lymphovascular invasion in prostate cancer**|Sarah S. L. Chow et.al.|[2603.06936](http://arxiv.org/abs/2603.06936)|null|
 |**2026-03-06**|**An Integrated Failure and Threat Mode and Effect Analysis (FTMEA) Framework with Quantified Cross-Domain Correlation Factors for Automotive Semiconductors**|Antonino Armato et.al.|[2603.06299](http://arxiv.org/abs/2603.06299)|null|
 |**2026-03-06**|**OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving**|Kota Shimomura et.al.|[2603.05936](http://arxiv.org/abs/2603.05936)|null|
 |**2026-03-06**|**Towards Driver Behavior Understanding: Weakly-Supervised Risk Perception in Driving Scenes**|Nakul Agarwal et.al.|[2603.05926](http://arxiv.org/abs/2603.05926)|null|
-|**2026-03-06**|**TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis**|Sijing Li et.al.|[2603.05867](http://arxiv.org/abs/2603.05867)|null|
+|**2026-03-09**|**TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis**|Sijing Li et.al.|[2603.05867](http://arxiv.org/abs/2603.05867)|null|
 |**2026-03-05**|**The Vertical Challenge of Low-Altitude Economy: Why We Need a Unified Height System?**|Shuaichen Yan et.al.|[2603.04866](http://arxiv.org/abs/2603.04866)|null|
 |**2026-03-04**|**Towards automated data analysis: A guided framework for LLM-based risk estimation**|Panteleimon Rodis et.al.|[2603.04631](http://arxiv.org/abs/2603.04631)|null|
 |**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](http://arxiv.org/abs/2603.03633)|null|
@@ -757,6 +780,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](http://arxiv.org/abs/2603.08387)|null|
+|**2026-03-09**|**E0 transition strengths as a tool to constraint model parameters. Application to even-even Xe isotopes**|P. Martin-Higueras et.al.|[2603.08197](http://arxiv.org/abs/2603.08197)|null|
+|**2026-03-09**|**An explainable hybrid deep learning-enabled intelligent fault detection and diagnosis approach for automotive software systems validation**|Mohammad Abboush et.al.|[2603.08165](http://arxiv.org/abs/2603.08165)|null|
+|**2026-03-09**|**Learning Hierarchical Knowledge in Text-Rich Networks with Taxonomy-Informed Representation Learning**|Yunhui Liu et.al.|[2603.08159](http://arxiv.org/abs/2603.08159)|null|
+|**2026-03-09**|**SMGI: A Structural Theory of General Artificial Intelligence**|Aomar Osmani et.al.|[2603.07896](http://arxiv.org/abs/2603.07896)|null|
+|**2026-03-08**|**A Novel Multi-Agent Architecture to Reduce Hallucinations of Large Language Models in Multi-Step Structural Modeling**|Ziheng Geng et.al.|[2603.07728](http://arxiv.org/abs/2603.07728)|null|
+|**2026-03-08**|**Identification and Counterfactual Analysis in Incomplete Models with Support and Moment Restrictions**|Lixiong Li et.al.|[2603.07722](http://arxiv.org/abs/2603.07722)|null|
 |**2026-03-07**|**Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals**|Zhang Chen et.al.|[2603.07130](http://arxiv.org/abs/2603.07130)|null|
 |**2026-03-06**|**Parameter Identifiability Under Limited Experimental Data in Age-Structured Models of the Cell Cycle**|Ruby E. Nixson et.al.|[2603.06751](http://arxiv.org/abs/2603.06751)|null|
 |**2026-03-06**|**CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing**|Mohammadhossein Ghahramani et.al.|[2603.06361](http://arxiv.org/abs/2603.06361)|null|
@@ -863,6 +893,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos**|Michelle Espranita Liman et.al.|[2603.08505](http://arxiv.org/abs/2603.08505)|null|
+|**2026-03-09**|**Learning Multiple Utterance-Level Attribute Representations with a Unified Speech Encoder**|Maryem Bouziane et.al.|[2603.08312](http://arxiv.org/abs/2603.08312)|null|
+|**2026-03-08**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al.|[2603.07480](http://arxiv.org/abs/2603.07480)|null|
 |**2026-03-07**|**VINO: Video-driven Invariance for Non-contextual Objects via Structural Prior Guided De-contextualization**|Seul-Ki Yeom et.al.|[2603.07222](http://arxiv.org/abs/2603.07222)|null|
 |**2026-03-07**|**Efficient Chest X-ray Representation Learning via Semantic-Partitioned Contrastive Learning**|Wangyu Feng et.al.|[2603.07113](http://arxiv.org/abs/2603.07113)|null|
 |**2026-03-04**|**Soft Equivariance Regularization for Invariant Self-Supervised Learning**|Joohyung Lee et.al.|[2603.06693](http://arxiv.org/abs/2603.06693)|null|
