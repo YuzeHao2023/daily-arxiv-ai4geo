@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**On the coupled geometrical-mechanical origin of the earthquake b-value in fault networks**|Wenbo Pan et.al.|[2603.06892](http://arxiv.org/abs/2603.06892)|null|
 |**2026-03-05**|**UK White Paper on Magnetohydrodynamic (MHD) seismology of solar and heliospheric plasmas**|Valery M. Nakariakov et.al.|[2603.05571](http://arxiv.org/abs/2603.05571)|null|
 |**2026-03-05**|**Detection of C3 in Titan with VLT-ESPRESSO**|Rafael Rianço-Silva et.al.|[2603.05365](http://arxiv.org/abs/2603.05365)|null|
 |**2026-02-23**|**GreenPhase: A Green Learning Approach for Earthquake Phase Picking**|Yixing Wu et.al.|[2603.03344](http://arxiv.org/abs/2603.03344)|null|
@@ -43,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Extending gPET for Multi-Layer PET Simulation**|Satzhan Sitmukhambetov et.al.|[2603.07327](http://arxiv.org/abs/2603.07327)|null|
+|**2026-03-07**|**Polarimetric Tomography Applied to Synthetic Multi-Spacecraft White-Light Images: Observing Coronal Mass Ejections in 3D**|David Barnes et.al.|[2603.07171](http://arxiv.org/abs/2603.07171)|null|
+|**2026-03-07**|**Optimize discrete loss with finite-difference physics constraint and time-stepping for solving incompressible flow**|Yali Luo et.al.|[2603.07151](http://arxiv.org/abs/2603.07151)|null|
+|**2026-03-07**|**Efficiently Learning Global Quantum Channels with Local Tomography**|Zidu Liu et.al.|[2603.07037](http://arxiv.org/abs/2603.07037)|null|
+|**2026-03-06**|**A Gauss-Newton Method with No Additional PDE Solves Beyond Gradient Evaluation for Large-Scale PDE-Constrained Inverse Problems**|Cash Cherry et.al.|[2603.06899](http://arxiv.org/abs/2603.06899)|null|
+|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](http://arxiv.org/abs/2603.06852)|null|
+|**2026-03-06**|**Diversity-Aware Adaptive Collocation for Physics-Informed Neural Networks via Sparse QUBO Optimization and Hybrid Coresets**|Hadi Salloum et.al.|[2603.06761](http://arxiv.org/abs/2603.06761)|null|
 |**2026-03-06**|**An Atomic Interface for High-Dimensional Temporal Mode Quantum Networks**|Shicheng Zhang et.al.|[2603.06558](http://arxiv.org/abs/2603.06558)|null|
 |**2026-03-06**|**Certified and accurate computation of function space norms of deep neural networks**|Johannes Gründler et.al.|[2603.06431](http://arxiv.org/abs/2603.06431)|null|
 |**2026-03-06**|**Epitaxy of strained, nuclear-spin free $^{76}$ Ge quantum wells from solid source materials**|Maximilian Oezkent et.al.|[2603.06372](http://arxiv.org/abs/2603.06372)|null|
@@ -294,6 +302,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture**|Erik Scheurer et.al.|[2603.07246](http://arxiv.org/abs/2603.07246)|null|
+|**2026-03-07**|**Physics-Guided VLM Priors for All-Cloud Removal**|Liying Xu et.al.|[2603.07074](http://arxiv.org/abs/2603.07074)|null|
+|**2026-03-06**|**Small Target Detection Based on Mask-Enhanced Attention Fusion of Visible and Infrared Remote Sensing Images**|Qianqian Zhang et.al.|[2603.06925](http://arxiv.org/abs/2603.06925)|null|
+|**2026-03-06**|**DLRMamba: Distilling Low-Rank Mamba for Edge Multispectral Fusion Object Detection**|Qianqian Zhang et.al.|[2603.06920](http://arxiv.org/abs/2603.06920)|null|
+|**2026-03-06**|**Efficacy of Scalable Airline-led Contrail Avoidance**|Tharun Sankar et.al.|[2603.06909](http://arxiv.org/abs/2603.06909)|null|
+|**2026-03-06**|**Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data**|Marawan Yakout et.al.|[2603.06782](http://arxiv.org/abs/2603.06782)|null|
 |**2026-03-06**|**Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**|Yuhan Zhou et.al.|[2603.06544](http://arxiv.org/abs/2603.06544)|null|
 |**2026-03-06**|**Spatial Calibration of Diffuse LiDARs**|Nikhil Behari et.al.|[2603.06531](http://arxiv.org/abs/2603.06531)|null|
 |**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[2603.06501](http://arxiv.org/abs/2603.06501)|null|
@@ -552,6 +566,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**DiffSIM: Unconditional and conditional facies simulation based on denoising diffusion generative models**|Minghui Xu et.al.|[2603.07383](http://arxiv.org/abs/2603.07383)|null|
 |**2026-03-06**|**A Scheduler for the Active Volume Architecture**|Sam Heavey et.al.|[2603.06376](http://arxiv.org/abs/2603.06376)|null|
 |**2026-03-01**|**Nonlocality distillation can outperform entanglement distillation**|Peter Høyer et.al.|[2603.00940](http://arxiv.org/abs/2603.00940)|null|
 |**2026-02-28**|**Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling**|Muhammad Kashif et.al.|[2603.00625](http://arxiv.org/abs/2603.00625)|null|
@@ -586,6 +601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
 |**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
@@ -605,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Extracting and analyzing 3D histomorphometric features related to perineural and lymphovascular invasion in prostate cancer**|Sarah S. L. Chow et.al.|[2603.06936](http://arxiv.org/abs/2603.06936)|null|
 |**2026-03-06**|**An Integrated Failure and Threat Mode and Effect Analysis (FTMEA) Framework with Quantified Cross-Domain Correlation Factors for Automotive Semiconductors**|Antonino Armato et.al.|[2603.06299](http://arxiv.org/abs/2603.06299)|null|
 |**2026-03-06**|**OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving**|Kota Shimomura et.al.|[2603.05936](http://arxiv.org/abs/2603.05936)|null|
 |**2026-03-06**|**Towards Driver Behavior Understanding: Weakly-Supervised Risk Perception in Driving Scenes**|Nakul Agarwal et.al.|[2603.05926](http://arxiv.org/abs/2603.05926)|null|
@@ -715,6 +732,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals**|Zhang Chen et.al.|[2603.07130](http://arxiv.org/abs/2603.07130)|null|
+|**2026-03-06**|**Parameter Identifiability Under Limited Experimental Data in Age-Structured Models of the Cell Cycle**|Ruby E. Nixson et.al.|[2603.06751](http://arxiv.org/abs/2603.06751)|null|
 |**2026-03-06**|**CLAIRE: Compressed Latent Autoencoder for Industrial Representation and Evaluation -- A Deep Learning Framework for Smart Manufacturing**|Mohammadhossein Ghahramani et.al.|[2603.06361](http://arxiv.org/abs/2603.06361)|null|
 |**2026-03-06**|**Real-World Fault Detection for C-Extended Python Projects with Automated Unit Test Generation**|Lucas Berg et.al.|[2603.06107](http://arxiv.org/abs/2603.06107)|null|
 |**2026-03-06**|**HART: Data-Driven Hallucination Attribution and Evidence-Based Tracing for Large Language Models**|Shize Liang et.al.|[2603.05828](http://arxiv.org/abs/2603.05828)|null|
@@ -817,6 +836,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**VINO: Video-driven Invariance for Non-contextual Objects via Structural Prior Guided De-contextualization**|Seul-Ki Yeom et.al.|[2603.07222](http://arxiv.org/abs/2603.07222)|null|
+|**2026-03-07**|**Efficient Chest X-ray Representation Learning via Semantic-Partitioned Contrastive Learning**|Wangyu Feng et.al.|[2603.07113](http://arxiv.org/abs/2603.07113)|null|
+|**2026-03-04**|**Soft Equivariance Regularization for Invariant Self-Supervised Learning**|Joohyung Lee et.al.|[2603.06693](http://arxiv.org/abs/2603.06693)|null|
 |**2026-03-06**|**Do Compact SSL Backbones Matter for Audio Deepfake Detection? A Controlled Study with RAPTOR**|Ajinkya Kulkarni et.al.|[2603.06164](http://arxiv.org/abs/2603.06164)|null|
 |**2026-03-05**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581](http://arxiv.org/abs/2603.05581)|null|
 |**2026-03-05**|**Cheap Thrills: Effective Amortized Optimization Using Inexpensive Labels**|Khai Nguyen et.al.|[2603.05495](http://arxiv.org/abs/2603.05495)|null|
