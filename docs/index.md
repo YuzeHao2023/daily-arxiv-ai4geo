@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -44,8 +44,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Joint Bayesian analysis of soft and high- $p_\perp$ probes yields tighter constraints on QGP properties**|Marko Djordjevic et.al.|[2603.09584](http://arxiv.org/abs/2603.09584)|null|
+|**2026-03-10**|**Chip-Integrated Broadband Multi-Photon Source for Wavelength-Multiplexed Quantum Networks**|Xiao-Xu Fang et.al.|[2603.09397](http://arxiv.org/abs/2603.09397)|null|
+|**2026-03-10**|**Flow Field Reconstruction via Voronoi-Enhanced Physics-Informed Neural Networks with End-to-End Sensor Placement Optimization**|Renjie Xiao et.al.|[2603.09371](http://arxiv.org/abs/2603.09371)|null|
+|**2026-03-10**|**Evidential Perfusion Physics-Informed Neural Networks with Residual Uncertainty Quantification**|Junhyeok Lee et.al.|[2603.09359](http://arxiv.org/abs/2603.09359)|null|
+|**2026-03-10**|**Transformer-Based Multi-Region Segmentation and Radiomic Analysis of HR-pQCT Imaging**|Mohseu Rashid Subah et.al.|[2603.09137](http://arxiv.org/abs/2603.09137)|null|
+|**2026-03-10**|**M2Diff: Multi-Modality Multi-Task Enhanced Diffusion Model for MRI-Guided Low-Dose PET Enhancement**|Ghulam Nabi Ahmad Hassan Yar et.al.|[2603.09075](http://arxiv.org/abs/2603.09075)|null|
+|**2026-03-10**|**Two Teachers Better Than One: Hardware-Physics Co-Guided Distributed Scientific Machine Learning**|Yuchen Yuan et.al.|[2603.09032](http://arxiv.org/abs/2603.09032)|null|
 |**2026-03-09**|**Gate Optimization via Efficient Two-Qubit Benchmarking for NV Centers in Diamond**|Alessandro Marcomini et.al.|[2603.08581](http://arxiv.org/abs/2603.08581)|null|
-|**2026-03-09**|**MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries**|Weizheng Zhang et.al.|[2603.08465](http://arxiv.org/abs/2603.08465)|null|
+|**2026-03-10**|**MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries**|Weizheng Zhang et.al.|[2603.08465](http://arxiv.org/abs/2603.08465)|null|
 |**2026-03-09**|**All-in-plane image sensors free from readout integrated circuits**|Kirill Kapralov et.al.|[2603.08178](http://arxiv.org/abs/2603.08178)|null|
 |**2026-03-09**|**Simulating non-Markovian open quantum dynamics by exploiting physics-informed neural network**|Long Cao et.al.|[2603.08081](http://arxiv.org/abs/2603.08081)|null|
 |**2026-03-09**|**Chemotaxis with tomography**|Valeria Cuentas et.al.|[2603.08070](http://arxiv.org/abs/2603.08070)|null|
@@ -311,6 +318,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**GeoAlignCLIP: Enhancing Fine-Grained Vision-Language Alignment in Remote Sensing via Multi-Granular Consistency Learning**|Xiao Yang et.al.|[2603.09566](http://arxiv.org/abs/2603.09566)|null|
+|**2026-03-10**|**GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision**|Lang Sun et.al.|[2603.09551](http://arxiv.org/abs/2603.09551)|null|
+|**2026-03-10**|**Telogenesis: Goal Is All U Need**|Zhuoran Deng et.al.|[2603.09476](http://arxiv.org/abs/2603.09476)|null|
+|**2026-03-10**|**OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks**|Ronghao Fu et.al.|[2603.09471](http://arxiv.org/abs/2603.09471)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](http://arxiv.org/abs/2603.09320)|null|
+|**2026-03-10**|**STONE Dataset: A Scalable Multi-Modal Surround-View 3D Traversability Dataset for Off-Road Robot Navigation**|Konyul Park et.al.|[2603.09175](http://arxiv.org/abs/2603.09175)|null|
+|**2026-03-10**|**MetaSpectra+: A Compact Broadband Metasurface Camera for Snapshot Hyperspectral+ Imaging**|Yuxuan Liu et.al.|[2603.09116](http://arxiv.org/abs/2603.09116)|null|
+|**2026-03-10**|**DFPF-Net: Dynamically Focused Progressive Fusion Network for Remote Sensing Change Detection**|Chengming Wang et.al.|[2603.09106](http://arxiv.org/abs/2603.09106)|null|
+|**2026-03-10**|**WS-Net: Weak-Signal Representation Learning and Gated Abundance Reconstruction for Hyperspectral Unmixing via State-Space and Weak Signal Attention Fusion**|Zekun Long et.al.|[2603.09037](http://arxiv.org/abs/2603.09037)|null|
 |**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
 |**2026-03-09**|**BuildMamba: A Visual State-Space Based Model for Multi-Task Building Segmentation and Height Estimation from Satellite Images**|Sinan U. Ulu et.al.|[2603.08523](http://arxiv.org/abs/2603.08523)|null|
 |**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Yutong Hu et.al.|[2603.08491](http://arxiv.org/abs/2603.08491)|null|
@@ -585,6 +602,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
+|**2026-03-10**|**Well Log-Guided Synthesis of Subsurface Images from Sparse Petrography Data Using cGANs**|Ali Sadeghkhani et.al.|[2603.09651](http://arxiv.org/abs/2603.09651)|null|
+|**2026-03-10**|**Efficient Qubit Simulation of Hybrid Oscillator-Qubit Quantum Computation**|Xi Lu et.al.|[2603.09233](http://arxiv.org/abs/2603.09233)|null|
 |**2026-03-09**|**Metriq: A Collaborative Platform for Benchmarking Quantum Computers**|Alessandro Cosentino et.al.|[2603.08680](http://arxiv.org/abs/2603.08680)|null|
 |**2026-03-07**|**DiffSIM: Unconditional and conditional facies simulation based on denoising diffusion generative models**|Minghui Xu et.al.|[2603.07383](http://arxiv.org/abs/2603.07383)|null|
 |**2026-03-06**|**A Scheduler for the Active Volume Architecture**|Sam Heavey et.al.|[2603.06376](http://arxiv.org/abs/2603.06376)|null|
@@ -642,6 +662,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**CERES: A Probabilistic Early Warning System for Acute Food Insecurity**|Tom Danny S. Pedersen et.al.|[2603.09425](http://arxiv.org/abs/2603.09425)|null|
+|**2026-03-10**|**Intelligent Spatial Estimation for Fire Hazards in Engineering Sites: An Enhanced YOLOv8-Powered Proximity Analysis Framework**|Ammar K. AlMhdawi et.al.|[2603.09069](http://arxiv.org/abs/2603.09069)|null|
+|**2026-03-09**|**Quantifying Memorization and Privacy Risks in Genomic Language Models**|Alexander Nemecek et.al.|[2603.08913](http://arxiv.org/abs/2603.08913)|null|
+|**2026-03-09**|**Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift**|Maziar Sabouri et.al.|[2603.08906](http://arxiv.org/abs/2603.08906)|null|
 |**2026-03-09**|**Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles**|Soheyb Ribouh et.al.|[2603.08438](http://arxiv.org/abs/2603.08438)|null|
 |**2026-03-08**|**Where Do LLM-based Systems Break? A System-Level Security Framework for Risk Assessment and Treatment**|Neha Nagaraja et.al.|[2603.07460](http://arxiv.org/abs/2603.07460)|null|
 |**2026-03-06**|**Extracting and analyzing 3D histomorphometric features related to perineural and lymphovascular invasion in prostate cancer**|Sarah S. L. Chow et.al.|[2603.06936](http://arxiv.org/abs/2603.06936)|null|
@@ -866,6 +890,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue**|Zi Haur Pang et.al.|[2603.09307](http://arxiv.org/abs/2603.09307)|null|
+|**2026-03-10**|**Learning Convex Decomposition via Feature Fields**|Yuezhi Yang et.al.|[2603.09285](http://arxiv.org/abs/2603.09285)|null|
+|**2026-03-09**|**16 new quasars at the end of the reionization unveiled by self-supervised learning**|L. N. Martínez-Ramírez et.al.|[2603.08830](http://arxiv.org/abs/2603.08830)|null|
+|**2026-03-08**|**EDMFormer: Genre-Specific Self-Supervised Learning for Music Structure Segmentation**|Sahal Sajeer et.al.|[2603.08759](http://arxiv.org/abs/2603.08759)|null|
 |**2026-03-09**|**Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos**|Michelle Espranita Liman et.al.|[2603.08505](http://arxiv.org/abs/2603.08505)|null|
 |**2026-03-09**|**Learning Multiple Utterance-Level Attribute Representations with a Unified Speech Encoder**|Maryem Bouziane et.al.|[2603.08312](http://arxiv.org/abs/2603.08312)|null|
 |**2026-03-08**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al.|[2603.07480](http://arxiv.org/abs/2603.07480)|null|
