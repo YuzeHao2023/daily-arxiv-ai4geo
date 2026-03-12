@@ -44,6 +44,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation**|Tao Zhong et.al.|[2603.11045](http://arxiv.org/abs/2603.11045)|null|
+|**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](http://arxiv.org/abs/2603.10947)|null|
 |**2026-03-11**|**A Physics-Informed, Global-in-Time Neural Particle Method for the Spatially Homogeneous Landau Equation**|Minseok Kim et.al.|[2603.10874](http://arxiv.org/abs/2603.10874)|null|
 |**2026-03-11**|**Multi-scale weak lensing detection of galaxy clusters with source redshift tomography**|L. Chappuis et.al.|[2603.10636](http://arxiv.org/abs/2603.10636)|null|
 |**2026-03-11**|**Microstructural Characterization of Nb3Sn Thin Films Using FIB Tomography**|Eric Viklund et.al.|[2603.10472](http://arxiv.org/abs/2603.10472)|null|
@@ -684,6 +686,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
 |**2026-03-11**|**Monitoring of slopes, rock faces and masonry walls in a 19th century public park: the example of the Buttes Chaumont Park (Paris, France)**|Marc Peruzzetto et.al.|[2603.10591](http://arxiv.org/abs/2603.10591)|null|
 |**2026-03-11**|**Weighted Generalized Risk Measure and Risk Quandrangle: Characterization, Optimization and Application**|Yang Liu et.al.|[2603.10327](http://arxiv.org/abs/2603.10327)|null|
 |**2026-03-10**|**MCP-in-SoS: Risk assessment framework for open-source MCP servers**|Pratyay Kumar et.al.|[2603.10194](http://arxiv.org/abs/2603.10194)|null|
@@ -805,6 +808,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**A Semi-Structural Model with Household Debt for Israel**|Alex Ilek et.al.|[2603.11013](http://arxiv.org/abs/2603.11013)|null|
 |**2026-03-11**|**Crustal Structure Imaging of Ghana from Single-Station Ambient Noise Autocorrelations and Earthquake Arrival Time Inversion**|Hamzeh Mohammadigheymasi et.al.|[2603.10574](http://arxiv.org/abs/2603.10574)|null|
 |**2026-03-11**|**Three-gluon decays of radially excited quarkonia $ψ(2S)$ and $Υ(2S)$ with both relativistic and QCD radiative corrections**|Chao-Jie Fan et.al.|[2603.10440](http://arxiv.org/abs/2603.10440)|null|
 |**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](http://arxiv.org/abs/2603.08387)|null|
@@ -918,6 +922,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition**|Jian Sun et.al.|[2603.10965](http://arxiv.org/abs/2603.10965)|null|
+|**2026-03-11**|**Bio-Inspired Self-Supervised Learning for Wrist-worn IMU Signals**|Prithviraj Tarale et.al.|[2603.10961](http://arxiv.org/abs/2603.10961)|null|
 |**2026-03-10**|**Paralinguistic Emotion-Aware Validation Timing Detection in Japanese Empathetic Spoken Dialogue**|Zi Haur Pang et.al.|[2603.09307](http://arxiv.org/abs/2603.09307)|null|
 |**2026-03-10**|**Learning Convex Decomposition via Feature Fields**|Yuezhi Yang et.al.|[2603.09285](http://arxiv.org/abs/2603.09285)|null|
 |**2026-03-09**|**16 new quasars at the end of the reionization unveiled by self-supervised learning**|L. N. Martínez-Ramírez et.al.|[2603.08830](http://arxiv.org/abs/2603.08830)|null|
