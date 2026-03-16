@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -45,6 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Fast Arbitrary Qutrit Gates for NV Centers in the Low-Field Regime**|Alberto López-García et.al.|[2603.12984](http://arxiv.org/abs/2603.12984)|null|
+|**2026-03-13**|**RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems**|Pablo Herrera et.al.|[2603.12982](http://arxiv.org/abs/2603.12982)|null|
+|**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](http://arxiv.org/abs/2603.12667)|null|
+|**2026-03-13**|**Experimental aspects of the Quantum Tomography of tau lepton pairs at a Higgs factory collider**|Daniel Jeans et.al.|[2603.12609](http://arxiv.org/abs/2603.12609)|null|
+|**2026-03-13**|**Variational Garrote for Sparse Inverse Problems**|Kanghun Lee et.al.|[2603.12562](http://arxiv.org/abs/2603.12562)|null|
+|**2026-03-13**|**Scaling Laws and Pathologies of Single-Layer PINNs: Network Width and PDE Nonlinearity**|Faris Chaudhry et.al.|[2603.12556](http://arxiv.org/abs/2603.12556)|null|
+|**2026-03-12**|**Unleashing Video Language Models for Fine-grained HRCT Report Generation**|Yingying Fang et.al.|[2603.12469](http://arxiv.org/abs/2603.12469)|null|
 |**2026-03-12**|**Transition from Statistical to Hardware-Limited Scaling in Photonic Quantum State Reconstruction**|Attila Baumann et.al.|[2603.12235](http://arxiv.org/abs/2603.12235)|null|
 |**2026-03-12**|**GATOS N: The first direct kinematic evidence of dusty outflows from AGN via PAH kinematics of local Seyfert galaxies with JWST**|Fergus R. Donnan et.al.|[2603.12200](http://arxiv.org/abs/2603.12200)|null|
 |**2026-03-12**|**Identifying highly magnetized white dwarfs: A dimensionality reduction framework for estimating magnetic fields**|Surajit Kalita et.al.|[2603.11945](http://arxiv.org/abs/2603.11945)|null|
@@ -343,6 +350,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Consistent and Efficient MSCKF-based LiDAR-Inertial Odometry with Inferred Cluster-to-Plane Constraints for UAVs**|Jinwen Zhu et.al.|[2603.12904](http://arxiv.org/abs/2603.12904)|null|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
+|**2026-03-13**|**Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing**|Shuchang Lyu et.al.|[2603.12788](http://arxiv.org/abs/2603.12788)|null|
+|**2026-03-13**|**TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation**|Nazar Puriy et.al.|[2603.12762](http://arxiv.org/abs/2603.12762)|null|
+|**2026-03-13**|**Two-photon dual-comb LiDAR imaging**|Alexander J. M. Nelmes et.al.|[2603.12729](http://arxiv.org/abs/2603.12729)|null|
+|**2026-03-13**|**Bin~Wan,G2HFNet: GeoGran-Aware Hierarchical Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12680](http://arxiv.org/abs/2603.12680)|null|
+|**2026-03-13**|**Learning Geometric and Photometric Features from Panoramic LiDAR Scans for Outdoor Place Categorization**|Kazuto Nakashima et.al.|[2603.12663](http://arxiv.org/abs/2603.12663)|null|
+|**2026-03-13**|**AVION: Aerial Vision-Language Instruction from Offline Teacher to Prompt-Tuned Network**|Yu Hu et.al.|[2603.12659](http://arxiv.org/abs/2603.12659)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
 |**2026-03-12**|**RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12215](http://arxiv.org/abs/2603.12215)|null|
 |**2026-03-12**|**Decentralized Cooperative Localization for Multi-Robot Systems with Asynchronous Sensor Fusion**|Nivand Khosravi et.al.|[2603.12075](http://arxiv.org/abs/2603.12075)|null|
 |**2026-03-12**|**A Joint JSCC-Resource Allocation Framework for QoS-Aware Semantic Communication in LEO Satellite-based EO Missions**|Hung Nguyen-Kha et.al.|[2603.12027](http://arxiv.org/abs/2603.12027)|null|
@@ -647,6 +663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Partially Fault-Tolerant Quantum Computation for Megaquop Applications**|Ming-Zhi Chung et.al.|[2603.13093](http://arxiv.org/abs/2603.13093)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](http://arxiv.org/abs/2603.11836)|null|
 |**2026-03-11**|**Low $T$ -count preparation of nuclear eigenstates with tensor networks**|Joe Gibbs et.al.|[2603.11156](http://arxiv.org/abs/2603.11156)|null|
 |**2026-03-11**|**Feasibility of satellite-augmented global quantum repeater networks**|Manik Dawar et.al.|[2603.11127](http://arxiv.org/abs/2603.11127)|null|
@@ -713,6 +730,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**FraudFox: Adaptable Fraud Detection in the Real World**|Matthew Butler et.al.|[2603.13014](http://arxiv.org/abs/2603.13014)|null|
+|**2026-03-13**|**Forecasting Epileptic Seizures from Contactless Camera via Cross-Species Transfer Learning**|Mingkai Zhai et.al.|[2603.12887](http://arxiv.org/abs/2603.12887)|null|
 |**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
 |**2026-03-11**|**Monitoring of slopes, rock faces and masonry walls in a 19th century public park: the example of the Buttes Chaumont Park (Paris, France)**|Marc Peruzzetto et.al.|[2603.10591](http://arxiv.org/abs/2603.10591)|null|
 |**2026-03-12**|**Weighted Generalized Risk Measure and Risk Quadrangle: Characterization, Optimization and Application**|Yang Liu et.al.|[2603.10327](http://arxiv.org/abs/2603.10327)|null|
@@ -836,6 +855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via Assistant Experts**|Chengjie Zhang et.al.|[2603.12769](http://arxiv.org/abs/2603.12769)|null|
+|**2026-03-13**|**Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains**|Guodong Sun et.al.|[2603.12624](http://arxiv.org/abs/2603.12624)|null|
+|**2026-03-13**|**Adversarial Stress Tests for Quantum Certification**|Veronica Sanz et.al.|[2603.12622](http://arxiv.org/abs/2603.12622)|null|
 |**2026-03-12**|**Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT**|Elizabeth A. Peterson et.al.|[2603.12153](http://arxiv.org/abs/2603.12153)|null|
 |**2026-03-11**|**Enhanced Seismicity Monitoring in the Rapid Scientific Response to the 2025 Santorini Crisis**|Margarita Segou et.al.|[2603.11108](http://arxiv.org/abs/2603.11108)|null|
 |**2026-03-11**|**A Semi-Structural Model with Household Debt for Israel**|Alex Ilek et.al.|[2603.11013](http://arxiv.org/abs/2603.11013)|null|
@@ -952,6 +974,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
+|**2026-03-13**|**DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training**|Ridwan Arefeen et.al.|[2603.12840](http://arxiv.org/abs/2603.12840)|null|
+|**2026-03-12**|**RadEar: A Self-Supervised RF Backscatter System for Voice Eavesdropping and Separation**|Qijun Wang et.al.|[2603.12446](http://arxiv.org/abs/2603.12446)|null|
 |**2026-03-12**|**UniMotion: Self-Supervised Learning for Cross-Domain IMU Motion Recognition**|Prerna Khanna et.al.|[2603.12218](http://arxiv.org/abs/2603.12218)|null|
 |**2026-03-12**|**Learning Transferable Sensor Models via Language-Informed Pretraining**|Yuliang Chen et.al.|[2603.11950](http://arxiv.org/abs/2603.11950)|null|
 |**2026-03-12**|**Multi-Station WiFi CSI Sensing Framework Robust to Station-wise Feature Missingness and Limited Labeled Data**|Keita Kayano et.al.|[2603.11858](http://arxiv.org/abs/2603.11858)|null|
