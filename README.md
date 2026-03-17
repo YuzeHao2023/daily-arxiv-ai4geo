@@ -59,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask**|Vasiliy A. Es'kin et.al.|[2603.15584](http://arxiv.org/abs/2603.15584)|null|
+|**2026-03-16**|**Building Trust in PINNs: Error Estimation through Finite Difference Methods**|Aleksander Krasowski et.al.|[2603.15526](http://arxiv.org/abs/2603.15526)|null|
+|**2026-03-16**|**Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale**|Emmanuel Uwayezu et.al.|[2603.15456](http://arxiv.org/abs/2603.15456)|null|
+|**2026-03-16**|**Microstructural characteristics, atomic-scale features, and growth mechanisms of deuterides (hydrides) in hafnium**|Di Wang et.al.|[2603.15420](http://arxiv.org/abs/2603.15420)|null|
+|**2026-03-16**|**Conditional Rectified Flow-based End-to-End Rapid Seismic Inversion Method**|Haofei Xu et.al.|[2603.15354](http://arxiv.org/abs/2603.15354)|null|
+|**2026-03-16**|**A scaled TW-PINN: A physics-informed neural network for traveling wave solutions of reaction-diffusion equations with general coefficients**|Seungwan Han et.al.|[2603.15331](http://arxiv.org/abs/2603.15331)|null|
+|**2026-03-16**|**PiGRAND: Physics-informed Graph Neural Diffusion for Intelligent Additive Manufacturing**|Benjamin Uhrich et.al.|[2603.15194](http://arxiv.org/abs/2603.15194)|null|
+|**2026-03-16**|**An Efficient Cumulative Edge-Detection Method for Image Reconstruction**|Toluwani Okunola et.al.|[2603.15151](http://arxiv.org/abs/2603.15151)|null|
+|**2026-03-16**|**The Evolution of Computer-Assisted Proof In Analysis**|Marek Rychlik et.al.|[2603.15073](http://arxiv.org/abs/2603.15073)|null|
+|**2026-03-16**|**Hamiltonian dynamics for stochastic reconstruction in emission tomography**|T. Leontiou et.al.|[2603.15070](http://arxiv.org/abs/2603.15070)|null|
 |**2026-03-14**|**Energy Dissipation Preserving Feature-based DNN Galerkin Methods for Gradient Flows**|Tao Tang et.al.|[2603.14029](http://arxiv.org/abs/2603.14029)|null|
 |**2026-03-14**|**Countershading coloration in blue shark skin emerges from hierarchically organized and spatially tuned photonic architectures inside skin denticles**|Viktoriia Kamska et.al.|[2603.13937](http://arxiv.org/abs/2603.13937)|null|
 |**2026-03-14**|**Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks**|Zhangyong Liang et.al.|[2603.13751](http://arxiv.org/abs/2603.13751)|null|
@@ -373,6 +383,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Universal Weakly Fault-Tolerant Quantum Computation via Code Switching in the [[8,3,2]] Code**|Shixin Wu et.al.|[2603.15610](http://arxiv.org/abs/2603.15610)|null|
+|**2026-03-16**|**Analog-Digital Quantum Computing with Quantum Annealing Processors**|Rahul Deshpande et.al.|[2603.15534](http://arxiv.org/abs/2603.15534)|null|
+|**2026-03-16**|**Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification**|Georgios Maragkopoulos et.al.|[2603.15522](http://arxiv.org/abs/2603.15522)|null|
+|**2026-03-16**|**Real-Time Oriented Object Detection Transformer in Remote Sensing Images**|Zeyu Ding et.al.|[2603.15497](http://arxiv.org/abs/2603.15497)|null|
+|**2026-03-16**|**RSGen: Enhancing Layout-Driven Remote Sensing Image Generation with Diverse Edge Guidance**|Xianbao Hou et.al.|[2603.15484](http://arxiv.org/abs/2603.15484)|null|
+|**2026-03-16**|**On the Derivation of Tightly-Coupled LiDAR-Inertial Odometry with VoxelMap**|Zhihao Zhan et.al.|[2603.15471](http://arxiv.org/abs/2603.15471)|null|
+|**2026-03-16**|**A PPO-Based Bitrate Allocation Conditional Diffusion Model for Remote Sensing Image Compression**|Yuming Han et.al.|[2603.15365](http://arxiv.org/abs/2603.15365)|null|
+|**2026-03-16**|**Context-Aware Sensor Modeling for Asynchronous Multi-Sensor Tracking in Stone Soup**|Martin Vonheim Larsen et.al.|[2603.15137](http://arxiv.org/abs/2603.15137)|null|
+|**2026-03-16**|**A Novel Camera-to-Robot Calibration Method for Vision-Based Floor Measurements**|Jan Andre Rudolph et.al.|[2603.15126](http://arxiv.org/abs/2603.15126)|null|
+|**2026-03-16**|**A Tutorial on ALOS2 SAR Utilization: Dataset Preparation, Self-Supervised Pretraining, and Semantic Segmentation**|Nevrez Imamoglu et.al.|[2603.15119](http://arxiv.org/abs/2603.15119)|null|
 |**2026-03-14**|**Self-Supervised Uncertainty Estimation For Super-Resolution of Satellite Images**|Zhe Zheng et.al.|[2603.14074](http://arxiv.org/abs/2603.14074)|null|
 |**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
 |**2026-03-14**|**Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.|[2603.13941](http://arxiv.org/abs/2603.13941)|null|
@@ -698,6 +718,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Adaptive GPU Kinetic Solver for Fluid-Granular Flows**|Xingqiao Li et.al.|[2603.14982](http://arxiv.org/abs/2603.14982)|null|
+|**2026-03-15**|**MOTO: Topology Optimization for Large Deformations via an Implicit Material Point Method**|Rahul Kumar Padhy et.al.|[2603.14596](http://arxiv.org/abs/2603.14596)|null|
 |**2026-03-13**|**Partially Fault-Tolerant Quantum Computation for Megaquop Applications**|Ming-Zhi Chung et.al.|[2603.13093](http://arxiv.org/abs/2603.13093)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](http://arxiv.org/abs/2603.11836)|null|
 |**2026-03-11**|**Low $T$ -count preparation of nuclear eigenstates with tensor networks**|Joe Gibbs et.al.|[2603.11156](http://arxiv.org/abs/2603.11156)|null|
@@ -747,7 +769,7 @@
 |---|---|---|---|---|
 |**2026-03-10**|**Network modelling of yield-stress fluid flow in randomly disordered porous media**|Cláudio P. Fonte et.al.|[2603.09801](http://arxiv.org/abs/2603.09801)|null|
 |**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
-|**2026-03-07**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
+|**2026-03-16**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
 |**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
@@ -769,6 +791,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**Functional Safety Analysis for Infrastructure-Enabled Depot Autonomy System**|Gaurav Pandey et.al.|[2603.14616](http://arxiv.org/abs/2603.14616)|null|
+|**2026-03-15**|**HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task**|Xiaoya Lu et.al.|[2603.14367](http://arxiv.org/abs/2603.14367)|null|
 |**2026-03-13**|**FraudFox: Adaptable Fraud Detection in the Real World**|Matthew Butler et.al.|[2603.13014](http://arxiv.org/abs/2603.13014)|null|
 |**2026-03-13**|**Forecasting Epileptic Seizures from Contactless Camera via Cross-Species Transfer Learning**|Mingkai Zhai et.al.|[2603.12887](http://arxiv.org/abs/2603.12887)|null|
 |**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
@@ -898,6 +922,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**A multiscale discrete-to-continuum framework for structured population models**|Eleonora Agostinelli et.al.|[2603.15217](http://arxiv.org/abs/2603.15217)|null|
+|**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|Xingyi Wang et.al.|[2603.15084](http://arxiv.org/abs/2603.15084)|null|
+|**2026-03-15**|**Progress-Based Fault Detection and Health-Aware Task Allocation for Heterogeneous Multi-Robot Systems**|Jack Cline et.al.|[2603.14622](http://arxiv.org/abs/2603.14622)|null|
 |**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[2603.14132](http://arxiv.org/abs/2603.14132)|null|
 |**2026-03-13**|**Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via Assistant Experts**|Chengjie Zhang et.al.|[2603.12769](http://arxiv.org/abs/2603.12769)|null|
 |**2026-03-13**|**Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains**|Guodong Sun et.al.|[2603.12624](http://arxiv.org/abs/2603.12624)|null|
@@ -1020,6 +1047,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Self-Distillation of Hidden Layers for Self-Supervised Representation Learning**|Scott C. Lowe et.al.|[2603.15553](http://arxiv.org/abs/2603.15553)|null|
+|**2026-03-16**|**IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning**|Konstantinos Almpanakis et.al.|[2603.15263](http://arxiv.org/abs/2603.15263)|null|
+|**2026-03-16**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
+|**2026-03-16**|**Automated Diabetic Screening via Anterior Segment Ocular Imaging: A Deep Learning and Explainable AI Approach**|Hasaan Maqsood et.al.|[2603.14727](http://arxiv.org/abs/2603.14727)|null|
+|**2026-03-15**|**V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning**|Lorenzo Mur-Labadia et.al.|[2603.14482](http://arxiv.org/abs/2603.14482)|null|
 |**2026-03-14**|**What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection**|Shree Harsha Bokkahalli Satish et.al.|[2603.14033](http://arxiv.org/abs/2603.14033)|null|
 |**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
 |**2026-03-14**|**Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video**|Yuting Tan et.al.|[2603.13912](http://arxiv.org/abs/2603.13912)|null|
