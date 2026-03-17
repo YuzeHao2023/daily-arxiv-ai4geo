@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Landau-de Gennes numerical simulation of nematic liquid crystals utilizing radial basis functions**|Jin-Sheng Wu et.al.|[2603.13991](http://arxiv.org/abs/2603.13991)|null|
 |**2026-03-11**|**Enhanced Seismicity Monitoring in the Rapid Scientific Response to the 2025 Santorini Crisis**|Margarita Segou et.al.|[2603.11108](http://arxiv.org/abs/2603.11108)|null|
 |**2026-03-06**|**On the coupled geometrical-mechanical origin of the earthquake b-value in fault networks**|Wenbo Pan et.al.|[2603.06892](http://arxiv.org/abs/2603.06892)|null|
 |**2026-03-05**|**UK White Paper on Magnetohydrodynamic (MHD) seismology of solar and heliospheric plasmas**|Valery M. Nakariakov et.al.|[2603.05571](http://arxiv.org/abs/2603.05571)|null|
@@ -45,6 +46,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Energy Dissipation Preserving Feature-based DNN Galerkin Methods for Gradient Flows**|Tao Tang et.al.|[2603.14029](http://arxiv.org/abs/2603.14029)|null|
+|**2026-03-14**|**Countershading coloration in blue shark skin emerges from hierarchically organized and spatially tuned photonic architectures inside skin denticles**|Viktoriia Kamska et.al.|[2603.13937](http://arxiv.org/abs/2603.13937)|null|
+|**2026-03-14**|**Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks**|Zhangyong Liang et.al.|[2603.13751](http://arxiv.org/abs/2603.13751)|null|
+|**2026-03-13**|**Robust Sequential Tracking via Bounded Information Geometry and Non-Parametric Field Actions**|Carlos C. Rodriguez et.al.|[2603.13613](http://arxiv.org/abs/2603.13613)|null|
+|**2026-03-13**|**Active Sampling Sample-based Quantum Diagonalization from Finite-Shot Measurements**|Rinka Miura et.al.|[2603.13536](http://arxiv.org/abs/2603.13536)|null|
+|**2026-03-13**|**A Systematic Benchmark of GAN Architectures for MRI-to-CT Synthesis**|Alessandro Pesci et.al.|[2603.13520](http://arxiv.org/abs/2603.13520)|null|
+|**2026-03-13**|**MGMAR: Metal-Guided Metal Artifact Reduction for X-ray Computed Tomography**|Hyoung Suk Park et.al.|[2603.13447](http://arxiv.org/abs/2603.13447)|null|
 |**2026-03-13**|**Fast Arbitrary Qutrit Gates for NV Centers in the Low-Field Regime**|Alberto López-García et.al.|[2603.12984](http://arxiv.org/abs/2603.12984)|null|
 |**2026-03-13**|**RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems**|Pablo Herrera et.al.|[2603.12982](http://arxiv.org/abs/2603.12982)|null|
 |**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](http://arxiv.org/abs/2603.12667)|null|
@@ -350,6 +358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Self-Supervised Uncertainty Estimation For Super-Resolution of Satellite Images**|Zhe Zheng et.al.|[2603.14074](http://arxiv.org/abs/2603.14074)|null|
+|**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
+|**2026-03-14**|**Bidirectional Cross-Attention Fusion of High-Res RGB and Low-Res HSI for Multimodal Automated Waste Sorting**|Jonas V. Funk et.al.|[2603.13941](http://arxiv.org/abs/2603.13941)|null|
+|**2026-03-14**|**Path-conditioned Reinforcement Learning-based Local Planning for Long-Range Navigation**|Mateo Haro et.al.|[2603.13888](http://arxiv.org/abs/2603.13888)|null|
+|**2026-03-14**|**Dual-Strategy Improvement of YOLOv11n for Multi-Scale Object Detection in Remote Sensing Images**|Shuaiyu Zhu et.al.|[2603.13879](http://arxiv.org/abs/2603.13879)|null|
+|**2026-03-14**|**VFM-Loc: Zero-Shot Cross-View Geo-Localization via Aligning Discriminative Visual Hierarchies**|Jun Lu et.al.|[2603.13855](http://arxiv.org/abs/2603.13855)|null|
+|**2026-03-14**|**NetSpatial: Spatially Conditional Traffic Generation for Cellular Planning and Operations**|Shiyuan Zhang et.al.|[2603.13839](http://arxiv.org/abs/2603.13839)|null|
+|**2026-03-14**|**ALTIS: Automated Loss Triage and Impact Scoring from Sentinel-1 SAR for Property-Level Flood Damage Assessment**|Amogh Vinaykumar et.al.|[2603.13803](http://arxiv.org/abs/2603.13803)|null|
+|**2026-03-14**|**Sky2Ground: A Benchmark for Site Modeling under Varying Altitude**|Zengyan Wang et.al.|[2603.13740](http://arxiv.org/abs/2603.13740)|null|
+|**2026-03-14**|**RSEdit: Text-Guided Image Editing for Remote Sensing**|Chen Zhenyuan et.al.|[2603.13708](http://arxiv.org/abs/2603.13708)|null|
 |**2026-03-13**|**Consistent and Efficient MSCKF-based LiDAR-Inertial Odometry with Inferred Cluster-to-Plane Constraints for UAVs**|Jinwen Zhu et.al.|[2603.12904](http://arxiv.org/abs/2603.12904)|null|
 |**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
 |**2026-03-13**|**Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing**|Shuchang Lyu et.al.|[2603.12788](http://arxiv.org/abs/2603.12788)|null|
@@ -855,6 +873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[2603.14132](http://arxiv.org/abs/2603.14132)|null|
 |**2026-03-13**|**Easy-IIL: Reducing Human Operational Burden in Interactive Imitation Learning via Assistant Experts**|Chengjie Zhang et.al.|[2603.12769](http://arxiv.org/abs/2603.12769)|null|
 |**2026-03-13**|**Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains**|Guodong Sun et.al.|[2603.12624](http://arxiv.org/abs/2603.12624)|null|
 |**2026-03-13**|**Adversarial Stress Tests for Quantum Certification**|Veronica Sanz et.al.|[2603.12622](http://arxiv.org/abs/2603.12622)|null|
@@ -974,6 +993,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection**|Shree Harsha Bokkahalli Satish et.al.|[2603.14033](http://arxiv.org/abs/2603.14033)|null|
+|**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
+|**2026-03-14**|**Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video**|Yuting Tan et.al.|[2603.13912](http://arxiv.org/abs/2603.13912)|null|
+|**2026-03-14**|**Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition**|Seokmin Lee et.al.|[2603.13904](http://arxiv.org/abs/2603.13904)|null|
+|**2026-03-14**|**Evaluating Pretrained General-Purpose Audio Representations for Music Genre Classification**|Kashish Rai et.al.|[2603.13871](http://arxiv.org/abs/2603.13871)|null|
+|**2026-03-14**|**Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision**|Yunhe Gao et.al.|[2603.13660](http://arxiv.org/abs/2603.13660)|null|
+|**2026-03-13**|**Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution**|Gabriel Pîrlogeanu et.al.|[2603.13488](http://arxiv.org/abs/2603.13488)|null|
 |**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
 |**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
 |**2026-03-13**|**DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training**|Ridwan Arefeen et.al.|[2603.12840](http://arxiv.org/abs/2603.12840)|null|
