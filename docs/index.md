@@ -46,6 +46,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Efficient Shadow Tomography of Thermal States**|Chi-Fang Chen et.al.|[2603.16845](http://arxiv.org/abs/2603.16845)|null|
+|**2026-03-17**|**High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout**|Boo Carmans et.al.|[2603.16502](http://arxiv.org/abs/2603.16502)|null|
+|**2026-03-17**|**Tritium as an Unambiguous Isotopic Tracer for Nanoscale Hydrogen Analysis by Atom Probe Tomography**|Maria Vrellou et.al.|[2603.16457](http://arxiv.org/abs/2603.16457)|null|
 |**2026-03-17**|**Robust Physics-Guided Diffusion for Full-Waveform Inversion**|Jishen Peng et.al.|[2603.16393](http://arxiv.org/abs/2603.16393)|null|
 |**2026-03-17**|**3D tomography of exchange phase in a Si/SiGe quantum dot device**|Dylan Albrecht et.al.|[2603.16025](http://arxiv.org/abs/2603.16025)|null|
 |**2026-03-16**|**Towards Fair and Robust Volumetric CT Classification via KL-Regularised Group Distributionally Robust Optimisation**|Samuel Johnny et.al.|[2603.15941](http://arxiv.org/abs/2603.15941)|null|
@@ -373,6 +376,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**An assessment of data-centric methods for label noise identification in remote sensing data sets**|Felix Kröber et.al.|[2603.16835](http://arxiv.org/abs/2603.16835)|null|
+|**2026-03-17**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|null|
+|**2026-03-17**|**Preserving Vertical Structure in 3D-to-2D Projection for Permafrost Thaw Mapping**|Justin McMillen et.al.|[2603.16788](http://arxiv.org/abs/2603.16788)|null|
+|**2026-03-17**|**$x^2$ -Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space**|Ruishan Guo et.al.|[2603.16671](http://arxiv.org/abs/2603.16671)|null|
+|**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-17**|**3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2603.16426](http://arxiv.org/abs/2603.16426)|null|
 |**2026-03-17**|**Unpaired Cross-Domain Calibration of DMSP to VIIRS Nighttime Light Data Based on CUT Network**|Zhan Tong et.al.|[2603.16385](http://arxiv.org/abs/2603.16385)|null|
 |**2026-03-17**|**$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**|Ruizhi Wang et.al.|[2603.16362](http://arxiv.org/abs/2603.16362)|null|
@@ -916,8 +924,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**On the Transfer of Collinearity to Computer Vision**|Frederik Beuth et.al.|[2603.16592](http://arxiv.org/abs/2603.16592)|null|
+|**2026-03-17**|**A Novel Approach for Fault Detection and Failure Analysis of CMOS Copper Metal Stacks**|Gregor Hieronymus Eberwein et.al.|[2603.16473](http://arxiv.org/abs/2603.16473)|null|
 |**2026-03-16**|**Hypothesis Class Determines Explanation: Why Accurate Models Disagree on Feature Attribution**|Thackshanaramana B et.al.|[2603.15821](http://arxiv.org/abs/2603.15821)|null|
-|**2026-03-16**|**A multiscale discrete-to-continuum framework for structured population models**|Eleonora Agostinelli et.al.|[2603.15217](http://arxiv.org/abs/2603.15217)|null|
+|**2026-03-17**|**A multiscale discrete-to-continuum framework for structured population models**|Eleonora Agostinelli et.al.|[2603.15217](http://arxiv.org/abs/2603.15217)|null|
 |**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|Xingyi Wang et.al.|[2603.15084](http://arxiv.org/abs/2603.15084)|null|
 |**2026-03-15**|**Progress-Based Fault Detection and Health-Aware Task Allocation for Heterogeneous Multi-Robot Systems**|Jack Cline et.al.|[2603.14622](http://arxiv.org/abs/2603.14622)|null|
 |**2026-03-14**|**DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++**|Shahriar Kabir et.al.|[2603.14132](http://arxiv.org/abs/2603.14132)|null|
@@ -1047,7 +1057,7 @@ layout: default
 |**2026-03-16**|**IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning**|Konstantinos Almpanakis et.al.|[2603.15263](http://arxiv.org/abs/2603.15263)|null|
 |**2026-03-17**|**Masked BRep Autoencoder via Hierarchical Graph Transformer**|Yifei Li et.al.|[2603.14927](http://arxiv.org/abs/2603.14927)|null|
 |**2026-03-16**|**Automated Diabetic Screening via Anterior Segment Ocular Imaging: A Deep Learning and Explainable AI Approach**|Hasaan Maqsood et.al.|[2603.14727](http://arxiv.org/abs/2603.14727)|null|
-|**2026-03-15**|**V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning**|Lorenzo Mur-Labadia et.al.|[2603.14482](http://arxiv.org/abs/2603.14482)|null|
+|**2026-03-17**|**V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning**|Lorenzo Mur-Labadia et.al.|[2603.14482](http://arxiv.org/abs/2603.14482)|null|
 |**2026-03-14**|**What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection**|Shree Harsha Bokkahalli Satish et.al.|[2603.14033](http://arxiv.org/abs/2603.14033)|null|
 |**2026-03-14**|**Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing**|Kursat Komurcu et.al.|[2603.13943](http://arxiv.org/abs/2603.13943)|null|
 |**2026-03-14**|**Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video**|Yuting Tan et.al.|[2603.13912](http://arxiv.org/abs/2603.13912)|null|
