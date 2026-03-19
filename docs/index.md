@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -46,6 +46,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Reconstructing the Type Ia Supernova Absolute Magnitude with Two-Probe Physics-Informed Neural Networks**|Denitsa Staicova et.al.|[2603.17184](http://arxiv.org/abs/2603.17184)|null|
+|**2026-03-17**|**Topology-Guided Biomechanical Profiling: A White-Box Framework for Opportunistic Screening of Spinal Instability on Routine CT**|Zanting Ye et.al.|[2603.16963](http://arxiv.org/abs/2603.16963)|null|
 |**2026-03-17**|**Efficient Shadow Tomography of Thermal States**|Chi-Fang Chen et.al.|[2603.16845](http://arxiv.org/abs/2603.16845)|null|
 |**2026-03-17**|**High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout**|Boo Carmans et.al.|[2603.16502](http://arxiv.org/abs/2603.16502)|null|
 |**2026-03-17**|**Tritium as an Unambiguous Isotopic Tracer for Nanoscale Hydrogen Analysis by Atom Probe Tomography**|Maria Vrellou et.al.|[2603.16457](http://arxiv.org/abs/2603.16457)|null|
@@ -53,7 +55,7 @@ layout: default
 |**2026-03-17**|**3D tomography of exchange phase in a Si/SiGe quantum dot device**|Dylan Albrecht et.al.|[2603.16025](http://arxiv.org/abs/2603.16025)|null|
 |**2026-03-16**|**Towards Fair and Robust Volumetric CT Classification via KL-Regularised Group Distributionally Robust Optimisation**|Samuel Johnny et.al.|[2603.15941](http://arxiv.org/abs/2603.15941)|null|
 |**2026-03-16**|**Nodule-Aligned Latent Space Learning with LLM-Driven Multimodal Diffusion for Lung Nodule Progression Prediction**|James Song et.al.|[2603.15932](http://arxiv.org/abs/2603.15932)|null|
-|**2026-03-16**|**Physics-informed neural networks for solving strong-field saddle-point equations in strong-field physics with tailored fields**|Jiakang Chen et.al.|[2603.15786](http://arxiv.org/abs/2603.15786)|null|
+|**2026-03-18**|**Physics-informed neural networks for solving saddle-point equations in strong-field physics with tailored fields**|Jiakang Chen et.al.|[2603.15786](http://arxiv.org/abs/2603.15786)|null|
 |**2026-03-17**|**Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask**|Vasiliy A. Es'kin et.al.|[2603.15584](http://arxiv.org/abs/2603.15584)|null|
 |**2026-03-16**|**Building Trust in PINNs: Error Estimation through Finite Difference Methods**|Aleksander Krasowski et.al.|[2603.15526](http://arxiv.org/abs/2603.15526)|null|
 |**2026-03-16**|**Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale**|Emmanuel Uwayezu et.al.|[2603.15456](http://arxiv.org/abs/2603.15456)|null|
@@ -376,6 +378,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping**|Markus Gross et.al.|[2603.17430](http://arxiv.org/abs/2603.17430)|null|
+|**2026-03-18**|**VisionNVS: Self-Supervised Inpainting for Novel View Synthesis under the Virtual-Shift Paradigm**|Hongbo Lu et.al.|[2603.17382](http://arxiv.org/abs/2603.17382)|null|
+|**2026-03-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al.|[2603.17351](http://arxiv.org/abs/2603.17351)|null|
+|**2026-03-17**|**BEV-SLD: Self-Supervised Scene Landmark Detection for Global Localization with LiDAR Bird's-Eye View Images**|David Skuddis et.al.|[2603.17159](http://arxiv.org/abs/2603.17159)|null|
 |**2026-03-17**|**An assessment of data-centric methods for label noise identification in remote sensing data sets**|Felix Kröber et.al.|[2603.16835](http://arxiv.org/abs/2603.16835)|null|
 |**2026-03-17**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|null|
 |**2026-03-17**|**Preserving Vertical Structure in 3D-to-2D Projection for Permafrost Thaw Mapping**|Justin McMillen et.al.|[2603.16788](http://arxiv.org/abs/2603.16788)|null|
@@ -1050,6 +1056,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Self-Conditioned Denoising for Atomistic Representation Learning**|Tynan Perez et.al.|[2603.17196](http://arxiv.org/abs/2603.17196)|null|
+|**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-17**|**Cross-modal learning for plankton recognition**|Joona Kareinen et.al.|[2603.16427](http://arxiv.org/abs/2603.16427)|null|
 |**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338](http://arxiv.org/abs/2603.16338)|null|
 |**2026-03-17**|**Laya: A LeJEPA Approach to EEG via Latent Prediction over Reconstruction**|Saarang Panchavati et.al.|[2603.16281](http://arxiv.org/abs/2603.16281)|null|
