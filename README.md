@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation**|William Thorossian et.al.|[2603.17855](http://arxiv.org/abs/2603.17855)|null|
 |**2026-03-14**|**Landau-de Gennes numerical simulation of nematic liquid crystals utilizing radial basis functions**|Jin-Sheng Wu et.al.|[2603.13991](http://arxiv.org/abs/2603.13991)|null|
 |**2026-03-11**|**Enhanced Seismicity Monitoring in the Rapid Scientific Response to the 2025 Santorini Crisis**|Margarita Segou et.al.|[2603.11108](http://arxiv.org/abs/2603.11108)|null|
 |**2026-03-06**|**On the coupled geometrical-mechanical origin of the earthquake b-value in fault networks**|Wenbo Pan et.al.|[2603.06892](http://arxiv.org/abs/2603.06892)|null|
@@ -59,6 +60,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**State-dependent temperature control in Langevin diffusions using numerical exploratory Hamiltonian-Jacobi-Bellman equations**|Taorui Wang et.al.|[2603.17934](http://arxiv.org/abs/2603.17934)|null|
+|**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](http://arxiv.org/abs/2603.17926)|null|
+|**2026-03-18**|**Verification and Validation of Physics-Informed Surrogate Component Models for Dynamic Power-System Simulation**|Petros Ellinas et.al.|[2603.17836](http://arxiv.org/abs/2603.17836)|null|
+|**2026-03-18**|**Symmetry-Reduced Physics-Informed Learning of Tensegrity Dynamics**|Jing Qin et.al.|[2603.17824](http://arxiv.org/abs/2603.17824)|null|
+|**2026-03-18**|**Deep Learning-Based 3D Seismic Velocity Inversion Under Dual-Domain Sparse Representation**|Guoxin Chen et.al.|[2603.17701](http://arxiv.org/abs/2603.17701)|null|
 |**2026-03-17**|**Reconstructing the Type Ia Supernova Absolute Magnitude with Two-Probe Physics-Informed Neural Networks**|Denitsa Staicova et.al.|[2603.17184](http://arxiv.org/abs/2603.17184)|null|
 |**2026-03-17**|**Topology-Guided Biomechanical Profiling: A White-Box Framework for Opportunistic Screening of Spinal Instability on Routine CT**|Zanting Ye et.al.|[2603.16963](http://arxiv.org/abs/2603.16963)|null|
 |**2026-03-17**|**Efficient Shadow Tomography of Thermal States**|Chi-Fang Chen et.al.|[2603.16845](http://arxiv.org/abs/2603.16845)|null|
@@ -393,6 +399,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
+|**2026-03-18**|**Does YOLO Really Need to See Every Training Image in Every Epoch?**|Xingxing Xie et.al.|[2603.17684](http://arxiv.org/abs/2603.17684)|null|
+|**2026-03-18**|**A Multi-Agent System for Building-Age Cohort Mapping to Support Urban Energy Planning**|Kundan Thota et.al.|[2603.17626](http://arxiv.org/abs/2603.17626)|null|
+|**2026-03-18**|**Prompt-Free Universal Region Proposal Network**|Qihong Tang et.al.|[2603.17554](http://arxiv.org/abs/2603.17554)|null|
+|**2026-03-18**|**MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|[2603.17528](http://arxiv.org/abs/2603.17528)|null|
 |**2026-03-18**|**SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping**|Markus Gross et.al.|[2603.17430](http://arxiv.org/abs/2603.17430)|null|
 |**2026-03-18**|**VisionNVS: Self-Supervised Inpainting for Novel View Synthesis under the Virtual-Shift Paradigm**|Hongbo Lu et.al.|[2603.17382](http://arxiv.org/abs/2603.17382)|null|
 |**2026-03-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al.|[2603.17351](http://arxiv.org/abs/2603.17351)|null|
@@ -821,9 +832,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-16**|**Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**|Gerhard Yu et.al.|[2603.16013](http://arxiv.org/abs/2603.16013)|null|
+|**2026-03-18**|**Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**|Gerhard Yu et.al.|[2603.16013](http://arxiv.org/abs/2603.16013)|null|
 |**2026-03-16**|**NEO Colors from The Mission Accessible Near-Earth Object Survey (MANOS)**|Nicholas Moskovitz et.al.|[2603.15872](http://arxiv.org/abs/2603.15872)|null|
-|**2026-03-13**|**Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning**|Aliyu Agboola Alege et.al.|[2603.15674](http://arxiv.org/abs/2603.15674)|null|
+|**2026-03-18**|**Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning**|Aliyu Agboola Alege et.al.|[2603.15674](http://arxiv.org/abs/2603.15674)|null|
 |**2026-03-15**|**Functional Safety Analysis for Infrastructure-Enabled Depot Autonomy System**|Gaurav Pandey et.al.|[2603.14616](http://arxiv.org/abs/2603.14616)|null|
 |**2026-03-15**|**HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task**|Xiaoya Lu et.al.|[2603.14367](http://arxiv.org/abs/2603.14367)|null|
 |**2026-03-13**|**FraudFox: Adaptable Fraud Detection in the Real World**|Matthew Butler et.al.|[2603.13014](http://arxiv.org/abs/2603.13014)|null|
@@ -1083,6 +1094,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
 |**2026-03-17**|**Self-Conditioned Denoising for Atomistic Representation Learning**|Tynan Perez et.al.|[2603.17196](http://arxiv.org/abs/2603.17196)|null|
 |**2026-03-17**|**Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation**|Marceau Lafargue-Hauret et.al.|[2603.17110](http://arxiv.org/abs/2603.17110)|null|
 |**2026-03-17**|**Cross-modal learning for plankton recognition**|Joona Kareinen et.al.|[2603.16427](http://arxiv.org/abs/2603.16427)|null|
