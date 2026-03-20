@@ -47,6 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Quantum theory based on real numbers cannot be experimentally falsified**|Timothée Hoffreumon et.al.|[2603.19208](http://arxiv.org/abs/2603.19208)|null|
+|**2026-03-19**|**Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees**|Amartya Mukherjee et.al.|[2603.19165](http://arxiv.org/abs/2603.19165)|null|
+|**2026-03-19**|**A bilinear inverse problem with forward operator inaccuracy applied to neonatal atlas-based diffuse optical tomography**|Aada Hakula et.al.|[2603.18980](http://arxiv.org/abs/2603.18980)|null|
+|**2026-03-19**|**Evolution of laser-driven magnetic fields from proton tomography**|J. Griff-McMahon et.al.|[2603.18931](http://arxiv.org/abs/2603.18931)|null|
+|**2026-03-19**|**Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness**|Yitong Li et.al.|[2603.18896](http://arxiv.org/abs/2603.18896)|null|
 |**2026-03-19**|**Learning Entanglement Quasiprobability from Noisy and Incomplete Data**|Yu-Zhuo Li et.al.|[2603.18414](http://arxiv.org/abs/2603.18414)|null|
 |**2026-03-18**|**A Family of Adaptive Activation Functions for Mitigating Failure Modes in Physics-Informed Neural Networks**|Krishna Murari et.al.|[2603.18328](http://arxiv.org/abs/2603.18328)|null|
 |**2026-03-18**|**Temperature in Glass Slides: measurement using Phase Sensitive Optical Coherence Tomography and Computational Modeling**|Jose M. Folgueiras et.al.|[2603.18226](http://arxiv.org/abs/2603.18226)|null|
@@ -389,6 +394,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Mobile Radio Networks and Weather Radars Dualism: Rainfall Measurement Revolution in Densely Populated Areas**|Davide Tornielli Bellini et.al.|[2603.19153](http://arxiv.org/abs/2603.19153)|null|
+|**2026-03-19**|**Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline**|Ye Wang et.al.|[2603.19077](http://arxiv.org/abs/2603.19077)|null|
+|**2026-03-19**|**TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**|Yan Shu et.al.|[2603.19039](http://arxiv.org/abs/2603.19039)|null|
 |**2026-03-19**|**Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors**|Jiatong Xia et.al.|[2603.18782](http://arxiv.org/abs/2603.18782)|null|
 |**2026-03-19**|**SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery**|Rong Fu et.al.|[2603.18634](http://arxiv.org/abs/2603.18634)|null|
 |**2026-03-19**|**Benchmarking Visual Feature Representations for LiDAR-Inertial-Visual Odometry Under Challenging Conditions**|Eunseon Choi et.al.|[2603.18589](http://arxiv.org/abs/2603.18589)|null|
@@ -823,6 +831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Man and machine: artificial intelligence and judicial decision making**|Arthur Dyevre et.al.|[2603.19042](http://arxiv.org/abs/2603.19042)|null|
 |**2026-03-19**|**Foundations and Architectures of Artificial Intelligence for Motor Insurance**|Teerapong Panboonyuen et.al.|[2603.18508](http://arxiv.org/abs/2603.18508)|null|
 |**2026-03-18**|**Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**|Gerhard Yu et.al.|[2603.16013](http://arxiv.org/abs/2603.16013)|null|
 |**2026-03-16**|**NEO Colors from The Mission Accessible Near-Earth Object Survey (MANOS)**|Nicholas Moskovitz et.al.|[2603.15872](http://arxiv.org/abs/2603.15872)|null|
@@ -935,6 +944,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Adaptive Nonlinear Data Assimilation through P-Spline Triangular Measure Transport**|Berent Å. S. Lunde et.al.|[2603.19058](http://arxiv.org/abs/2603.19058)|null|
 |**2026-03-12**|**A Nash stratification inequality and global regularity for a chemotaxis-fluid system on general 2D domains**|Alexander Kiselev et.al.|[2603.11508](http://arxiv.org/abs/2603.11508)|null|
 |**2026-03-02**|**Consistent initialization of mixed-dimensional multiphysics models for fractured reservoirs under geomechanical constraints and field measurements**|Jakub Wiktor Both et.al.|[2603.01835](http://arxiv.org/abs/2603.01835)|null|
 |**2026-01-27**|**Comparison of generative algorithms for conceptual groundwater modeling of coastal volcanic aquifer features with disparate, sparse and extremely imbalanced data**|Michael J. Friedel et.al.|[2602.10121](http://arxiv.org/abs/2602.10121)|null|
@@ -954,6 +964,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Hidden-charm pentaquarks: Electromagnetic structure in a diquark--diquark--antiquark model**|U. Ozdem et.al.|[2603.19151](http://arxiv.org/abs/2603.19151)|null|
+|**2026-03-19**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055](http://arxiv.org/abs/2603.19055)|null|
+|**2026-03-19**|**Linear and group identifying codes in Hamming Graphs**|N. V. Shinde et.al.|[2603.19031](http://arxiv.org/abs/2603.19031)|null|
 |**2026-03-19**|**GEAR: Geography-knowledge Enhanced Analog Recognition Framework in Extreme Environments**|Zelin Liu et.al.|[2603.18626](http://arxiv.org/abs/2603.18626)|null|
 |**2026-03-19**|**HEP Statistical Inference for UAV Fault Detection: CLs, LRT, and SBI Applied to Blade Damage**|Khushiyant et.al.|[2603.18546](http://arxiv.org/abs/2603.18546)|null|
 |**2026-03-18**|**BOWIE-ALIGN: Exploring degeneracies in the muted transmission spectrum of the aligned hot Jupiter NGTS-2b with NIRSpec/G395H**|Charlotte Fairman et.al.|[2603.18332](http://arxiv.org/abs/2603.18332)|null|
