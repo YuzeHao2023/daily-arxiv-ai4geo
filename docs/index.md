@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -47,6 +47,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Unveiling large-scale rotational motions in the intragroup medium at z~1 through gravitational-arc tomography**|Cédric Ledoux et.al.|[2603.20006](http://arxiv.org/abs/2603.20006)|null|
+|**2026-03-20**|**Physics-aware neural networks enable robust and full atomic structure determination via low-dose atomic electron tomography**|Yao Zhang et.al.|[2603.19942](http://arxiv.org/abs/2603.19942)|null|
+|**2026-03-20**|**A decade of airborne electromagnetic surveying Lake Menindee (Australia) under varying water levels**|Anandaroop Ray et.al.|[2603.19933](http://arxiv.org/abs/2603.19933)|null|
+|**2026-03-20**|**Transformer Causality Regularization for Dynamic Inverse Problems**|Gesa Sarnighausen et.al.|[2603.19847](http://arxiv.org/abs/2603.19847)|null|
+|**2026-03-20**|**On the role of memorization in learned priors for geophysical inverse problems**|Ali Siahkoohi et.al.|[2603.19629](http://arxiv.org/abs/2603.19629)|null|
+|**2026-03-20**|**Physics-Informed Neural Network with Adaptive Clustering Learning Mechanism for Information Popularity Prediction**|Guangyin Jin et.al.|[2603.19599](http://arxiv.org/abs/2603.19599)|null|
+|**2026-03-20**|**An Adaptive Machine Learning Framework for Fluid Flow in Dual-Network Porous Media**|V. S. Maduri et.al.|[2603.19561](http://arxiv.org/abs/2603.19561)|null|
+|**2026-03-20**|**Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton-Jacobi-Bellman Equations**|Jun Liu et.al.|[2603.19545](http://arxiv.org/abs/2603.19545)|null|
 |**2026-03-19**|**Quantum theory based on real numbers cannot be experimentally falsified**|Timothée Hoffreumon et.al.|[2603.19208](http://arxiv.org/abs/2603.19208)|null|
 |**2026-03-19**|**Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees**|Amartya Mukherjee et.al.|[2603.19165](http://arxiv.org/abs/2603.19165)|null|
 |**2026-03-19**|**A bilinear inverse problem with forward operator inaccuracy applied to neonatal atlas-based diffuse optical tomography**|Aada Hakula et.al.|[2603.18980](http://arxiv.org/abs/2603.18980)|null|
@@ -394,6 +402,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Radar-Inertial Odometry with Online Spatio-Temporal Calibration via Continuous-Time IMU Modeling**|Vlaho-Josip Štironja et.al.|[2603.19958](http://arxiv.org/abs/2603.19958)|null|
+|**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
+|**2026-03-20**|**SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation**|Víctor Barreiro et.al.|[2603.19873](http://arxiv.org/abs/2603.19873)|null|
+|**2026-03-20**|**Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response**|Alejandro D. Mousist et.al.|[2603.19858](http://arxiv.org/abs/2603.19858)|null|
+|**2026-03-20**|**Real-Time Structural Detection for Indoor Navigation from 3D LiDAR Using Bird's-Eye-View Images**|Guanliang Li et.al.|[2603.19830](http://arxiv.org/abs/2603.19830)|null|
+|**2026-03-20**|**Offshore oil and gas platform dynamics in the North Sea, Gulf of Mexico, and Persian Gulf: Exploiting the Sentinel-1 archive**|Robin Spanier et.al.|[2603.19801](http://arxiv.org/abs/2603.19801)|null|
+|**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770](http://arxiv.org/abs/2603.19770)|null|
+|**2026-03-20**|**Beyond Quadratic: Linear-Time Change Detection with RWKV**|Zhenyu Yang et.al.|[2603.19606](http://arxiv.org/abs/2603.19606)|null|
+|**2026-03-20**|**PhyUnfold-Net: Advancing Remote Sensing Change Detection with Physics-Guided Deep Unfolding**|Zelin Lei et.al.|[2603.19566](http://arxiv.org/abs/2603.19566)|null|
 |**2026-03-19**|**Mobile Radio Networks and Weather Radars Dualism: Rainfall Measurement Revolution in Densely Populated Areas**|Davide Tornielli Bellini et.al.|[2603.19153](http://arxiv.org/abs/2603.19153)|null|
 |**2026-03-19**|**Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline**|Ye Wang et.al.|[2603.19077](http://arxiv.org/abs/2603.19077)|null|
 |**2026-03-19**|**TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**|Yan Shu et.al.|[2603.19039](http://arxiv.org/abs/2603.19039)|null|
@@ -831,6 +848,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Data-driven ensemble prediction of the global ocean**|Qiusheng Huang et.al.|[2603.19591](http://arxiv.org/abs/2603.19591)|null|
 |**2026-03-19**|**Man and machine: artificial intelligence and judicial decision making**|Arthur Dyevre et.al.|[2603.19042](http://arxiv.org/abs/2603.19042)|null|
 |**2026-03-19**|**Foundations and Architectures of Artificial Intelligence for Motor Insurance**|Teerapong Panboonyuen et.al.|[2603.18508](http://arxiv.org/abs/2603.18508)|null|
 |**2026-03-18**|**Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**|Gerhard Yu et.al.|[2603.16013](http://arxiv.org/abs/2603.16013)|null|
@@ -944,6 +962,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**A decade of airborne electromagnetic surveying Lake Menindee (Australia) under varying water levels**|Anandaroop Ray et.al.|[2603.19933](http://arxiv.org/abs/2603.19933)|null|
 |**2026-03-19**|**Adaptive Nonlinear Data Assimilation through P-Spline Triangular Measure Transport**|Berent Å. S. Lunde et.al.|[2603.19058](http://arxiv.org/abs/2603.19058)|null|
 |**2026-03-12**|**A Nash stratification inequality and global regularity for a chemotaxis-fluid system on general 2D domains**|Alexander Kiselev et.al.|[2603.11508](http://arxiv.org/abs/2603.11508)|null|
 |**2026-03-02**|**Consistent initialization of mixed-dimensional multiphysics models for fractured reservoirs under geomechanical constraints and field measurements**|Jakub Wiktor Both et.al.|[2603.01835](http://arxiv.org/abs/2603.01835)|null|
@@ -964,6 +983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
 |**2026-03-19**|**Hidden-charm pentaquarks: Electromagnetic structure in a diquark--diquark--antiquark model**|U. Ozdem et.al.|[2603.19151](http://arxiv.org/abs/2603.19151)|null|
 |**2026-03-19**|**Probabilistic multivariate statistical process control via kernel parameter uncertainty propagation**|Zina-Sabrina Duma et.al.|[2603.19055](http://arxiv.org/abs/2603.19055)|null|
 |**2026-03-19**|**Linear and group identifying codes in Hamming Graphs**|N. V. Shinde et.al.|[2603.19031](http://arxiv.org/abs/2603.19031)|null|
@@ -1097,6 +1117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions**|Ji-il Park et.al.|[2603.19936](http://arxiv.org/abs/2603.19936)|null|
 |**2026-03-19**|**Towards Interpretable Foundation Models for Retinal Fundus Images**|Samuel Ofosu Mensah et.al.|[2603.18846](http://arxiv.org/abs/2603.18846)|null|
 |**2026-03-19**|**Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2603.18556](http://arxiv.org/abs/2603.18556)|null|
 |**2026-03-18**|**AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**|Cai Xu et.al.|[2603.17610](http://arxiv.org/abs/2603.17610)|null|
