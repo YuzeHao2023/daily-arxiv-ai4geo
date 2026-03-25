@@ -1,4 +1,4 @@
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-22**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological Science**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
+|**2026-03-24**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
 |**2026-03-18**|**Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation**|William Thorossian et.al.|[2603.17855](http://arxiv.org/abs/2603.17855)|null|
 |**2026-03-14**|**Landau-de Gennes numerical simulation of nematic liquid crystals utilizing radial basis functions**|Jin-Sheng Wu et.al.|[2603.13991](http://arxiv.org/abs/2603.13991)|null|
 |**2026-03-11**|**Enhanced Seismicity Monitoring in the Rapid Scientific Response to the 2025 Santorini Crisis**|Margarita Segou et.al.|[2603.11108](http://arxiv.org/abs/2603.11108)|null|
@@ -55,12 +55,18 @@
 |**2025-12-21**|**Towards Understanding the Milky Way's Matter Field and Dynamical Accretion History based on AI-GS3 Hunter**|Hai-Feng Wang et.al.|[2512.18693](http://arxiv.org/abs/2512.18693)|null|
 |**2025-12-20**|**On Lorentz Variability of Magnetically Dominated Relativistic Outflows**|V. I. Berezhiani et.al.|[2512.18323](http://arxiv.org/abs/2512.18323)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Geophysical Imaging & Inversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Metastability, chaos and spectrum tomography for Bose-Hubbard rings and chains**|Rajat et.al.|[2603.23109](http://arxiv.org/abs/2603.23109)|null|
+|**2026-03-24**|**Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations**|Sebastien Andre-Sloan et.al.|[2603.23072](http://arxiv.org/abs/2603.23072)|null|
+|**2026-03-24**|**A Residual-Attention Physics-Informed Neural Network for Irregular Interfaces and Multi-Peak Transport Fields**|Baitong Zhou et.al.|[2603.22803](http://arxiv.org/abs/2603.22803)|null|
+|**2026-03-24**|**Double Coupling Architecture and Training Method for Optimization Problems of Differential Algebraic Equations with Parameters**|Wenqiang Yang et.al.|[2603.22724](http://arxiv.org/abs/2603.22724)|null|
+|**2026-03-24**|**Coordinate Encoding on Linear Grids for Physics-Informed Neural Networks**|Tetsuro Tsuchino et.al.|[2603.22700](http://arxiv.org/abs/2603.22700)|null|
+|**2026-03-23**|**Velocity Potential Neural Field for Efficient Ambisonics Impulse Response Modeling**|Yoshiki Masuyama et.al.|[2603.22589](http://arxiv.org/abs/2603.22589)|null|
 |**2026-03-23**|**6D Robotic OCT Scanning of Curved Tissue Surfaces**|Suresh Guttikonda et.al.|[2603.22012](http://arxiv.org/abs/2603.22012)|null|
 |**2026-03-23**|**Ensemble Kalman inversion with non-smooth regularization**|Simon Weissmann et.al.|[2603.21916](http://arxiv.org/abs/2603.21916)|null|
 |**2026-03-23**|**A hybrid wavelet-based physics-informed neural network for portfolio management**|Bahadur Yadav et.al.|[2603.21834](http://arxiv.org/abs/2603.21834)|null|
@@ -427,12 +433,22 @@
 |**2026-01-19**|**Multi-level Monte Carlo Dropout for Efficient Uncertainty Quantification**|Aaron Pim et.al.|[2601.13272](http://arxiv.org/abs/2601.13272)|null|
 |**2026-01-19**|**Covariant tomography of fields**|Radosław Antoni Kycia et.al.|[2601.13261](http://arxiv.org/abs/2601.13261)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Remote Sensing & Geological Mapping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds**|Aditya Shibu et.al.|[2603.23162](http://arxiv.org/abs/2603.23162)|null|
+|**2026-03-24**|**Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification**|Zhong Ji et.al.|[2603.23161](http://arxiv.org/abs/2603.23161)|null|
+|**2026-03-24**|**Retrieval-Guided Photovoltaic Inventory Estimation from Satellite Imagery for Distribution Grid Planning**|Muhao Guo et.al.|[2603.22856](http://arxiv.org/abs/2603.22856)|null|
+|**2026-03-24**|**Gau-Occ: Geometry-Completed Gaussians for Multi-Modal 3D Occupancy Prediction**|Chengxin Lv et.al.|[2603.22852](http://arxiv.org/abs/2603.22852)|null|
+|**2026-03-24**|**L-UNet: An LSTM Network for Remote Sensing Image Change Detection**|Shuting Sun et.al.|[2603.22842](http://arxiv.org/abs/2603.22842)|null|
+|**2026-03-24**|**Toward scalable and bias-stable optical phased arrays on lithium tantalate**|Gongcheng Yue et.al.|[2603.22811](http://arxiv.org/abs/2603.22811)|null|
+|**2026-03-24**|**Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis**|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](http://arxiv.org/abs/2603.22786)|null|
+|**2026-03-24**|**Typography-Based Monocular Distance Estimation Framework for Vehicle Safety Systems**|Manognya Lokesh Reddy et.al.|[2603.22781](http://arxiv.org/abs/2603.22781)|null|
+|**2026-03-24**|**From Pixels to Semantics: A Multi-Stage AI Framework for Structural Damage Detection in Satellite Imagery**|Bijay Shakya et.al.|[2603.22768](http://arxiv.org/abs/2603.22768)|null|
+|**2026-03-24**|**Large-Scale Avalanche Mapping from SAR Images with Deep Learning-based Change Detection**|Mattia Gatti et.al.|[2603.22658](http://arxiv.org/abs/2603.22658)|null|
 |**2026-03-23**|**Riverine Land Cover Mapping through Semantic Segmentation of Multispectral Point Clouds**|Sopitta Thurachen et.al.|[2603.22230](http://arxiv.org/abs/2603.22230)|null|
 |**2026-03-23**|**Benchmarking Deep Learning Models for Aerial LiDAR Point Cloud Semantic Segmentation under Real Acquisition Conditions: A Case Study in Navarre**|Alex Salvatierra et.al.|[2603.22229](http://arxiv.org/abs/2603.22229)|null|
 |**2026-03-23**|**OpenEarth-Agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation**|Sijie Zhao et.al.|[2603.22148](http://arxiv.org/abs/2603.22148)|null|
@@ -823,12 +839,13 @@
 |**2026-01-20**|**Outage Identification from Electricity Market Data: Quickest Change Detection Approach**|Milad Hoseinpour et.al.|[2601.13605](http://arxiv.org/abs/2601.13605)|null|
 |**2026-01-20**|**DIS2: Disentanglement Meets Distillation with Classwise Attention for Robust Remote Sensing Segmentation under Missing Modalities**|Nhi Kieu et.al.|[2601.13502](http://arxiv.org/abs/2601.13502)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Mineral & Energy Resource Exploration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime**|Shota Kanasugi et.al.|[2603.22778](http://arxiv.org/abs/2603.22778)|null|
 |**2026-03-16**|**Adaptive GPU Kinetic Solver for Fluid-Granular Flows**|Xingqiao Li et.al.|[2603.14982](http://arxiv.org/abs/2603.14982)|null|
 |**2026-03-15**|**MOTO: Topology Optimization for Large Deformations via an Implicit Material Point Method**|Rahul Kumar Padhy et.al.|[2603.14596](http://arxiv.org/abs/2603.14596)|null|
 |**2026-03-13**|**Partially Fault-Tolerant Quantum Computation for Megaquop Applications**|Ming-Zhi Chung et.al.|[2603.13093](http://arxiv.org/abs/2603.13093)|null|
@@ -872,7 +889,7 @@
 |**2026-01-07**|**MPM-QIR: Measurement-Probability Matching for Quantum Image Representation and Compression via Variational Quantum Circuit**|Chong-Wei Wang et.al.|[2601.03855](http://arxiv.org/abs/2601.03855)|null|
 |**2026-01-04**|**PartImageNet++ Dataset: Enhancing Visual Models with High-Quality Part Annotations**|Xiao Li et.al.|[2601.01454](http://arxiv.org/abs/2601.01454)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Sedimentology, Stratigraphy & Basin Analysis
 
@@ -897,14 +914,17 @@
 |**2025-10-20**|**Water saturation in texturally porous carbonate rocks: Shock thermodynamics and dampening of the shock**|Juulia-Gabrielle Moreau et.al.|[2510.17446](http://arxiv.org/abs/2510.17446)|null|
 |**2026-01-04**|**A domain decomposition approach to pore-network modeling of porous media flow**|Shuyu Sun et.al.|[2510.13429](http://arxiv.org/abs/2510.13429)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Geohazard Assessment & Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**From the AI Act to a European AI Agency: Completing the Union's Regulatory Architecture**|Georgios Pavlidis et.al.|[2603.22912](http://arxiv.org/abs/2603.22912)|null|
+|**2026-03-24**|**Who Sits Where? Automated Detection of Director Interlocks in Indian Companies**|Prateek Sancheti et.al.|[2603.22860](http://arxiv.org/abs/2603.22860)|null|
+|**2026-03-24**|**CATNAV: Cached Vision-Language Traversability for Efficient Zero-Shot Robot Navigation**|Aditya Potnis et.al.|[2603.22800](http://arxiv.org/abs/2603.22800)|null|
 |**2026-03-23**|**Framework for Risk-Based IoT Cybersecurity Audit Engagements**|Danielle Hanson et.al.|[2603.22191](http://arxiv.org/abs/2603.22191)|null|
-|**2026-03-23**|**A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment**|Sheng Liu et.al.|[2603.21597](http://arxiv.org/abs/2603.21597)|null|
+|**2026-03-24**|**Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment**|Sheng Liu et.al.|[2603.21597](http://arxiv.org/abs/2603.21597)|null|
 |**2026-03-21**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570](http://arxiv.org/abs/2603.20570)|null|
 |**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
 |**2026-03-20**|**Data-driven ensemble prediction of the global ocean**|Qiusheng Huang et.al.|[2603.19591](http://arxiv.org/abs/2603.19591)|null|
@@ -1017,7 +1037,7 @@
 |**2026-01-14**|**A Hybrid Machine Learning Framework for Improved Short-Term Peak-Flow Forecasting**|Gabriele Bertoli et.al.|[2601.09336](http://arxiv.org/abs/2601.09336)|null|
 |**2026-01-14**|**Long-term sedimentary earthquake records along the northern branch of the North Anatolian Fault in the Sea of Marmara (NW Türkiye)**|M. Namık Çağatay et.al.|[2601.09335](http://arxiv.org/abs/2601.09335)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Hydrogeology & Environmental Geoscience
 
@@ -1041,14 +1061,15 @@
 |**2026-01-04**|**A domain decomposition approach to pore-network modeling of porous media flow**|Shuyu Sun et.al.|[2510.13429](http://arxiv.org/abs/2510.13429)|null|
 |**2025-09-25**|**Accelerating the Monte Carlo simulation of the Enskog equation for multiscale dense gas flows**|Bin Hu et.al.|[2509.20816](http://arxiv.org/abs/2509.20816)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Petrology & Structural Geology
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
 |**2026-03-23**|**Bounded Structural Model Finding with Symbolic Data Constraints**|Artur Boronat et.al.|[2603.22093](http://arxiv.org/abs/2603.22093)|null|
-|**2026-03-22**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological Science**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
+|**2026-03-24**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
 |**2026-03-22**|**High-Endurance UCAV Propulsion System: A 1-D CNN-Based Real-Time Fault Classification for Tactical-Grade IPMSM Drive**|Tahmin Mahmud et.al.|[2603.21133](http://arxiv.org/abs/2603.21133)|null|
 |**2026-03-22**|**The Role of Road Features and Vehicle Dynamics in Cost-Effective Autonomous Vehicles Safety Testing: Insights from Instance Space Analysis**|Victor Crespo-Rodriguez et.al.|[2603.21066](http://arxiv.org/abs/2603.21066)|null|
 |**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
@@ -1181,12 +1202,14 @@
 |**2026-01-15**|**Early Fault Detection on CMAPSS with Unsupervised LSTM Autoencoders**|P. Sánchez et.al.|[2601.10269](http://arxiv.org/abs/2601.10269)|null|
 |**2026-01-14**|**LP-LLM: End-to-End Real-World Degraded License Plate Text Recognition via Large Multimodal Models**|Haoyan Gong et.al.|[2601.09116](http://arxiv.org/abs/2601.09116)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Geoscience Foundation Models & Knowledge Graphs
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[2603.23048](http://arxiv.org/abs/2603.23048)|null|
+|**2026-03-23**|**Pretext Matters: An Empirical Study of SSL Methods in Medical Imaging**|Vedrana Ivezić et.al.|[2603.22649](http://arxiv.org/abs/2603.22649)|null|
 |**2026-03-23**|**A Backbone Benchmarking Study on Self-supervised Learning as a Auxiliary Task with Texture-based Local Descriptors for Face Analysis**|Shukesh Reddy et.al.|[2603.22190](http://arxiv.org/abs/2603.22190)|null|
 |**2026-03-23**|**Cross-Modal Reinforcement Learning for Navigation with Degraded Depth Measurements**|Omkar Sawant et.al.|[2603.22182](http://arxiv.org/abs/2603.22182)|null|
 |**2026-03-23**|**SpecTM: Spectral Targeted Masking for Trustworthy Foundation Models**|Syed Usama Imtiaz et.al.|[2603.22097](http://arxiv.org/abs/2603.22097)|null|
@@ -1378,7 +1401,7 @@
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
 |**2026-01-14**|**Linear Complexity Self-Supervised Learning for Music Understanding with Random Quantizer**|Petros Vavaroutsos et.al.|[2601.09603](http://arxiv.org/abs/2601.09603)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4geo-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4geo-arxiv-daily/graphs/contributors
