@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Reconstructing effective ultrasound transducer models via distributed source inversion**|Tim Bürchner et.al.|[2603.24415](http://arxiv.org/abs/2603.24415)|null|
 |**2026-03-25**|**A convergent Plug-and-Play Majorization-Minimization algorithm for Poisson inverse problems**|Thibaut Modrzyk et.al.|[2603.24156](http://arxiv.org/abs/2603.24156)|null|
 |**2026-03-25**|**FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**|Chang Wei et.al.|[2603.24114](http://arxiv.org/abs/2603.24114)|null|
 |**2026-03-25**|**Efficient Many-Body Shadow Metrology via Clifford Lensing**|Sooryansh Asthana et.al.|[2603.24035](http://arxiv.org/abs/2603.24035)|null|
@@ -437,6 +438,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series**|Jan Hemmerling et.al.|[2603.24552](http://arxiv.org/abs/2603.24552)|null|
 |**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
 |**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
 |**2026-03-25**|**VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection**|Jumin Lee et.al.|[2603.24294](http://arxiv.org/abs/2603.24294)|null|
@@ -926,6 +928,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Learning Response-Statistic Shifts and Parametric Roll Episodes from Wave--Vessel Time Series via LSTM Functional Models**|Jose del Aguila Ferrandis et.al.|[2603.24431](http://arxiv.org/abs/2603.24431)|null|
 |**2026-03-25**|**XT-REM: A Two-Component Model for Meta-Analysis of Extreme Event Proportions**|Jovana Dedeić et.al.|[2603.24263](http://arxiv.org/abs/2603.24263)|null|
 |**2026-03-24**|**From the AI Act to a European AI Agency: Completing the Union's Regulatory Architecture**|Georgios Pavlidis et.al.|[2603.22912](http://arxiv.org/abs/2603.22912)|null|
 |**2026-03-24**|**Who Sits Where? Automated Detection of Director Interlocks in Indian Companies**|Prateek Sancheti et.al.|[2603.22860](http://arxiv.org/abs/2603.22860)|null|
@@ -1070,6 +1073,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Analysis and numerical simulation of a spatio-temporal Ricker-type model for the control of Aedes aegypti mosquitoes with Sterile Insect Techniques**|Oscar Eduardo Escobar-Lasso et.al.|[2603.24460](http://arxiv.org/abs/2603.24460)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
 |**2026-03-23**|**Bounded Structural Model Finding with Symbolic Data Constraints**|Artur Boronat et.al.|[2603.22093](http://arxiv.org/abs/2603.22093)|null|
 |**2026-03-24**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
