@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -48,6 +48,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**A convergent Plug-and-Play Majorization-Minimization algorithm for Poisson inverse problems**|Thibaut Modrzyk et.al.|[2603.24156](http://arxiv.org/abs/2603.24156)|null|
+|**2026-03-25**|**FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**|Chang Wei et.al.|[2603.24114](http://arxiv.org/abs/2603.24114)|null|
+|**2026-03-25**|**Efficient Many-Body Shadow Metrology via Clifford Lensing**|Sooryansh Asthana et.al.|[2603.24035](http://arxiv.org/abs/2603.24035)|null|
+|**2026-03-25**|**Bridging Computational Fluid Dynamics Algorithm and Physics-Informed Learning: SIMPLE-PINN for Incompressible Navier-Stokes Equations**|Chang Wei et.al.|[2603.24013](http://arxiv.org/abs/2603.24013)|null|
+|**2026-03-25**|**Stochastic Dimension-Free Zeroth-Order Estimator for High-Dimensional and High-Order PINNs**|Zhangyong Liang et.al.|[2603.24002](http://arxiv.org/abs/2603.24002)|null|
+|**2026-03-25**|**Visible Spectral-Domain Optical Coherence Tomography for Photonic Integrated Circuits Characterization**|Yin Min Goh et.al.|[2603.23815](http://arxiv.org/abs/2603.23815)|null|
+|**2026-03-25**|**Resolving gradient pathology in physics-informed epidemiological models**|Nickson Golooba et.al.|[2603.23799](http://arxiv.org/abs/2603.23799)|null|
+|**2026-03-24**|**Spatial Sampling of Hemispherical Arrays for Three-Dimensional Photoacoustic Computed Tomography**|Wanqing Zhang et.al.|[2603.23728](http://arxiv.org/abs/2603.23728)|null|
+|**2026-03-24**|**Information-Geometric Quantum Process Tomography of Single Qubit Systems**|T. Koide et.al.|[2603.23656](http://arxiv.org/abs/2603.23656)|null|
 |**2026-03-24**|**Information-Theoretic Scaling Laws of Neural Quantum States**|Yiming Lu et.al.|[2603.23468](http://arxiv.org/abs/2603.23468)|null|
 |**2026-03-24**|**SIGMA: A Physics-Based Benchmark for Gas Chimney Understanding in Seismic Images**|Bao Truong et.al.|[2603.23439](http://arxiv.org/abs/2603.23439)|null|
 |**2026-03-24**|**Curriculum-Driven 3D CT Report Generation via Language-Free Visual Grafting and Zone-Constrained Compression**|V. K. Cody Bumgardner et.al.|[2603.23308](http://arxiv.org/abs/2603.23308)|null|
@@ -428,6 +437,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
+|**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
+|**2026-03-25**|**VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection**|Jumin Lee et.al.|[2603.24294](http://arxiv.org/abs/2603.24294)|null|
+|**2026-03-25**|**Decentralized End-to-End Multi-AAV Pursuit Using Predictive Spatio-Temporal Observation via Deep Reinforcement Learning**|Yude Li et.al.|[2603.24238](http://arxiv.org/abs/2603.24238)|null|
+|**2026-03-25**|**Attack Assessment and Augmented Identity Recognition for Human Skeleton Data**|Joseph G. Zalameda et.al.|[2603.24232](http://arxiv.org/abs/2603.24232)|null|
+|**2026-03-25**|**Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing**|Hector Blondel et.al.|[2603.24108](http://arxiv.org/abs/2603.24108)|null|
+|**2026-03-25**|**LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|[2603.24045](http://arxiv.org/abs/2603.24045)|null|
+|**2026-03-25**|**Sensing-Assisted Adaptive Beam Probing with Calibrated Multimodal Priors and Uncertainty-Aware Scheduling**|Abidemi Orimogunje et.al.|[2603.24024](http://arxiv.org/abs/2603.24024)|null|
+|**2026-03-25**|**DB SwinT: A Dual-Branch Swin Transformer Network for Road Extraction in Optical Remote Sensing Imagery**|Zongyang He et.al.|[2603.24005](http://arxiv.org/abs/2603.24005)|null|
 |**2026-03-24**|**GeoSANE: Learning Geospatial Representations from Models, Not Data**|Joelle Hanna et.al.|[2603.23408](http://arxiv.org/abs/2603.23408)|null|
 |**2026-03-24**|**Edge Radar Material Classification Under Geometry Shifts**|Jannik Hohmann et.al.|[2603.23342](http://arxiv.org/abs/2603.23342)|null|
 |**2026-03-24**|**CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection**|Yuchen Wu et.al.|[2603.23276](http://arxiv.org/abs/2603.23276)|null|
@@ -888,7 +906,7 @@ layout: default
 |**2026-03-17**|**Flow of yield stress fluid in a percolating network**|Nathan Abitbol et.al.|[2603.16224](http://arxiv.org/abs/2603.16224)|null|
 |**2026-03-10**|**Network modelling of yield-stress fluid flow in randomly disordered porous media**|Cláudio P. Fonte et.al.|[2603.09801](http://arxiv.org/abs/2603.09801)|null|
 |**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
-|**2026-03-16**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
+|**2026-03-25**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
 |**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
 |**2026-02-12**|**Ultra-Fast 3D Porous Media Generation: a GPU- Accelerated List-Indexed Explicit Time-Stepping QSGS Algorithm**|Ruofan Wang et.al.|[2602.11734](http://arxiv.org/abs/2602.11734)|null|
 |**2026-01-29**|**Effect of Nanopore Wall Geometry on Electrical Double-Layer Charging Dynamics**|Bryce Rives et.al.|[2601.22048](http://arxiv.org/abs/2601.22048)|null|
@@ -908,13 +926,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**XT-REM: A Two-Component Model for Meta-Analysis of Extreme Event Proportions**|Jovana Dedeić et.al.|[2603.24263](http://arxiv.org/abs/2603.24263)|null|
 |**2026-03-24**|**From the AI Act to a European AI Agency: Completing the Union's Regulatory Architecture**|Georgios Pavlidis et.al.|[2603.22912](http://arxiv.org/abs/2603.22912)|null|
 |**2026-03-24**|**Who Sits Where? Automated Detection of Director Interlocks in Indian Companies**|Prateek Sancheti et.al.|[2603.22860](http://arxiv.org/abs/2603.22860)|null|
 |**2026-03-24**|**CATNAV: Cached Vision-Language Traversability for Efficient Zero-Shot Robot Navigation**|Aditya Potnis et.al.|[2603.22800](http://arxiv.org/abs/2603.22800)|null|
 |**2026-03-23**|**Framework for Risk-Based IoT Cybersecurity Audit Engagements**|Danielle Hanson et.al.|[2603.22191](http://arxiv.org/abs/2603.22191)|null|
 |**2026-03-24**|**Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment**|Sheng Liu et.al.|[2603.21597](http://arxiv.org/abs/2603.21597)|null|
 |**2026-03-21**|**Global Cybercrime Damages: A Baseline for Frontier AI Risk Assessment**|Kamilė Lukošiūtė et.al.|[2603.20570](http://arxiv.org/abs/2603.20570)|null|
-|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-24**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
 |**2026-03-20**|**Data-driven ensemble prediction of the global ocean**|Qiusheng Huang et.al.|[2603.19591](http://arxiv.org/abs/2603.19591)|null|
 |**2026-03-19**|**Man and machine: artificial intelligence and judicial decision making**|Arthur Dyevre et.al.|[2603.19042](http://arxiv.org/abs/2603.19042)|null|
 |**2026-03-19**|**Foundations and Architectures of Artificial Intelligence for Motor Insurance**|Teerapong Panboonyuen et.al.|[2603.18508](http://arxiv.org/abs/2603.18508)|null|
@@ -1190,6 +1209,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
+|**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|Anjun Gao et.al.|[2603.24054](http://arxiv.org/abs/2603.24054)|null|
+|**2026-03-25**|**Rethinking Masking Strategies for Masked Prediction-based Audio Self-supervised Learning**|Daisuke Niizumi et.al.|[2603.23810](http://arxiv.org/abs/2603.23810)|null|
+|**2026-03-24**|**Crab: Multi Layer Contrastive Supervision to Improve Speech Emotion Recognition Under Both Acted and Natural Speech Condition**|Lucas H. Ueda et.al.|[2603.23673](http://arxiv.org/abs/2603.23673)|null|
 |**2026-03-24**|**PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning**|Yuanhang Lei et.al.|[2603.23194](http://arxiv.org/abs/2603.23194)|null|
 |**2026-03-24**|**MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates**|Zikang Huang et.al.|[2603.23048](http://arxiv.org/abs/2603.23048)|null|
 |**2026-03-23**|**Pretext Matters: An Empirical Study of SSL Methods in Medical Imaging**|Vedrana Ivezić et.al.|[2603.22649](http://arxiv.org/abs/2603.22649)|null|
