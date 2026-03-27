@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-24**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
+|**2026-03-26**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
 |**2026-03-18**|**Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation**|William Thorossian et.al.|[2603.17855](http://arxiv.org/abs/2603.17855)|null|
 |**2026-03-14**|**Landau-de Gennes numerical simulation of nematic liquid crystals utilizing radial basis functions**|Jin-Sheng Wu et.al.|[2603.13991](http://arxiv.org/abs/2603.13991)|null|
 |**2026-03-11**|**Enhanced Seismicity Monitoring in the Rapid Scientific Response to the 2025 Santorini Crisis**|Margarita Segou et.al.|[2603.11108](http://arxiv.org/abs/2603.11108)|null|
@@ -48,6 +48,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning**|Guojie Li et.al.|[2603.25122](http://arxiv.org/abs/2603.25122)|null|
+|**2026-03-26**|**Latent representation learning based model correction and uncertainty quantification for PDEs**|Wenwen Zhou et.al.|[2603.24948](http://arxiv.org/abs/2603.24948)|null|
+|**2026-03-25**|**CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment**|Jinkui Hao et.al.|[2603.24847](http://arxiv.org/abs/2603.24847)|null|
+|**2026-03-25**|**Weak and entropy physics-informed neural networks for conservation laws**|Ismail Oubarka et.al.|[2603.24819](http://arxiv.org/abs/2603.24819)|null|
+|**2026-03-25**|**Dissecting Model Failures in Abdominal Aortic Aneurysm Segmentation through Explainability-Driven Analysis**|Abu Noman Md Sakib et.al.|[2603.24801](http://arxiv.org/abs/2603.24801)|null|
+|**2026-03-25**|**Scalable Bayesian full waveform inversion via dual augmented Lagrangian SVGD**|Kamal Aghazade et.al.|[2603.24751](http://arxiv.org/abs/2603.24751)|null|
+|**2026-03-25**|**Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions**|Debadutta Patra et.al.|[2603.24644](http://arxiv.org/abs/2603.24644)|null|
 |**2026-03-25**|**Reconstructing effective ultrasound transducer models via distributed source inversion**|Tim Bürchner et.al.|[2603.24415](http://arxiv.org/abs/2603.24415)|null|
 |**2026-03-25**|**A convergent Plug-and-Play Majorization-Minimization algorithm for Poisson inverse problems**|Thibaut Modrzyk et.al.|[2603.24156](http://arxiv.org/abs/2603.24156)|null|
 |**2026-03-25**|**FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**|Chang Wei et.al.|[2603.24114](http://arxiv.org/abs/2603.24114)|null|
@@ -438,6 +445,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
+|**2026-03-26**|**Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|[2603.25384](http://arxiv.org/abs/2603.25384)|null|
+|**2026-03-26**|**V2U4Real: A Real-world Large-scale Dataset for Vehicle-to-UAV Cooperative Perception**|Weijia Li et.al.|[2603.25275](http://arxiv.org/abs/2603.25275)|null|
+|**2026-03-26**|**Towards Practical Lossless Neural Compression for LiDAR Point Clouds**|Pengpeng Yu et.al.|[2603.25260](http://arxiv.org/abs/2603.25260)|null|
+|**2026-03-26**|**GeoNDC: A Queryable Neural Data Cube for Planetary-Scale Earth Observation**|Jianbo Qi et.al.|[2603.25037](http://arxiv.org/abs/2603.25037)|null|
+|**2026-03-25**|**OptiSAR-Net++: A Large-Scale Benchmark and Transformer-Free Framework for Cross-Domain Remote Sensing Visual Grounding**|Xiaoyu Tang et.al.|[2603.24876](http://arxiv.org/abs/2603.24876)|null|
+|**2026-03-25**|**Resource-optimal quantum mode parameter estimation with multimode Gaussian states**|Maximilian Reichert et.al.|[2603.24778](http://arxiv.org/abs/2603.24778)|null|
+|**2026-03-25**|**Saranga: MilliWatt Ultrasound for Navigation in Visually Degraded Environments on Palm-Sized Aerial Robots**|Manoj Velmurugan et.al.|[2603.24699](http://arxiv.org/abs/2603.24699)|null|
 |**2026-03-25**|**The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series**|Jan Hemmerling et.al.|[2603.24552](http://arxiv.org/abs/2603.24552)|null|
 |**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
 |**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
@@ -862,7 +877,7 @@ layout: default
 |**2026-03-15**|**MOTO: Topology Optimization for Large Deformations via an Implicit Material Point Method**|Rahul Kumar Padhy et.al.|[2603.14596](http://arxiv.org/abs/2603.14596)|null|
 |**2026-03-13**|**Partially Fault-Tolerant Quantum Computation for Megaquop Applications**|Ming-Zhi Chung et.al.|[2603.13093](http://arxiv.org/abs/2603.13093)|null|
 |**2026-03-12**|**A Decade of Generative Adversarial Networks for Porous Material Reconstruction**|Ali Sadeghkhani et.al.|[2603.11836](http://arxiv.org/abs/2603.11836)|null|
-|**2026-03-11**|**Low $T$ -count preparation of nuclear eigenstates with tensor networks**|Joe Gibbs et.al.|[2603.11156](http://arxiv.org/abs/2603.11156)|null|
+|**2026-03-26**|**Low $T$ -count preparation of nuclear eigenstates with tensor networks**|Joe Gibbs et.al.|[2603.11156](http://arxiv.org/abs/2603.11156)|null|
 |**2026-03-11**|**Feasibility of satellite-augmented global quantum repeater networks**|Manik Dawar et.al.|[2603.11127](http://arxiv.org/abs/2603.11127)|null|
 |**2026-03-11**|**Coherence thermometry using multipartite quantum systems**|Pranav Perumalsamy et.al.|[2603.10431](http://arxiv.org/abs/2603.10431)|null|
 |**2026-03-10**|**On the Structural Failure of Chamfer Distance in 3D Shape Optimization**|Chang-Yong Song et.al.|[2603.09925](http://arxiv.org/abs/2603.09925)|null|
@@ -928,6 +943,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment**|Jinkui Hao et.al.|[2603.24847](http://arxiv.org/abs/2603.24847)|null|
+|**2026-03-25**|**Coronary artery calcification assessment in National Lung Screening Trial CT images (DeepCAC2)**|Leonard Nürnberg et.al.|[2603.24633](http://arxiv.org/abs/2603.24633)|null|
 |**2026-03-25**|**Learning Response-Statistic Shifts and Parametric Roll Episodes from Wave--Vessel Time Series via LSTM Functional Models**|Jose del Aguila Ferrandis et.al.|[2603.24431](http://arxiv.org/abs/2603.24431)|null|
 |**2026-03-25**|**XT-REM: A Two-Component Model for Meta-Analysis of Extreme Event Proportions**|Jovana Dedeić et.al.|[2603.24263](http://arxiv.org/abs/2603.24263)|null|
 |**2026-03-24**|**From the AI Act to a European AI Agency: Completing the Union's Regulatory Architecture**|Georgios Pavlidis et.al.|[2603.22912](http://arxiv.org/abs/2603.22912)|null|
@@ -1073,10 +1090,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Core and mantle thermal evolution constraints on the onset of plate tectonics and a long-lived geodynamo**|Valentin Bonnet Gibet et.al.|[2603.25232](http://arxiv.org/abs/2603.25232)|null|
+|**2026-03-26**|**Polar, checkerboard charge order in bilayer nickelate La3Ni2O7**|Ryo Misawa et.al.|[2603.25119](http://arxiv.org/abs/2603.25119)|null|
 |**2026-03-25**|**Analysis and numerical simulation of a spatio-temporal Ricker-type model for the control of Aedes aegypti mosquitoes with Sterile Insect Techniques**|Oscar Eduardo Escobar-Lasso et.al.|[2603.24460](http://arxiv.org/abs/2603.24460)|null|
 |**2026-03-24**|**Rethinking Self-Sovereign Identity Principles: An Actor-Oriented Categorization of Requirements**|Daria Schumm et.al.|[2603.23177](http://arxiv.org/abs/2603.23177)|null|
 |**2026-03-23**|**Bounded Structural Model Finding with Symbolic Data Constraints**|Artur Boronat et.al.|[2603.22093](http://arxiv.org/abs/2603.22093)|null|
-|**2026-03-24**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
+|**2026-03-26**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
 |**2026-03-22**|**High-Endurance UCAV Propulsion System: A 1-D CNN-Based Real-Time Fault Classification for Tactical-Grade IPMSM Drive**|Tahmin Mahmud et.al.|[2603.21133](http://arxiv.org/abs/2603.21133)|null|
 |**2026-03-22**|**The Role of Road Features and Vehicle Dynamics in Cost-Effective Autonomous Vehicles Safety Testing: Insights from Instance Space Analysis**|Victor Crespo-Rodriguez et.al.|[2603.21066](http://arxiv.org/abs/2603.21066)|null|
 |**2026-03-20**|**RiboSphere: Learning Unified and Efficient Representations of RNA Structures**|Zhou Zhang et.al.|[2603.19636](http://arxiv.org/abs/2603.19636)|null|
@@ -1213,6 +1232,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds**|Bin Yang et.al.|[2603.25165](http://arxiv.org/abs/2603.25165)|null|
+|**2026-03-26**|**SAVe: Self-Supervised Audio-visual Deepfake Detection Exploiting Visual Artifacts and Audio-visual Misalignment**|Sahibzada Adil Shahzad et.al.|[2603.25140](http://arxiv.org/abs/2603.25140)|null|
+|**2026-03-26**|**Self-Supervised Learning for Knee Osteoarthritis: Diagnostic Limitations and Prognostic Value of Uncurated Hospital Data**|Haresh Rengaraj Rajamohan et.al.|[2603.24903](http://arxiv.org/abs/2603.24903)|null|
+|**2026-03-25**|**Contrastive Learning Boosts Deterministic and Generative Models for Weather Data**|Nathan Bailey et.al.|[2603.24744](http://arxiv.org/abs/2603.24744)|null|
 |**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|Anjun Gao et.al.|[2603.24054](http://arxiv.org/abs/2603.24054)|null|
 |**2026-03-25**|**Rethinking Masking Strategies for Masked Prediction-based Audio Self-supervised Learning**|Daisuke Niizumi et.al.|[2603.23810](http://arxiv.org/abs/2603.23810)|null|
