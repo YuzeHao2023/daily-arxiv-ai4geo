@@ -48,6 +48,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Atomic-Scale Insights into Copper Corrosion in Acidic Environment through Cryogenic Atom Probe Tomography of 3D-Electrodeposited Microcorrosion Cell**|Lalith Kumar Bhaskar et.al.|[2603.25556](http://arxiv.org/abs/2603.25556)|null|
+|**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555](http://arxiv.org/abs/2603.25555)|null|
+|**2026-03-26**|**Transverse force tomography inside a proton from Basis Light-front Quantization**|Ziqi Zhang et.al.|[2603.25548](http://arxiv.org/abs/2603.25548)|null|
 |**2026-03-26**|**Incorporating Continuous Dependence Qualifies Physics-Informed Neural Networks for Operator Learning**|Guojie Li et.al.|[2603.25122](http://arxiv.org/abs/2603.25122)|null|
 |**2026-03-26**|**Latent representation learning based model correction and uncertainty quantification for PDEs**|Wenwen Zhou et.al.|[2603.24948](http://arxiv.org/abs/2603.24948)|null|
 |**2026-03-25**|**CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment**|Jinkui Hao et.al.|[2603.24847](http://arxiv.org/abs/2603.24847)|null|
@@ -445,6 +448,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation**|Ishaan Gakhar et.al.|[2603.25689](http://arxiv.org/abs/2603.25689)|null|
+|**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|null|
+|**2026-03-26**|**Accurate Surface and Reflectance Modelling from 3D Radar Data with Neural Radiance Fields**|Judith Treffler et.al.|[2603.25623](http://arxiv.org/abs/2603.25623)|null|
+|**2026-03-26**|**GeoHeight-Bench: Towards Height-Aware Multimodal Reasoning in Remote Sensing**|Xuran Hu et.al.|[2603.25565](http://arxiv.org/abs/2603.25565)|null|
+|**2026-03-26**|**Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|[2603.25530](http://arxiv.org/abs/2603.25530)|null|
 |**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
 |**2026-03-26**|**Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|[2603.25384](http://arxiv.org/abs/2603.25384)|null|
 |**2026-03-26**|**V2U4Real: A Real-world Large-scale Dataset for Vehicle-to-UAV Cooperative Perception**|Weijia Li et.al.|[2603.25275](http://arxiv.org/abs/2603.25275)|null|
