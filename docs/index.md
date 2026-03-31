@@ -48,6 +48,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Fast Large-Scale Model-Based Iterative Tomography via Exploiting Mathematical Structure, Hierarchical Optimization, Smart Initialization, and Distributed GPU Computing**|Dinesh Kumar et.al.|[2603.28756](http://arxiv.org/abs/2603.28756)|null|
+|**2026-03-30**|**Physics-Informed Neural Networks for Predicting Hydrogen Sorption in Geological Formations: Thermodynamically Constrained Deep Learning Integrating Classical Adsorption Theory**|Mohammad Nooraiepour et.al.|[2603.28328](http://arxiv.org/abs/2603.28328)|null|
+|**2026-03-30**|**A depth-dependent, transverse shift-invariant operator for fast iterative 3D photoacoustic tomography in planar geometry**|Ege Küçükkomürcü et.al.|[2603.28150](http://arxiv.org/abs/2603.28150)|null|
+|**2026-03-30**|**Physics-informed line-of-sight learning for scalable deterministic channel modeling**|Xiucheng Wang et.al.|[2603.27976](http://arxiv.org/abs/2603.27976)|null|
+|**2026-03-30**|**Deflation-PINNs: Learning Multiple Solutions for PDEs and Landau-de Gennes**|Sean Disarò et.al.|[2603.27936](http://arxiv.org/abs/2603.27936)|null|
+|**2026-03-30**|**Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs**|Ehsan Zeraatkar et.al.|[2603.27929](http://arxiv.org/abs/2603.27929)|null|
+|**2026-03-29**|**3-D Representations for Hyperspectral Flame Tomography**|Nicolas Tricard et.al.|[2603.27832](http://arxiv.org/abs/2603.27832)|null|
+|**2026-03-29**|**Ink Detection from Surface Topography of the Herculaneum Papyri**|Giorgio Angelotti et.al.|[2603.27698](http://arxiv.org/abs/2603.27698)|null|
 |**2026-03-29**|**Learnable Viscosity Modulation in Physics-Informed Neural Networks for Incompressible Flow Reconstruction**|Ke Xu et.al.|[2603.27496](http://arxiv.org/abs/2603.27496)|null|
 |**2026-03-28**|**Bayesian Formulation of Acousto-Electric Tomography and Quantified Uncertainty in Limited View**|Hjørdis Schlüter et.al.|[2603.27260](http://arxiv.org/abs/2603.27260)|null|
 |**2026-03-27**|**Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model**|Nikolaos M. Matzakos et.al.|[2603.26921](http://arxiv.org/abs/2603.26921)|null|
@@ -458,6 +466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Industrial3D: A Terrestrial LiDAR Point Cloud Dataset and CrossParadigm Benchmark for Industrial Infrastructure**|Chao Yin et.al.|[2603.28660](http://arxiv.org/abs/2603.28660)|null|
+|**2026-03-30**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al.|[2603.28584](http://arxiv.org/abs/2603.28584)|null|
+|**2026-03-30**|**A Self-Rotating Tri-Rotor UAV for Field of View Expansion and Autonomous Flight**|Xiaobin Zhou et.al.|[2603.28581](http://arxiv.org/abs/2603.28581)|null|
+|**2026-03-30**|**Learning Where to Look: UCB-Driven Controlled Sensing for Quickest Change Detection**|Yu-Han Huang et.al.|[2603.28563](http://arxiv.org/abs/2603.28563)|null|
+|**2026-03-30**|**SVH-BD : Synthetic Vegetation Hyperspectral Benchmark Dataset for Emulation of Remote Sensing Images**|Chedly Ben Azizi et.al.|[2603.28390](http://arxiv.org/abs/2603.28390)|null|
+|**2026-03-30**|**Multimodal-NF: A Wireless Dataset for Near-Field Low-Altitude Sensing and Communications**|Mengyuan Li et.al.|[2603.28280](http://arxiv.org/abs/2603.28280)|null|
+|**2026-03-30**|**osmAG-Nav: A Hierarchical Semantic Topometric Navigation Stack for Robust Lifelong Indoor Autonomy**|Yongqi Zhang et.al.|[2603.28271](http://arxiv.org/abs/2603.28271)|null|
+|**2026-03-30**|**Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal**|Kazuma Ikeda et.al.|[2603.28224](http://arxiv.org/abs/2603.28224)|null|
+|**2026-03-30**|**Intelligent Road Condition Monitoring using 3D In-Air SONAR Sensing**|Amber Cassimon et.al.|[2603.28141](http://arxiv.org/abs/2603.28141)|null|
+|**2026-03-30**|**Robust Remote Sensing Image-Text Retrieval with Noisy Correspondence**|Qiya Song et.al.|[2603.28134](http://arxiv.org/abs/2603.28134)|null|
 |**2026-03-29**|**LiDAR for Crowd Management: Applications, Benefits, and Future Directions**|Abdullah Khanfor et.al.|[2603.27663](http://arxiv.org/abs/2603.27663)|null|
 |**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
 |**2026-03-29**|**Annotation-Free Detection of Drivable Areas and Curbs Leveraging LiDAR Point Cloud Maps**|Fulong Ma et.al.|[2603.27553](http://arxiv.org/abs/2603.27553)|null|
@@ -899,8 +917,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits**|Madelyn Cain et.al.|[2603.28627](http://arxiv.org/abs/2603.28627)|null|
 |**2026-03-24**|**Solving Nonlinear Partial Differential Equations via a Hybrid Newton Method Using Quantum Linear System Solver**|Maximilian Mandelt Buxadé et.al.|[2603.23258](http://arxiv.org/abs/2603.23258)|null|
-|**2026-03-24**|**Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime**|Shota Kanasugi et.al.|[2603.22778](http://arxiv.org/abs/2603.22778)|null|
+|**2026-03-30**|**Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime**|Shota Kanasugi et.al.|[2603.22778](http://arxiv.org/abs/2603.22778)|null|
 |**2026-03-16**|**Adaptive GPU Kinetic Solver for Fluid-Granular Flows**|Xingqiao Li et.al.|[2603.14982](http://arxiv.org/abs/2603.14982)|null|
 |**2026-03-15**|**MOTO: Topology Optimization for Large Deformations via an Implicit Material Point Method**|Rahul Kumar Padhy et.al.|[2603.14596](http://arxiv.org/abs/2603.14596)|null|
 |**2026-03-13**|**Partially Fault-Tolerant Quantum Computation for Megaquop Applications**|Ming-Zhi Chung et.al.|[2603.13093](http://arxiv.org/abs/2603.13093)|null|
@@ -948,6 +967,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Process Development and First Cryogenic Operation of Compact Germanium Ring-Contact HPGe Prototypes**|Kunming Dong et.al.|[2603.28505](http://arxiv.org/abs/2603.28505)|null|
 |**2026-03-17**|**Flow of yield stress fluid in a percolating network**|Nathan Abitbol et.al.|[2603.16224](http://arxiv.org/abs/2603.16224)|null|
 |**2026-03-10**|**Network modelling of yield-stress fluid flow in randomly disordered porous media**|Cláudio P. Fonte et.al.|[2603.09801](http://arxiv.org/abs/2603.09801)|null|
 |**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
@@ -971,6 +991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams**|Silvano Coletti et.al.|[2603.28115](http://arxiv.org/abs/2603.28115)|null|
 |**2026-03-29**|**Multivariate Gaussian process emulation for multifidelity computer models with high-dimensional spatial outputs**|Cyrus S. McCrimmon et.al.|[2603.27463](http://arxiv.org/abs/2603.27463)|null|
 |**2026-03-27**|**Beyond BMI: Smartphone Body Composition Phenotyping for Cardiometabolic Risk Assessment**|Dr Menglian Zhou et.al.|[2603.27017](http://arxiv.org/abs/2603.27017)|null|
 |**2026-03-27**|**Fractional Risk Analysis of Stochastic Systems with Jumps and Memory**|Yimeng Sun et.al.|[2603.26009](http://arxiv.org/abs/2603.26009)|null|
@@ -1123,11 +1144,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools**|Nuno Braz et.al.|[2603.28705](http://arxiv.org/abs/2603.28705)|null|
+|**2026-03-30**|**Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems**|Martin Thomas Brolly et.al.|[2603.28671](http://arxiv.org/abs/2603.28671)|null|
 |**2026-03-28**|**On the Relationship between Bayesian Networks and Probabilistic Structural Causal Models**|Peter J. F. Lucas et.al.|[2603.27406](http://arxiv.org/abs/2603.27406)|null|
 |**2026-03-27**|**Making Multi-Axis Models Robust to Multiplicative Noise: How, and Why?**|Bailey Andrew et.al.|[2603.26327](http://arxiv.org/abs/2603.26327)|null|
 |**2026-03-27**|**Semi-structured multi-state delinquency model for mortgage default**|Victor Medina-Olivares et.al.|[2603.26309](http://arxiv.org/abs/2603.26309)|null|
 |**2026-03-27**|**Complete Causal Identification from Ancestral Graphs under Selection Bias**|Leihao Chen et.al.|[2603.26301](http://arxiv.org/abs/2603.26301)|null|
-|**2026-03-27**|**Hunting Structural Demons in Digital Reticular Chemistry**|Yongchul G. Chung et.al.|[2603.26295](http://arxiv.org/abs/2603.26295)|null|
+|**2026-03-30**|**Hunting Structural Demons in Digital Reticular Chemistry**|Yongchul G. Chung et.al.|[2603.26295](http://arxiv.org/abs/2603.26295)|null|
 |**2026-03-26**|**Data-Driven Probabilistic Fault Detection and Identification via Density Flow Matching**|Joshua D. Ibrahim et.al.|[2603.25982](http://arxiv.org/abs/2603.25982)|null|
 |**2026-03-26**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
 |**2026-03-26**|**Core and mantle thermal evolution constraints on the onset of plate tectonics and a long-lived geodynamo**|Valentin Bonnet Gibet et.al.|[2603.25232](http://arxiv.org/abs/2603.25232)|null|
