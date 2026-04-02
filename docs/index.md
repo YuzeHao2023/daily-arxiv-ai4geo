@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**A comparison of pendulum models for large-amplitude longitudinal prominence oscillations**|Iñigo Arregui et.al.|[2604.00654](http://arxiv.org/abs/2604.00654)|null|
+|**2026-04-01**|**FAST Observations of Wave-like Structures in the Radio Dynamic Spectrum of AD Leo**|Wenjie Zou et.al.|[2604.00457](http://arxiv.org/abs/2604.00457)|null|
 |**2026-03-26**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
 |**2026-03-18**|**Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation**|William Thorossian et.al.|[2603.17855](http://arxiv.org/abs/2603.17855)|null|
 |**2026-03-14**|**Landau-de Gennes numerical simulation of nematic liquid crystals utilizing radial basis functions**|Jin-Sheng Wu et.al.|[2603.13991](http://arxiv.org/abs/2603.13991)|null|
@@ -48,6 +50,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications**|Yi Cao et.al.|[2604.00987](http://arxiv.org/abs/2604.00987)|null|
+|**2026-04-01**|**Physics-informed neural networks for solving two-phase flow problems with moving interfaces**|Qijia Zhai et.al.|[2604.00948](http://arxiv.org/abs/2604.00948)|null|
+|**2026-04-01**|**MAESIL: Masked Autoencoder for Enhanced Self-supervised Medical Image Learning**|Kyeonghun Kim et.al.|[2604.00514](http://arxiv.org/abs/2604.00514)|null|
+|**2026-04-01**|**Optimization-Based Discovery of A Non-Attracting Flow State in An Oscillating-Cylinder Wake**|Daiwei Dong et.al.|[2604.00441](http://arxiv.org/abs/2604.00441)|null|
+|**2026-03-31**|**SAGE: Subsurface AI-driven Geostatistical Extraction with proxy posterior**|Huseyin Tuna Erdinc et.al.|[2604.00307](http://arxiv.org/abs/2604.00307)|null|
+|**2026-03-31**|**Set-Based Value Function Characterization and Neural Approximation of Stabilization Domains for Input-Constrained Discrete-Time Systems**|Mohamed Serry et.al.|[2604.00305](http://arxiv.org/abs/2604.00305)|null|
+|**2026-03-31**|**Geometry-informed neural atlas for boundary value problems of complex 3D geometries**|WaiChing Sun et.al.|[2604.00285](http://arxiv.org/abs/2604.00285)|null|
+|**2026-03-31**|**Detection of quantum imaginarity using moments and its interferometric realization**|Sudip Chakrabarty et.al.|[2604.00164](http://arxiv.org/abs/2604.00164)|null|
 |**2026-03-31**|**Renal Blood Flow Quantification During Standard Myocardial Perfusion Imaging with Rubidium-82 Positron Emission Tomography**|Hamid Abdollahi et.al.|[2603.30005](http://arxiv.org/abs/2603.30005)|null|
 |**2026-03-31**|**Two-Dimensional Transverse-Momentum Subtraction and Semi-Inclusive Deep-Inelastic Scattering at N $^3$ LO in QCD**|Liang Dong et.al.|[2603.29673](http://arxiv.org/abs/2603.29673)|null|
 |**2026-03-31**|**Gaussian sample model in in-line imaging**|Timur E. Gureyev et.al.|[2603.29671](http://arxiv.org/abs/2603.29671)|null|
@@ -476,9 +486,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction**|Miro Miranda et.al.|[2604.00940](http://arxiv.org/abs/2604.00940)|null|
+|**2026-04-01**|**Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis**|Xingxing Weng et.al.|[2604.00820](http://arxiv.org/abs/2604.00820)|null|
+|**2026-04-01**|**PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images**|Chengcheng Lv et.al.|[2604.00495](http://arxiv.org/abs/2604.00495)|null|
+|**2026-04-01**|**Neural Reconstruction of LiDAR Point Clouds under Jamming Attacks via Full-Waveform Representation and Simultaneous Laser Sensing**|Ryo Yoshida et.al.|[2604.00371](http://arxiv.org/abs/2604.00371)|null|
+|**2026-04-01**|**A Dual-Stream Transformer Architecture for Illumination-Invariant TIR-LiDAR Person Tracking**|Yuki Minase et.al.|[2604.00363](http://arxiv.org/abs/2604.00363)|null|
+|**2026-04-01**|**Real Time Local Wind Inference for Robust Autonomous Navigation**|Spencer Folk et.al.|[2604.00343](http://arxiv.org/abs/2604.00343)|null|
 |**2026-03-31**|**Molecular beam epitaxy of wafer-scale O-band InAs/InGaAs quantum dots on GaAs for quantum photonics**|Pavel S. Avdienko et.al.|[2603.29934](http://arxiv.org/abs/2603.29934)|null|
 |**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
-|**2026-03-31**|**BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation**|Johann-Ludwig Herzog et.al.|[2603.29630](http://arxiv.org/abs/2603.29630)|null|
+|**2026-04-01**|**BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation**|Johann-Ludwig Herzog et.al.|[2603.29630](http://arxiv.org/abs/2603.29630)|null|
 |**2026-03-31**|**EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images**|Yijie Zheng et.al.|[2603.29441](http://arxiv.org/abs/2603.29441)|null|
 |**2026-03-31**|**Efficient Amortized Bayesian Inference for Markov Random Fields via Gradient-Informed Grid Selection**|Laura Bazahica et.al.|[2603.29436](http://arxiv.org/abs/2603.29436)|null|
 |**2026-03-31**|**Native-Domain Cross-Attention for Camera-LiDAR Extrinsic Calibration Under Large Initial Perturbations**|Ni Ou et.al.|[2603.29414](http://arxiv.org/abs/2603.29414)|null|
@@ -1013,6 +1029,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Dispatch-Embedded Long-Term Tail Risk Assessment and Mitigation via CVaR for Renewable Power Systems**|Kai Kang et.al.|[2604.00926](http://arxiv.org/abs/2604.00926)|null|
+|**2026-03-31**|**Cybersecurity Risk Assessment for CubeSat Missions: Adapting Established Frameworks for Resource-Constrained Environments**|Jonathan Shelby et.al.|[2604.00303](http://arxiv.org/abs/2604.00303)|null|
+|**2026-03-31**|**Sit-to-Stand Transitions Detection and Duration Measurement Using Smart Lacelock Sensor**|Md Rafi Islam et.al.|[2604.00175](http://arxiv.org/abs/2604.00175)|null|
 |**2026-03-30**|**A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank**|Iness Halimi et.al.|[2603.29041](http://arxiv.org/abs/2603.29041)|null|
 |**2026-03-30**|**Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams**|Silvano Coletti et.al.|[2603.28115](http://arxiv.org/abs/2603.28115)|null|
 |**2026-03-29**|**Multivariate Gaussian process emulation for multifidelity computer models with high-dimensional spatial outputs**|Cyrus S. McCrimmon et.al.|[2603.27463](http://arxiv.org/abs/2603.27463)|null|
@@ -1168,6 +1187,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**The complex dependencies of Wolf-Rayet winds -- Insights from detailed radiative transfer models**|Andreas A. C. Sander et.al.|[2604.00650](http://arxiv.org/abs/2604.00650)|null|
+|**2026-04-01**|**Estimating causal effects of continuous-time dynamic treatments with unmeasured confounders**|Haiyan Zhu et.al.|[2604.00544](http://arxiv.org/abs/2604.00544)|null|
+|**2026-04-01**|**Extended State Observer for Localized Fault Awareness in RF Accelerating Structures**|Luke S. Baker et.al.|[2604.00340](http://arxiv.org/abs/2604.00340)|null|
+|**2026-03-31**|**Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry**|Syed Eqbal Alam et.al.|[2604.00319](http://arxiv.org/abs/2604.00319)|null|
+|**2026-03-31**|**Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations**|Haoran Wang et.al.|[2604.00209](http://arxiv.org/abs/2604.00209)|null|
 |**2026-03-30**|**Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools**|Nuno Braz et.al.|[2603.28705](http://arxiv.org/abs/2603.28705)|null|
 |**2026-03-30**|**Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems**|Martin Thomas Brolly et.al.|[2603.28671](http://arxiv.org/abs/2603.28671)|null|
 |**2026-03-28**|**On the Relationship between Bayesian Networks and Probabilistic Structural Causal Models**|Peter J. F. Lucas et.al.|[2603.27406](http://arxiv.org/abs/2603.27406)|null|
@@ -1319,6 +1343,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**BioCOMPASS: Integrating Biomarkers into Transformer-Based Immunotherapy Response Prediction**|Sayed Hashim et.al.|[2604.00739](http://arxiv.org/abs/2604.00739)|null|
+|**2026-04-01**|**MAESIL: Masked Autoencoder for Enhanced Self-supervised Medical Image Learning**|Kyeonghun Kim et.al.|[2604.00514](http://arxiv.org/abs/2604.00514)|null|
+|**2026-04-01**|**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar**|Taeyoun Kwon et.al.|[2604.00383](http://arxiv.org/abs/2604.00383)|null|
+|**2026-03-31**|**Feature-level Site Leakage Reduction for Cross-Hospital Chest X-ray Transfer via Self-Supervised Learning**|Ayoub Louaye Bouaziz et.al.|[2604.00263](http://arxiv.org/abs/2604.00263)|null|
 |**2026-03-31**|**IQRA 2026: Interspeech Challenge on Automatic Assessment Pronunciation for Modern Standard Arabic (MSA)**|Yassine El Kheir et.al.|[2603.29087](http://arxiv.org/abs/2603.29087)|null|
 |**2026-03-28**|**TrackMAE: Video Representation Learning via Track Mask and Predict**|Renaud Vandeghen et.al.|[2603.27268](http://arxiv.org/abs/2603.27268)|null|
 |**2026-03-28**|**Semantic Interaction Information mediates compositional generalization in latent space**|John Schwarcz et.al.|[2603.27134](http://arxiv.org/abs/2603.27134)|null|
