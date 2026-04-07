@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -50,6 +50,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Generalized Numerical Construction of MUBs: A Group Theoretical Investigation**|Buğra Gültekin et.al.|[2604.04164](http://arxiv.org/abs/2604.04164)|null|
+|**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[2604.04133](http://arxiv.org/abs/2604.04133)|null|
+|**2026-04-05**|**A Reciprocity-Law-Compliant Photoacoustic Forward-Adjoint Operator**|Ashkan Javaherian et.al.|[2604.04022](http://arxiv.org/abs/2604.04022)|null|
+|**2026-04-04**|**Shower-Aware Dual-Stream Voxel Networks for Structural Defect Detection in Cosmic-Ray Muon Tomography**|Parthiv Dasgupta et.al.|[2604.03741](http://arxiv.org/abs/2604.03741)|null|
+|**2026-04-04**|**Quantum Algebraic Diversity: Single-Copy Density Matrix Estimation via Group-Structured Measurements**|Mitchell A. Thornton et.al.|[2604.03725](http://arxiv.org/abs/2604.03725)|null|
+|**2026-04-03**|**Surface-access limitation in catalytic porous monoliths: Performance diagnosis using pore-resolved CFD**|Olivier Guévremont et.al.|[2604.03514](http://arxiv.org/abs/2604.03514)|null|
+|**2026-04-03**|**Amalgamation of Physics-Informed Neural Network and LBM for the Prediction of Unsteady Fluid Flows in Fractal-Rough Microchannels**|Ganesh Sahadeo Meshram et.al.|[2604.03504](http://arxiv.org/abs/2604.03504)|null|
+|**2026-04-03**|**Lattice-Boltzmann-Driven Physics-Informed Neural Networks for Droplet Wettability on Rough Surfaces**|Ganesh Sahadeo Meshram et.al.|[2604.03481](http://arxiv.org/abs/2604.03481)|null|
+|**2026-04-03**|**Learning PDEs for Portfolio Optimization with Quantum Physics-Informed Neural Networks**|Letao Wang et.al.|[2604.03346](http://arxiv.org/abs/2604.03346)|null|
 |**2026-04-03**|**Fast and Accurate Inverse Blood Flow Modeling from Minimal Cuff-Pressure Data via PINNs**|Sokratis J. Anagnostopoulos et.al.|[2604.03221](http://arxiv.org/abs/2604.03221)|null|
 |**2026-04-03**|**A Numerical Method for Coupling Parameterized Physics-Informed Neural Networks and FDM for Advanced Thermal-Hydraulic System Simulation**|Jeesuk Shin et.al.|[2604.02663](http://arxiv.org/abs/2604.02663)|null|
 |**2026-04-02**|**A Mean-Field Game Model For Large-Scale Attrition in Attacker-Defender Systems**|Avetik Arakelyan et.al.|[2604.02101](http://arxiv.org/abs/2604.02101)|null|
@@ -496,6 +505,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature**|Sofiane Bouaziz et.al.|[2604.04153](http://arxiv.org/abs/2604.04153)|null|
+|**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Hang Fan et.al.|[2604.04145](http://arxiv.org/abs/2604.04145)|null|
+|**2026-04-05**|**SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Robust SAR Ship Detection**|Fenghao Song et.al.|[2604.04127](http://arxiv.org/abs/2604.04127)|null|
+|**2026-04-05**|**SmartPatchLinker: An Open-Source Tool to Linked Changes Detection for Code Review**|Islem Khemissi et.al.|[2604.04045](http://arxiv.org/abs/2604.04045)|null|
+|**2026-04-04**|**Spatiotemporal Interpolation of GEDI Biomass with Calibrated Uncertainty**|Robin Young et.al.|[2604.03874](http://arxiv.org/abs/2604.03874)|null|
+|**2026-04-04**|**Beyond Task-Driven Features for Object Detection**|Meilun Zhou et.al.|[2604.03839](http://arxiv.org/abs/2604.03839)|null|
+|**2026-04-04**|**Task-Guided Multi-Annotation Triplet Learning for Remote Sensing Representations**|Meilun Zhou et.al.|[2604.03837](http://arxiv.org/abs/2604.03837)|null|
+|**2026-04-04**|**CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping**|Lei Zhao et.al.|[2604.03747](http://arxiv.org/abs/2604.03747)|null|
+|**2026-04-04**|**DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR**|Hoonhee Cho et.al.|[2604.03685](http://arxiv.org/abs/2604.03685)|null|
+|**2026-04-04**|**Physics-Informed Untrained Learning for RGB-Guided Superresolution Single-Pixel Hyperspectral Imaging**|Hao Zhang et.al.|[2604.03572](http://arxiv.org/abs/2604.03572)|null|
 |**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[2604.03212](http://arxiv.org/abs/2604.03212)|null|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[2604.02903](http://arxiv.org/abs/2604.02903)|null|
@@ -1064,6 +1083,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Assessing Cyber Risks in Hydropower Systems Through HAZOP and Bow-Tie Analysis**|Kwabena Opoku Frempong-Kore et.al.|[2604.03994](http://arxiv.org/abs/2604.03994)|null|
+|**2026-04-05**|**Quantifying Trust: Financial Risk Management for Trustworthy AI Agents**|Wenyue Hua et.al.|[2604.03976](http://arxiv.org/abs/2604.03976)|null|
+|**2026-04-05**|**Learning association from multiple intermediate events for dynamic prediction of survival: an application to cardiovascular disease prognosis**|Tonghui Yu et.al.|[2604.03970](http://arxiv.org/abs/2604.03970)|null|
 |**2026-04-02**|**Causal-Audit: A Framework for Risk Assessment of Assumption Violations in Time-Series Causal Discovery**|Marco Ruiz et.al.|[2604.02488](http://arxiv.org/abs/2604.02488)|null|
 |**2026-04-02**|**AI in Insurance: Adaptive Questionnaires for Improved Risk Profiling**|Diogo Silva et.al.|[2604.02034](http://arxiv.org/abs/2604.02034)|null|
 |**2026-04-02**|**Variational LSTM with Augmented Inputs: Nonlinear Response History Metamodeling with Aleatoric and Epistemic Uncertainty**|Manisha Sapkota et.al.|[2604.01587](http://arxiv.org/abs/2604.01587)|null|
@@ -1227,13 +1249,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Extended Hybrid Timed Petri Nets with Semi-Supervised Anomaly Detection for Switched Systems, Modelling and Fault Detection**|Fatiha Hamdi et.al.|[2604.04051](http://arxiv.org/abs/2604.04051)|null|
+|**2026-04-03**|**Learning-Based Fault Detection for Legged Robots in Remote Dynamic Environments**|Abriana Stewart-Height et.al.|[2604.03397](http://arxiv.org/abs/2604.03397)|null|
 |**2026-04-03**|**Nonzero-Sum Stochastic Differential Games for Controlled Convection-Diffusion SPDEs**|Nacira Agram et.al.|[2604.02998](http://arxiv.org/abs/2604.02998)|null|
 |**2026-04-02**|**Multiphase cross-diffusion models for tissue structures: modeling, analysis, numerics**|Ansgar Jüngel et.al.|[2604.01827](http://arxiv.org/abs/2604.01827)|null|
 |**2026-04-02**|**LiteInception: A Lightweight and Interpretable Deep Learning Framework for General Aviation Fault Diagnosis**|Zhihuan Wei et.al.|[2604.01725](http://arxiv.org/abs/2604.01725)|null|
 |**2026-04-01**|**VIANA: character Value-enhanced Intensity Assessment via domain-informed Neural Architecture**|Luana P. Queiroz et.al.|[2604.01365](http://arxiv.org/abs/2604.01365)|null|
 |**2026-04-01**|**The complex dependencies of Wolf-Rayet winds -- Insights from detailed radiative transfer models**|Andreas A. C. Sander et.al.|[2604.00650](http://arxiv.org/abs/2604.00650)|null|
 |**2026-04-01**|**Estimating causal effects of continuous-time dynamic treatments with unmeasured confounders**|Haiyan Zhu et.al.|[2604.00544](http://arxiv.org/abs/2604.00544)|null|
-|**2026-04-01**|**Extended State Observer for Localized Fault Awareness in RF Accelerating Structures**|Luke S. Baker et.al.|[2604.00340](http://arxiv.org/abs/2604.00340)|null|
+|**2026-04-04**|**Extended State Observer for Localized Fault Awareness in RF Accelerating Structures**|Luke S. Baker et.al.|[2604.00340](http://arxiv.org/abs/2604.00340)|null|
 |**2026-03-31**|**Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry**|Syed Eqbal Alam et.al.|[2604.00319](http://arxiv.org/abs/2604.00319)|null|
 |**2026-03-31**|**Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations**|Haoran Wang et.al.|[2604.00209](http://arxiv.org/abs/2604.00209)|null|
 |**2026-03-30**|**Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools**|Nuno Braz et.al.|[2603.28705](http://arxiv.org/abs/2603.28705)|null|
@@ -1387,6 +1411,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-04**|**KappaFormer: Physics-aware Transformer for lattice thermal conductivity via cross-domain transfer learning**|Mengfan Wu et.al.|[2604.03547](http://arxiv.org/abs/2604.03547)|null|
+|**2026-04-03**|**Bridging the Dimensionality Gap: A Taxonomy and Survey of 2D Vision Model Adaptation for 3D Analysis**|Akshat Pandya et.al.|[2604.03334](http://arxiv.org/abs/2604.03334)|null|
 |**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|
 |**2026-04-02**|**Rapidly deploying on-device eye tracking by distilling visual foundation models**|Cheng Jiang et.al.|[2604.02509](http://arxiv.org/abs/2604.02509)|null|
 |**2026-04-02**|**ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook**|Mudassir Hasan Khan et.al.|[2604.02501](http://arxiv.org/abs/2604.02501)|null|
