@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -50,6 +50,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Development and Performance of an Instrumentation Laboratory for Infrared Medical Imaging**|Anna Frixou et.al.|[2604.05847](http://arxiv.org/abs/2604.05847)|null|
+|**2026-04-07**|**Physics-Informed Neural Optimal Control for Precision Immobilization Technique in Emergency Scenarios**|Yangye Jiang et.al.|[2604.05758](http://arxiv.org/abs/2604.05758)|null|
+|**2026-04-07**|**Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies**|Prashant Kumar et.al.|[2604.05652](http://arxiv.org/abs/2604.05652)|null|
+|**2026-04-07**|**Probing Intrinsic Medical Task Relationships: A Contrastive Learning Perspective**|Jonas Muth et.al.|[2604.05651](http://arxiv.org/abs/2604.05651)|null|
+|**2026-04-07**|**ResearchEVO: An End-to-End Framework for Automated Scientific Discovery and Documentation**|Zhe Zhao et.al.|[2604.05587](http://arxiv.org/abs/2604.05587)|null|
+|**2026-04-07**|**Detectability of continuous gravitational waves from planetary-mass companions orbiting compact stars**|Abdusattar Kurban et.al.|[2604.05425](http://arxiv.org/abs/2604.05425)|null|
+|**2026-04-07**|**LUMOS: Universal Semi-Supervised OCT Retinal Layer Segmentation with Hierarchical Reliable Mutual Learning**|Yizhou Fang et.al.|[2604.05388](http://arxiv.org/abs/2604.05388)|null|
+|**2026-04-06**|**Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks**|Anas Jnini et.al.|[2604.05230](http://arxiv.org/abs/2604.05230)|null|
+|**2026-04-06**|**PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods**|Zhen Zhang et.al.|[2604.04920](http://arxiv.org/abs/2604.04920)|null|
+|**2026-04-06**|**Precision QCD with the Electron-Ion Collider**|C. Alexandrou et.al.|[2604.04765](http://arxiv.org/abs/2604.04765)|null|
 |**2026-04-05**|**Generalized Numerical Construction of MUBs: A Group Theoretical Investigation**|Buğra Gültekin et.al.|[2604.04164](http://arxiv.org/abs/2604.04164)|null|
 |**2026-04-05**|**Learning Robust Visual Features in Computed Tomography Enables Efficient Transfer Learning for Clinical Tasks**|Rubén Moreno-Aguado et.al.|[2604.04133](http://arxiv.org/abs/2604.04133)|null|
 |**2026-04-05**|**A Reciprocity-Law-Compliant Photoacoustic Forward-Adjoint Operator**|Ashkan Javaherian et.al.|[2604.04022](http://arxiv.org/abs/2604.04022)|null|
@@ -505,6 +515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion**|Qiya Song et.al.|[2604.05742](http://arxiv.org/abs/2604.05742)|null|
+|**2026-04-07**|**CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration**|Xuecong Liu et.al.|[2604.05689](http://arxiv.org/abs/2604.05689)|null|
+|**2026-04-07**|**A BEV-Fusion Based Framework for Sequential Multi-Modal Beam Prediction in mmWave Systems**|Jiaming Zeng et.al.|[2604.05668](http://arxiv.org/abs/2604.05668)|null|
+|**2026-04-07**|**A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting**|Yongchuan Cui et.al.|[2604.05629](http://arxiv.org/abs/2604.05629)|null|
+|**2026-04-07**|**Prior-guided Fusion of Multimodal Features for Change Detection from Optical-SAR Images**|Xuanguang Liu et.al.|[2604.05527](http://arxiv.org/abs/2604.05527)|null|
+|**2026-04-07**|**Learned Elevation Models as a Lightweight Alternative to LiDAR for Radio Environment Map Estimation**|Ljupcho Milosheski et.al.|[2604.05520](http://arxiv.org/abs/2604.05520)|null|
+|**2026-04-07**|**Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection**|Hongsheng Li et.al.|[2604.05405](http://arxiv.org/abs/2604.05405)|null|
+|**2026-04-07**|**Near real-time monitoring of global land-ocean cover dynamics**|Lixing Wang et.al.|[2604.05384](http://arxiv.org/abs/2604.05384)|null|
+|**2026-04-07**|**Unsupervised Multi-agent and Single-agent Perception from Cooperative Views**|Haochen Yang et.al.|[2604.05354](http://arxiv.org/abs/2604.05354)|null|
+|**2026-04-06**|**Tracing the origin of tropical North Atlantic Sargassum blooms to West Africa**|Francisco J. Beron-Vera et.al.|[2604.04866](http://arxiv.org/abs/2604.04866)|null|
 |**2026-04-05**|**Uncertainty-Aware Test-Time Adaptation for Cross-Region Spatio-Temporal Fusion of Land Surface Temperature**|Sofiane Bouaziz et.al.|[2604.04153](http://arxiv.org/abs/2604.04153)|null|
 |**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Hang Fan et.al.|[2604.04145](http://arxiv.org/abs/2604.04145)|null|
 |**2026-04-05**|**SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Robust SAR Ship Detection**|Fenghao Song et.al.|[2604.04127](http://arxiv.org/abs/2604.04127)|null|
@@ -1004,6 +1024,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**MPM: Mutual Pair Merging for Efficient Vision Transformers**|Simon Ravé et.al.|[2604.05718](http://arxiv.org/abs/2604.05718)|null|
 |**2026-04-03**|**Deformation-based In-Context Learning for Point Cloud Understanding**|Chengxing Lin et.al.|[2604.02845](http://arxiv.org/abs/2604.02845)|null|
 |**2026-04-02**|**Space-Efficient Quantum Algorithm for Elliptic Curve Discrete Logarithms with Resource Estimation**|Han Luo et.al.|[2604.02311](http://arxiv.org/abs/2604.02311)|null|
 |**2026-04-01**|**Resource Estimation via Efficient Compilation of Key Quantum Primitives**|Colin Campbell et.al.|[2604.01376](http://arxiv.org/abs/2604.01376)|null|
@@ -1083,6 +1104,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Noise budget of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)**|Mario Juvenal S. Onglao et.al.|[2604.05840](http://arxiv.org/abs/2604.05840)|null|
+|**2026-04-07**|**From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems**|Shaofei Huang et.al.|[2604.05674](http://arxiv.org/abs/2604.05674)|null|
+|**2026-04-06**|**Protecting and Preserving Protest Dynamics for Responsible Analysis**|Cohen Archbold et.al.|[2604.05256](http://arxiv.org/abs/2604.05256)|null|
+|**2026-04-05**|**Peoples Water Data: Enabling Reliable Field Data Generation and Microbial Contamination Screening in Household Drinking Water**|Suzan Kagan et.al.|[2604.04240](http://arxiv.org/abs/2604.04240)|null|
 |**2026-04-05**|**Assessing Cyber Risks in Hydropower Systems Through HAZOP and Bow-Tie Analysis**|Kwabena Opoku Frempong-Kore et.al.|[2604.03994](http://arxiv.org/abs/2604.03994)|null|
 |**2026-04-05**|**Quantifying Trust: Financial Risk Management for Trustworthy AI Agents**|Wenyue Hua et.al.|[2604.03976](http://arxiv.org/abs/2604.03976)|null|
 |**2026-04-05**|**Learning association from multiple intermediate events for dynamic prediction of survival: an application to cardiovascular disease prognosis**|Tonghui Yu et.al.|[2604.03970](http://arxiv.org/abs/2604.03970)|null|
@@ -1411,6 +1436,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**SLSREC: Self-Supervised Contrastive Learning for Adaptive Fusion of Long- and Short-Term User Interests**|Wei Zhou et.al.|[2604.04530](http://arxiv.org/abs/2604.04530)|null|
+|**2026-04-06**|**Thermodynamic-Inspired Explainable GeoAI: Uncovering Regime-Dependent Mechanisms in Heterogeneous Spatial Systems**|Sooyoung Lim et.al.|[2604.04339](http://arxiv.org/abs/2604.04339)|null|
 |**2026-04-04**|**KappaFormer: Physics-aware Transformer for lattice thermal conductivity via cross-domain transfer learning**|Mengfan Wu et.al.|[2604.03547](http://arxiv.org/abs/2604.03547)|null|
 |**2026-04-03**|**Bridging the Dimensionality Gap: A Taxonomy and Survey of 2D Vision Model Adaptation for 3D Analysis**|Akshat Pandya et.al.|[2604.03334](http://arxiv.org/abs/2604.03334)|null|
 |**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|
