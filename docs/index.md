@@ -50,6 +50,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**When waves meet rays: Seismic vibrations and cosmic showers to test gravity**|Aneta Wojnar et.al.|[2604.07333](http://arxiv.org/abs/2604.07333)|null|
+|**2026-04-08**|**Physics-Informed Discrete-Event Simulation of Polarization-Encoded Quantum Networks**|Abderrahim Amlou et.al.|[2604.07289](http://arxiv.org/abs/2604.07289)|null|
 |**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[2604.07141](http://arxiv.org/abs/2604.07141)|null|
 |**2026-04-08**|**Estimating bottom topography in shallow water flows**|Lucas Pancotto et.al.|[2604.07075](http://arxiv.org/abs/2604.07075)|null|
 |**2026-04-08**|**Physics-Informed Functional Link Constrained Framework with Domain Mapping for Solving Bending Analysis of an Exponentially Loaded Perforated Beam**|Iswari Sahu et.al.|[2604.07025](http://arxiv.org/abs/2604.07025)|null|
@@ -1043,6 +1045,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Improved Implementation of Approximate Full Mass Matrix Inverse Methods into Material Point Method Simulations**|John A. Nairn et.al.|[2604.07307](http://arxiv.org/abs/2604.07307)|null|
 |**2026-04-07**|**MPM: Mutual Pair Merging for Efficient Vision Transformers**|Simon Ravé et.al.|[2604.05718](http://arxiv.org/abs/2604.05718)|null|
 |**2026-04-03**|**Deformation-based In-Context Learning for Point Cloud Understanding**|Chengxing Lin et.al.|[2604.02845](http://arxiv.org/abs/2604.02845)|null|
 |**2026-04-02**|**Space-Efficient Quantum Algorithm for Elliptic Curve Discrete Logarithms with Resource Estimation**|Han Luo et.al.|[2604.02311](http://arxiv.org/abs/2604.02311)|null|
@@ -1298,6 +1301,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks**|Tom Clegg et.al.|[2604.07347](http://arxiv.org/abs/2604.07347)|null|
+|**2026-04-08**|**Active Propeller Fault Detection and Isolation in Multirotors Via Vibration Model**|Alessandro Baldini et.al.|[2604.07281](http://arxiv.org/abs/2604.07281)|null|
 |**2026-04-05**|**Extended Hybrid Timed Petri Nets with Semi-Supervised Anomaly Detection for Switched Systems, Modelling and Fault Detection**|Fatiha Hamdi et.al.|[2604.04051](http://arxiv.org/abs/2604.04051)|null|
 |**2026-04-03**|**Learning-Based Fault Detection for Legged Robots in Remote Dynamic Environments**|Abriana Stewart-Height et.al.|[2604.03397](http://arxiv.org/abs/2604.03397)|null|
 |**2026-04-03**|**Nonzero-Sum Stochastic Differential Games for Controlled Convection-Diffusion SPDEs**|Nacira Agram et.al.|[2604.02998](http://arxiv.org/abs/2604.02998)|null|
