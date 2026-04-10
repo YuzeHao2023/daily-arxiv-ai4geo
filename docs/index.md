@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -50,6 +50,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data**|Anders S. Olsen et.al.|[2604.08161](http://arxiv.org/abs/2604.08161)|null|
+|**2026-04-09**|**Orthogonalised Self-Guided Quantum Tomography: Insights from Single-Pixel Imaging**|Kiki Dekkers et.al.|[2604.08057](http://arxiv.org/abs/2604.08057)|null|
+|**2026-04-09**|**A Helicity-Conservative Domain-Decomposed Physics-Informed Neural Network for Incompressible Non-Newtonian Flow**|Zheng Lu et.al.|[2604.08002](http://arxiv.org/abs/2604.08002)|null|
+|**2026-04-09**|**Quantifying Injection-Driven Mass Transfer within Porous Media via Time-Elapsed X-ray micro-Computed Tomography**|Christopher A. Allison et.al.|[2604.07743](http://arxiv.org/abs/2604.07743)|null|
+|**2026-04-08**|**Optimal Quantum State Testing Even with Limited Entanglement**|Chirag Wadhwa et.al.|[2604.07460](http://arxiv.org/abs/2604.07460)|null|
+|**2026-04-08**|**SPAMoE: Spectrum-Aware Hybrid Operator Framework for Full-Waveform Inversion**|Zhenyu Wang et.al.|[2604.07421](http://arxiv.org/abs/2604.07421)|null|
 |**2026-04-08**|**When waves meet rays: Seismic vibrations and cosmic showers to test gravity**|Aneta Wojnar et.al.|[2604.07333](http://arxiv.org/abs/2604.07333)|null|
 |**2026-04-08**|**Physics-Informed Discrete-Event Simulation of Polarization-Encoded Quantum Networks**|Abderrahim Amlou et.al.|[2604.07289](http://arxiv.org/abs/2604.07289)|null|
 |**2026-04-08**|**USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification**|Changmiao Wang et.al.|[2604.07141](http://arxiv.org/abs/2604.07141)|null|
@@ -526,6 +532,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|[2604.08272](http://arxiv.org/abs/2604.08272)|null|
+|**2026-04-09**|**$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$ : Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization**|Arnav Devalapally et.al.|[2604.08238](http://arxiv.org/abs/2604.08238)|null|
+|**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[2604.08171](http://arxiv.org/abs/2604.08171)|null|
+|**2026-04-09**|**In-flight calibration of ESA Hera's HyperScout-H imager**|G. P. Prodan et.al.|[2604.08090](http://arxiv.org/abs/2604.08090)|null|
+|**2026-04-09**|**A H.265/HEVC Fine-Grained ROI Video Encryption Algorithm Based on Coding Unit and Prompt Segmentation**|Xiang Zhang et.al.|[2604.08047](http://arxiv.org/abs/2604.08047)|null|
+|**2026-04-09**|**MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems**|Arda Yüksel et.al.|[2604.07956](http://arxiv.org/abs/2604.07956)|null|
+|**2026-04-09**|**RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs**|Liang Yao et.al.|[2604.07765](http://arxiv.org/abs/2604.07765)|null|
+|**2026-04-08**|**MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.|[2604.07656](http://arxiv.org/abs/2604.07656)|null|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|null|
 |**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
 |**2026-04-08**|**Assessing the Added Value of Onboard Earth Observation Processing with the IRIDE HEO Service Segment**|Parampuneet Kaur Thind et.al.|[2604.07120](http://arxiv.org/abs/2604.07120)|null|
@@ -1127,6 +1142,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Adapting Foundation Models for Annotation-Efficient Adnexal Mass Segmentation in Cine Images**|Francesca Fati et.al.|[2604.08045](http://arxiv.org/abs/2604.08045)|null|
+|**2026-04-08**|**Poisson-response Tensor-on-Tensor Regression and Applications**|Carlos Llosa-Vite et.al.|[2604.07377](http://arxiv.org/abs/2604.07377)|null|
 |**2026-04-08**|**VulGD: A LLM-Powered Dynamic Open-Access Vulnerability Graph Database**|Luat Do et.al.|[2604.06967](http://arxiv.org/abs/2604.06967)|null|
 |**2026-04-07**|**Probabilistic Frequency Hazard Analysis: Adapting the Seismic Hazard Framework to Power System Frequency Exceedance Risk**|Sewedo Todowede et.al.|[2604.06415](http://arxiv.org/abs/2604.06415)|null|
 |**2026-04-07**|**Incremental Risk Assessment for Cascading Failures in Large-Scale Multi-Agent Systems**|Guangyi Liu et.al.|[2604.06024](http://arxiv.org/abs/2604.06024)|null|
@@ -1277,7 +1294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-30**|**A bounded-interval multiwavelet formulation with conservative finite-volume transport for one-dimensional Buckley--Leverett waterflooding**|Christian Tantardini et.al.|[2603.28981](http://arxiv.org/abs/2603.28981)|null|
+|**2026-04-09**|**A bounded-interval multiwavelet formulation with conservative finite-volume transport for one-dimensional Buckley--Leverett waterflooding**|Christian Tantardini et.al.|[2603.28981](http://arxiv.org/abs/2603.28981)|null|
 |**2026-03-26**|**Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations**|Matteo Salis et.al.|[2603.25779](http://arxiv.org/abs/2603.25779)|null|
 |**2026-03-21**|**Effects of fluid rheology and geometric disorder on the enhanced resistance of viscoelastic flows through porous media**|Simon J Haward et.al.|[2603.20592](http://arxiv.org/abs/2603.20592)|null|
 |**2026-03-20**|**A decade of airborne electromagnetic surveying Lake Menindee (Australia) under varying water levels**|Anandaroop Ray et.al.|[2603.19933](http://arxiv.org/abs/2603.19933)|null|
@@ -1301,6 +1318,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Tree-of-Evidence: Efficient "System 2" Search for Faithful Multimodal Grounding**|Micky C. Nnamdi et.al.|[2604.07692](http://arxiv.org/abs/2604.07692)|null|
+|**2026-04-08**|**DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generation**|Valeriy Kovalskiy et.al.|[2604.07590](http://arxiv.org/abs/2604.07590)|null|
+|**2026-04-06**|**Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort**|Mengman Wei et.al.|[2604.07368](http://arxiv.org/abs/2604.07368)|null|
 |**2026-04-08**|**Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks**|Tom Clegg et.al.|[2604.07347](http://arxiv.org/abs/2604.07347)|null|
 |**2026-04-08**|**Active Propeller Fault Detection and Isolation in Multirotors Via Vibration Model**|Alessandro Baldini et.al.|[2604.07281](http://arxiv.org/abs/2604.07281)|null|
 |**2026-04-05**|**Extended Hybrid Timed Petri Nets with Semi-Supervised Anomaly Detection for Switched Systems, Modelling and Fault Detection**|Fatiha Hamdi et.al.|[2604.04051](http://arxiv.org/abs/2604.04051)|null|
@@ -1465,6 +1485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[2604.08171](http://arxiv.org/abs/2604.08171)|null|
+|**2026-04-08**|**Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yorùbá**|Opeyemi Osakuade et.al.|[2604.07467](http://arxiv.org/abs/2604.07467)|null|
 |**2026-04-08**|**Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems**|Charbel Bou Chaaya et.al.|[2604.06914](http://arxiv.org/abs/2604.06914)|null|
 |**2026-04-08**|**Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images**|Yating Chen et.al.|[2604.06816](http://arxiv.org/abs/2604.06816)|null|
 |**2026-04-08**|**ULTRAS -- Unified Learning of Transformer Representations for Audio and Speech Signals**|Ameenudeen P E et.al.|[2604.06702](http://arxiv.org/abs/2604.06702)|null|
