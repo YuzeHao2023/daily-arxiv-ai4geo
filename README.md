@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Data-Driven Power Flow for Radial Distribution Networks with Sparse Real-Time Data**|Oleksii Molodchyk et.al.|[2604.08403](http://arxiv.org/abs/2604.08403)|null|
 |**2026-04-01**|**A comparison of pendulum models for large-amplitude longitudinal prominence oscillations**|Iñigo Arregui et.al.|[2604.00654](http://arxiv.org/abs/2604.00654)|null|
 |**2026-04-01**|**FAST Observations of Wave-like Structures in the Radio Dynamic Spectrum of AD Leo**|Wenjie Zou et.al.|[2604.00457](http://arxiv.org/abs/2604.00457)|null|
 |**2026-03-26**|**TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology**|Feng Liu et.al.|[2603.21152](http://arxiv.org/abs/2603.21152)|null|
@@ -63,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Hard-constrained Physics-informed Neural Networks for Interface Problems**|Seung Whan Chung et.al.|[2604.08453](http://arxiv.org/abs/2604.08453)|null|
 |**2026-04-09**|**Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data**|Anders S. Olsen et.al.|[2604.08161](http://arxiv.org/abs/2604.08161)|null|
 |**2026-04-09**|**Orthogonalised Self-Guided Quantum Tomography: Insights from Single-Pixel Imaging**|Kiki Dekkers et.al.|[2604.08057](http://arxiv.org/abs/2604.08057)|null|
 |**2026-04-09**|**A Helicity-Conservative Domain-Decomposed Physics-Informed Neural Network for Incompressible Non-Newtonian Flow**|Zheng Lu et.al.|[2604.08002](http://arxiv.org/abs/2604.08002)|null|
@@ -547,6 +549,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|
 |**2026-04-09**|**Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|[2604.08272](http://arxiv.org/abs/2604.08272)|null|
 |**2026-04-09**|**$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$ : Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization**|Arnav Devalapally et.al.|[2604.08238](http://arxiv.org/abs/2604.08238)|null|
 |**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[2604.08171](http://arxiv.org/abs/2604.08171)|null|
@@ -1343,6 +1346,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**On-board Telemetry Monitoring in Autonomous Satellites: Challenges and Opportunities**|Lorenzo Capelli et.al.|[2604.08424](http://arxiv.org/abs/2604.08424)|null|
 |**2026-04-09**|**Tree-of-Evidence: Efficient "System 2" Search for Faithful Multimodal Grounding**|Micky C. Nnamdi et.al.|[2604.07692](http://arxiv.org/abs/2604.07692)|null|
 |**2026-04-08**|**DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generation**|Valeriy Kovalskiy et.al.|[2604.07590](http://arxiv.org/abs/2604.07590)|null|
 |**2026-04-06**|**Time-Varying Environmental and Polygenic Predictors of Substance Use Initiation in Youth: A Survival and Causal Modeling Study in the ABCD Cohort**|Mengman Wei et.al.|[2604.07368](http://arxiv.org/abs/2604.07368)|null|
@@ -1512,6 +1516,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**A Machine Learning Framework for Turbofan Health Estimation via Inverse Problem Formulation**|Milad Leyli-Abadi et.al.|[2604.08460](http://arxiv.org/abs/2604.08460)|null|
 |**2026-04-09**|**OceanMAE: A Foundation Model for Ocean Remote Sensing**|Viola-Joanna Stamer et.al.|[2604.08171](http://arxiv.org/abs/2604.08171)|null|
 |**2026-04-08**|**Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yorùbá**|Opeyemi Osakuade et.al.|[2604.07467](http://arxiv.org/abs/2604.07467)|null|
 |**2026-04-08**|**Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems**|Charbel Bou Chaaya et.al.|[2604.06914](http://arxiv.org/abs/2604.06914)|null|
