@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Fe-H melting curve below 3 GPa: Implications for hydrogen in the lunar core**|Jun Takeshita et.al.|[2604.12222](http://arxiv.org/abs/2604.12222)|null|
+|**2026-04-13**|**Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover**|Conor Kresin et.al.|[2604.12124](http://arxiv.org/abs/2604.12124)|null|
 |**2026-04-13**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
 |**2026-04-09**|**Data-Driven Power Flow for Radial Distribution Networks with Sparse Real-Time Data**|Oleksii Molodchyk et.al.|[2604.08403](http://arxiv.org/abs/2604.08403)|null|
 |**2026-04-01**|**A comparison of pendulum models for large-amplitude longitudinal prominence oscillations**|Iñigo Arregui et.al.|[2604.00654](http://arxiv.org/abs/2604.00654)|null|
@@ -52,6 +54,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
+|**2026-04-14**|**Inexpensive Optical Projection Tomography on a Mobile Phone Platform**|Gennifer T. Smith et.al.|[2604.13004](http://arxiv.org/abs/2604.13004)|null|
+|**2026-04-14**|**Variable Bregman Majorization-Minimization algorithms for nonconvex nonsmooth optimization, with application to Poisson imaging**|Maxence Adly et.al.|[2604.12829](http://arxiv.org/abs/2604.12829)|null|
+|**2026-04-14**|**Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control**|Ismail Nassar et.al.|[2604.12661](http://arxiv.org/abs/2604.12661)|null|
+|**2026-04-14**|**Tensor tomography and frame flow ergodicity for magnetic flows in higher dimensions**|Louis-Brahim Beaufort et.al.|[2604.12495](http://arxiv.org/abs/2604.12495)|null|
+|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu et.al.|[2604.12170](http://arxiv.org/abs/2604.12170)|null|
+|**2026-04-13**|**pDSurfTomo: A High-Performance Parallel Computing Package for Direct Surface Wave Tomography**|Shaohang Zhu et.al.|[2604.11920](http://arxiv.org/abs/2604.11920)|null|
+|**2026-04-13**|**Blind Catalytic Quantum Error Correction: Target-State Estimation and Fidelity Recovery Without \textit{A Priori} Knowledge**|Hikaru Wakaura et.al.|[2604.11857](http://arxiv.org/abs/2604.11857)|null|
 |**2026-04-13**|**DiLO: Decoupling Generative Priors and Neural Operators via Diffusion Latent Optimization for Inverse Problems**|Haibo Liu et.al.|[2604.11375](http://arxiv.org/abs/2604.11375)|null|
 |**2026-04-13**|**Precision Synthesis of Multi-Tracer PET via VLM-Modulated Rectified Flow for Stratifying Mild Cognitive Impairment**|Tuo Liu et.al.|[2604.11176](http://arxiv.org/abs/2604.11176)|null|
 |**2026-04-13**|**Neural-Network Inversion for the Temporal CT Multi-Source Bundle Problem: Per-Bundle Statistical Limits and Near-Optimal Performance**|Guy M. Besson et.al.|[2604.10934](http://arxiv.org/abs/2604.10934)|null|
@@ -552,6 +562,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns**|Baris Sarper Tezcan et.al.|[2604.13028](http://arxiv.org/abs/2604.13028)|null|
+|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
+|**2026-04-14**|**A Multi-Agent Feedback System for Detecting and Describing News Events in Satellite Imagery**|Madeline Anderson et.al.|[2604.12772](http://arxiv.org/abs/2604.12772)|null|
+|**2026-04-14**|**Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising**|Xuelin Xie et.al.|[2604.12600](http://arxiv.org/abs/2604.12600)|null|
+|**2026-04-14**|**D-BDM: A Direct and Efficient Boundary-Based Occupancy Grid Mapping Framework for LiDARs**|Benxu Tang et.al.|[2604.12436](http://arxiv.org/abs/2604.12436)|null|
+|**2026-04-14**|**RACF: A Resilient Autonomous Car Framework with Object Distance Correction**|Chieh Tsai et.al.|[2604.12418](http://arxiv.org/abs/2604.12418)|null|
+|**2026-04-14**|**Enhanced quantum illumination of a lossy target: A sequential interaction model**|Shilpi Srivastava et.al.|[2604.12381](http://arxiv.org/abs/2604.12381)|null|
+|**2026-04-14**|**HyperLiDAR: Adaptive Post-Deployment LiDAR Segmentation via Hyperdimensional Computing**|Ivannia Gomez Moreno et.al.|[2604.12331](http://arxiv.org/abs/2604.12331)|null|
+|**2026-04-14**|**GTPBD-MM: A Global Terraced Parcel and Boundary Dataset with Multi-Modality**|Zhiwei Zhang et.al.|[2604.12315](http://arxiv.org/abs/2604.12315)|null|
+|**2026-04-14**|**GCA Framework: A Gulf-Grounded Dataset and Agentic Pipeline for Climate Decision Support**|Muhammad Umer Sheikh et.al.|[2604.12306](http://arxiv.org/abs/2604.12306)|null|
 |**2026-04-13**|**A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment**|Wanli Ma et.al.|[2604.11709](http://arxiv.org/abs/2604.11709)|null|
 |**2026-04-13**|**The Impact of Federated Learning on Distributed Remote Sensing Archives**|Anand Umashankar et.al.|[2604.11562](http://arxiv.org/abs/2604.11562)|null|
 |**2026-04-13**|**HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation**|Yongxiang Liu et.al.|[2604.11444](http://arxiv.org/abs/2604.11444)|null|
@@ -1101,6 +1121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Fault-tolerant simulation of the electronic structure using Projector Augmented-Waves and Bloch orbitals**|Rishabh Bhardwaj et.al.|[2604.12142](http://arxiv.org/abs/2604.12142)|null|
 |**2026-04-12**|**CovAngelo: A hybrid quantum-classical computing platform for accurate and scalable drug discovery**|Linn Evenseth et.al.|[2604.10487](http://arxiv.org/abs/2604.10487)|null|
 |**2026-04-11**|**Organizational Security Resource Estimation via Vulnerability Queueing**|Abdullah Y. Etcibasi et.al.|[2604.10250](http://arxiv.org/abs/2604.10250)|null|
 |**2026-04-11**|**PoreDiT: A Scalable Generative Model for Large-Scale Digital Rock Reconstruction**|Yizhuo Huang et.al.|[2604.10171](http://arxiv.org/abs/2604.10171)|null|
@@ -1187,12 +1208,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Forecasting Oil Prices Across the Distribution: A Quantile VAR Approach**|Hilde C. Bjornland et.al.|[2604.12927](http://arxiv.org/abs/2604.12927)|null|
+|**2026-04-14**|**Bayesian Joint Modelling of Longitudinal Creatinine Trajectories in Children with Auto-Immune Disorders to Predict Paediatric Kidney Disease Risk in a Single Centre Study**|Qendresa Selimi et.al.|[2604.12740](http://arxiv.org/abs/2604.12740)|null|
+|**2026-04-14**|**Data-driven Urban Surface Classification Elucidates Global City Heterogeneity**|Yiheng Chen et.al.|[2604.12193](http://arxiv.org/abs/2604.12193)|null|
 |**2026-04-13**|**LoGo-MR: Screening Breast MRI for Cancer Risk Prediction by Efficient Omni-Slice Modeling**|Xin Wang et.al.|[2604.11348](http://arxiv.org/abs/2604.11348)|null|
 |**2026-04-13**|**AOP-Smart: A RAG-Enhanced Large Language Model Framework for Adverse Outcome Pathway Analysis**|Qinjiang Niu et.al.|[2604.10874](http://arxiv.org/abs/2604.10874)|null|
 |**2026-04-12**|**Lambda R{é}nyi entropic value-at-risk**|Zhenfeng Zou et.al.|[2604.10657](http://arxiv.org/abs/2604.10657)|null|
 |**2026-04-11**|**A Diffusion-Contrastive Graph Neural Network with Virtual Nodes for Wind Nowcasting in Unobserved Regions**|Jie Shi et.al.|[2604.10328](http://arxiv.org/abs/2604.10328)|null|
 |**2026-04-11**|**Combined photon-proton modeling of radiation-induced brain imaging changes supports variability in proton relative biological effectiveness and increased periventricular radiosensitivity**|Martina Palkowitsch et.al.|[2604.10174](http://arxiv.org/abs/2604.10174)|null|
-|**2026-04-10**|**Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification**|Prasad Nimantha Madusanka Ukwatta Hewage et.al.|[2604.09374](http://arxiv.org/abs/2604.09374)|null|
+|**2026-04-14**|**Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification**|Prasad Nimantha Madusanka Ukwatta Hewage et.al.|[2604.09374](http://arxiv.org/abs/2604.09374)|null|
 |**2026-04-09**|**A practical re-weighting scheme of data fitting: application to asteroids orbit determination with Gaia**|Dmitri. E. Vavilov et.al.|[2604.08820](http://arxiv.org/abs/2604.08820)|null|
 |**2026-04-09**|**Adapting Foundation Models for Annotation-Efficient Adnexal Mass Segmentation in Cine Images**|Francesca Fati et.al.|[2604.08045](http://arxiv.org/abs/2604.08045)|null|
 |**2026-04-08**|**Poisson-response Tensor-on-Tensor Regression and Applications**|Carlos Llosa-Vite et.al.|[2604.07377](http://arxiv.org/abs/2604.07377)|null|
@@ -1370,6 +1394,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Reassessing planetary composition: Evidence of rock-dominated envelopes in Uranus and Neptune**|Vanesa Ramirez et.al.|[2604.13020](http://arxiv.org/abs/2604.13020)|null|
+|**2026-04-14**|**Transformer Based Machine Fault Detection From Audio Input**|Kiran Voderhobli Holla et.al.|[2604.12733](http://arxiv.org/abs/2604.12733)|null|
 |**2026-04-13**|**LoGo-MR: Screening Breast MRI for Cancer Risk Prediction by Efficient Omni-Slice Modeling**|Xin Wang et.al.|[2604.11348](http://arxiv.org/abs/2604.11348)|null|
 |**2026-04-13**|**Topological Engine Monitor: Persistent Homology-Based Fault Detection in Finite-Time Quantum Engines**|Miraç Kerem Maden et.al.|[2604.11289](http://arxiv.org/abs/2604.11289)|null|
 |**2026-04-13**|**Towards Automated Solar Panel Integrity: Hybrid Deep Feature Extraction for Advanced Surface Defect Identification**|Muhammad Junaid Asif et.al.|[2604.10969](http://arxiv.org/abs/2604.10969)|null|
@@ -1547,6 +1573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**On the Distillation Loss Functions of Speech VAE for Unified Reconstruction, Understanding, and Generation**|Changhao Cheng et.al.|[2604.12383](http://arxiv.org/abs/2604.12383)|null|
 |**2026-04-13**|**Towards Brain MRI Foundation Models for the Clinic: Findings from the FOMO25 Challenge**|Asbjørn Munk et.al.|[2604.11679](http://arxiv.org/abs/2604.11679)|null|
 |**2026-04-13**|**CoRe-ECG: Advancing Self-Supervised Representation Learning for 12-Lead ECG via Contrastive and Reconstructive Synergy**|Zehao Qin et.al.|[2604.11359](http://arxiv.org/abs/2604.11359)|null|
 |**2026-04-13**|**Using Deep Learning Models Pretrained by Self-Supervised Learning for Protein Localization**|Ben Isselmann et.al.|[2604.10970](http://arxiv.org/abs/2604.10970)|null|
