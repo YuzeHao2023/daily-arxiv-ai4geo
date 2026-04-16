@@ -54,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**A Unified Glassy Rheology for Granular Matter**|Zhikun Zeng et.al.|[2604.14109](http://arxiv.org/abs/2604.14109)|null|
 |**2026-04-15**|**Physics-Informed Neural Networks for Methane Sorption: Cross-Gas Transfer Learning, Ensemble Collapse Under Physics Constraints, and Monte Carlo Dropout Uncertainty Quantification**|Mohammad Nooraiepour et.al.|[2604.13992](http://arxiv.org/abs/2604.13992)|null|
 |**2026-04-15**|**Hardware-Efficient Neuro-Symbolic Networks with the Exp-Minus-Log Operator**|Eymen Ipek et.al.|[2604.13871](http://arxiv.org/abs/2604.13871)|null|
 |**2026-04-15**|**Randomized Neural Networks for Integro-Differential Equations with Application to Neutron Transport**|Haoning Dang et.al.|[2604.13830](http://arxiv.org/abs/2604.13830)|null|
@@ -568,6 +569,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089](http://arxiv.org/abs/2604.14089)|null|
+|**2026-04-15**|**Decoding the Delta: Unifying Remote Sensing Change Detection and Understanding with Multimodal Large Language Models**|Xiaohe Li et.al.|[2604.14044](http://arxiv.org/abs/2604.14044)|null|
 |**2026-04-15**|**Remote Sensing Image Super-Resolution for Imbalanced Textures: A Texture-Aware Diffusion Framework**|Enzhuo Zhang et.al.|[2604.13994](http://arxiv.org/abs/2604.13994)|null|
 |**2026-04-15**|**Temporally Consistent Long-Term Memory for 3D Single Object Tracking**|Jaejoon Yoo et.al.|[2604.13789](http://arxiv.org/abs/2604.13789)|null|
 |**2026-04-15**|**UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry**|Jui-Te Huang et.al.|[2604.13584](http://arxiv.org/abs/2604.13584)|null|
