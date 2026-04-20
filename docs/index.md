@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-14**|**Fe-H melting curve below 3 GPa: Implications for hydrogen in the lunar core**|Jun Takeshita et.al.|[2604.12222](http://arxiv.org/abs/2604.12222)|null|
 |**2026-04-13**|**Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover**|Conor Kresin et.al.|[2604.12124](http://arxiv.org/abs/2604.12124)|null|
-|**2026-04-16**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
+|**2026-04-17**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
 |**2026-04-09**|**Data-Driven Power Flow for Radial Distribution Networks with Sparse Real-Time Data**|Oleksii Molodchyk et.al.|[2604.08403](http://arxiv.org/abs/2604.08403)|null|
 |**2026-04-01**|**A comparison of pendulum models for large-amplitude longitudinal prominence oscillations**|Iñigo Arregui et.al.|[2604.00654](http://arxiv.org/abs/2604.00654)|null|
 |**2026-04-01**|**FAST Observations of Wave-like Structures in the Radio Dynamic Spectrum of AD Leo**|Wenjie Zou et.al.|[2604.00457](http://arxiv.org/abs/2604.00457)|null|
@@ -54,6 +54,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Quantum Tomography and Entanglement in Semi-Leptonic $h\to VV^*$ Decays at Higher Orders**|Dorival Gonçalves et.al.|[2604.16218](http://arxiv.org/abs/2604.16218)|null|
+|**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](http://arxiv.org/abs/2604.16104)|null|
+|**2026-04-17**|**TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data**|Rui Guo et.al.|[2604.15796](http://arxiv.org/abs/2604.15796)|null|
+|**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714](http://arxiv.org/abs/2604.15714)|null|
+|**2026-04-17**|**Self-Supervised Angular Deblurring in Photoacoustic Reconstruction via Noisier2Inverse**|Markus Haltmeier et.al.|[2604.15681](http://arxiv.org/abs/2604.15681)|null|
+|**2026-04-17**|**SPLIT: Self-supervised Partitioning for Learned Inversion in Nonlinear Tomography**|Markus Haltmeier et.al.|[2604.15651](http://arxiv.org/abs/2604.15651)|null|
+|**2026-04-17**|**PINNACLE: An Open-Source Computational Framework for Classical and Quantum PINNs**|Shimon Pisnoy et.al.|[2604.15645](http://arxiv.org/abs/2604.15645)|null|
+|**2026-04-16**|**Energy Correlators Within Jets in Transversely Polarized Proton-Proton Collisions at $\sqrt{s} = 200$ GeV**|The STAR Collaboration et.al.|[2604.15543](http://arxiv.org/abs/2604.15543)|null|
+|**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](http://arxiv.org/abs/2604.15459)|null|
 |**2026-04-16**|**Cloning is as Hard as Learning for Stabilizer States**|Nikhil Bansal et.al.|[2604.15269](http://arxiv.org/abs/2604.15269)|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|
 |**2026-04-16**|**SOLIS: Physics-Informed Learning of Interpretable Neural Surrogates for Nonlinear Systems**|Murat Furkan Mansur et.al.|[2604.14879](http://arxiv.org/abs/2604.14879)|null|
@@ -576,6 +585,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs**|Nikhil Behari et.al.|[2604.16201](http://arxiv.org/abs/2604.16201)|null|
+|**2026-04-17**|**From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts**|Michał Romaszewski et.al.|[2604.16115](http://arxiv.org/abs/2604.16115)|null|
+|**2026-04-17**|**MMGait: Towards Multi-Modal Gait Recognition**|Chenye Wang et.al.|[2604.15979](http://arxiv.org/abs/2604.15979)|null|
+|**2026-04-17**|**Environment-Adaptive Solid-State LiDAR-Inertial Odometry**|Zhi Zhang et.al.|[2604.15864](http://arxiv.org/abs/2604.15864)|null|
+|**2026-04-17**|**Robust Multispectral Semantic Segmentation under Missing or Full Modalities via Structured Latent Projection**|Irem Ulku et.al.|[2604.15856](http://arxiv.org/abs/2604.15856)|null|
+|**2026-04-17**|**SSFT: A Lightweight Spectral-Spatial Fusion Transformer for Generic Hyperspectral Classification**|Alexander Musiat et.al.|[2604.15828](http://arxiv.org/abs/2604.15828)|null|
+|**2026-04-17**|**PixDLM: A Dual-Path Multimodal Language Model for UAV Reasoning Segmentation**|Shuyan Ke et.al.|[2604.15670](http://arxiv.org/abs/2604.15670)|null|
+|**2026-04-17**|**Towards Realistic Open-Vocabulary Remote Sensing Segmentation: Benchmark and Baseline**|Bingyu Li et.al.|[2604.15652](http://arxiv.org/abs/2604.15652)|null|
+|**2026-04-16**|**Watching Trade from Space: Nowcasting and Spatial Extrapolation of Port-Level Maritime Trade Using Satellite Imagery**|Yonggeun Jung et.al.|[2604.15444](http://arxiv.org/abs/2604.15444)|null|
 |**2026-04-16**|**Building Extraction from Remote Sensing Imagery under Hazy and Low-light Conditions: Benchmark and Baseline**|Feifei Sang et.al.|[2604.15088](http://arxiv.org/abs/2604.15088)|null|
 |**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052](http://arxiv.org/abs/2604.15052)|null|
 |**2026-04-16**|**Introducing a novel $Z_{4n}$ -detection scheme to enhance the performance of quantum LiDAR systems**|Priyanka Sharma et.al.|[2604.14935](http://arxiv.org/abs/2604.14935)|null|
@@ -1157,6 +1175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**A Game Theoretic Approach for Optimizing Quantum Error Budget Distribution**|Asif Akhtab Ronggon et.al.|[2604.15603](http://arxiv.org/abs/2604.15603)|null|
 |**2026-04-15**|**Distributed Variational Quantum Linear Solver**|Chao Lu et.al.|[2604.14435](http://arxiv.org/abs/2604.14435)|null|
 |**2026-04-14**|**Physics-informed reservoir characterization from bulk and extreme pressure events with a differentiable simulator**|Harun Ur Rashid et.al.|[2604.13291](http://arxiv.org/abs/2604.13291)|null|
 |**2026-04-14**|**The Material Point Method (MPM) for simulating hypervelocity impact on asteroids**|Xiaoran Yan et.al.|[2604.13136](http://arxiv.org/abs/2604.13136)|null|
@@ -1220,6 +1239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime**|J. P. Dadario Pereira et.al.|[2604.16152](http://arxiv.org/abs/2604.16152)|null|
 |**2026-04-11**|**PoreDiT: A Scalable Generative Model for Large-Scale Digital Rock Reconstruction**|Yizhuo Huang et.al.|[2604.10171](http://arxiv.org/abs/2604.10171)|null|
 |**2026-04-08**|**Modeling Ostwald Ripening Dynamics in Porous Microstructures**|Md Zahidul Islam Laku et.al.|[2604.06581](http://arxiv.org/abs/2604.06581)|null|
 |**2026-04-02**|**CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks**|Felipe Hawthorne et.al.|[2604.02499](http://arxiv.org/abs/2604.02499)|null|
@@ -1247,6 +1267,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Evidence Sufficiency Under Delayed Ground Truth: Proxy Monitoring for Risk Decision Systems**|Oleg Solozobov et.al.|[2604.15740](http://arxiv.org/abs/2604.15740)|null|
 |**2026-04-16**|**When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning**|Khalid Adnan Alsayed et.al.|[2604.15038](http://arxiv.org/abs/2604.15038)|null|
 |**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
 |**2026-04-15**|**Cognitive Offloading in Agile Teams: How Artificial Intelligence Reshapes Risk Assessment and Planning Quality**|Adriana Caraeni et.al.|[2604.13814](http://arxiv.org/abs/2604.13814)|null|
@@ -1437,6 +1458,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum**|Harrison Nicholls et.al.|[2604.15891](http://arxiv.org/abs/2604.15891)|null|
+|**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714](http://arxiv.org/abs/2604.15714)|null|
+|**2026-04-16**|**Perron-Frobenius Contractive Operator Matching for Data-Driven Reachable Fault Identification and Recovery**|Joshua D. Ibrahim et.al.|[2604.15470](http://arxiv.org/abs/2604.15470)|null|
 |**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
 |**2026-04-16**|**Temporal Cross-Modal Knowledge-Distillation-Based Transfer-Learning for Gas Turbine Vibration Fault Detection**|Ali Bagheri Nejad et.al.|[2604.14766](http://arxiv.org/abs/2604.14766)|null|
 |**2026-04-16**|**Subsurface Property Mapping using Google AlphaEarth Foundations**|Nori Nakata et.al.|[2604.14756](http://arxiv.org/abs/2604.14756)|null|
@@ -1622,6 +1646,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
+|**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
+|**2026-04-17**|**SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification**|Enhui Chai et.al.|[2604.15711](http://arxiv.org/abs/2604.15711)|null|
+|**2026-04-17**|**Graph self-supervised learning based on frequency corruption**|Haojie Li et.al.|[2604.15699](http://arxiv.org/abs/2604.15699)|null|
+|**2026-04-16**|**RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference**|Yuxin Liu et.al.|[2604.15459](http://arxiv.org/abs/2604.15459)|null|
 |**2026-04-16**|**Co-distilled attention guided masked image modeling with noisy teacher for self-supervised learning on medical images**|Jue Jiang et.al.|[2604.14506](http://arxiv.org/abs/2604.14506)|null|
 |**2026-04-15**|**Metric-Aware Principal Component Analysis (MAPCA):A Unified Framework for Scale-Invariant Representation Learning**|Michael Leznik et.al.|[2604.14249](http://arxiv.org/abs/2604.14249)|null|
 |**2026-04-15**|**GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**|Bo Yu et.al.|[2604.13888](http://arxiv.org/abs/2604.13888)|null|
