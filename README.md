@@ -1288,6 +1288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale**|Aswathi Mundayatt et.al.|[2604.16265](http://arxiv.org/abs/2604.16265)|null|
 |**2026-04-17**|**Evidence Sufficiency Under Delayed Ground Truth: Proxy Monitoring for Risk Decision Systems**|Oleg Solozobov et.al.|[2604.15740](http://arxiv.org/abs/2604.15740)|null|
 |**2026-04-16**|**When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning**|Khalid Adnan Alsayed et.al.|[2604.15038](http://arxiv.org/abs/2604.15038)|null|
 |**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
