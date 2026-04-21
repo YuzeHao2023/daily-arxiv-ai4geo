@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[2604.17029](http://arxiv.org/abs/2604.17029)|null|
 |**2026-04-14**|**Fe-H melting curve below 3 GPa: Implications for hydrogen in the lunar core**|Jun Takeshita et.al.|[2604.12222](http://arxiv.org/abs/2604.12222)|null|
 |**2026-04-13**|**Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover**|Conor Kresin et.al.|[2604.12124](http://arxiv.org/abs/2604.12124)|null|
 |**2026-04-17**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
@@ -54,6 +55,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles**|Khemraj Shukla et.al.|[2604.17156](http://arxiv.org/abs/2604.17156)|null|
+|**2026-04-18**|**Rethinking Cross-Dose PET Denoising: Mitigating Averaging Effects via Residual Noise Learning**|Yichao Liu et.al.|[2604.16925](http://arxiv.org/abs/2604.16925)|null|
+|**2026-04-18**|**Singularity Formation: Synergy in Theoretical, Numerical and Machine Learning Approaches**|Yixuan Wang et.al.|[2604.16842](http://arxiv.org/abs/2604.16842)|null|
 |**2026-04-17**|**Quantum Tomography and Entanglement in Semi-Leptonic $h\to VV^*$ Decays at Higher Orders**|Dorival Gonçalves et.al.|[2604.16218](http://arxiv.org/abs/2604.16218)|null|
 |**2026-04-17**|**Dual-Modal Lung Cancer AI: Interpretable Radiology and Microscopy with Clinical Risk Integration**|Baramee Sukumal et.al.|[2604.16104](http://arxiv.org/abs/2604.16104)|null|
 |**2026-04-17**|**TV-Regularized Frequency-Domain Full-Waveform Inversion for Single-Sided Linear Ultrasound Array Data**|Rui Guo et.al.|[2604.15796](http://arxiv.org/abs/2604.15796)|null|
@@ -585,6 +589,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**|Rui Min et.al.|[2604.17243](http://arxiv.org/abs/2604.17243)|null|
+|**2026-04-18**|**Deep Learning-Based Snow Depth Retrieval Using Sentinel-1 Repeat-Pass InSAR**|Nayan Yadav et.al.|[2604.17128](http://arxiv.org/abs/2604.17128)|null|
+|**2026-04-18**|**Adverse-to-the-eXtreme Panoptic Segmentation: URVIS 2026 Study and Benchmark**|Yiting Wang et.al.|[2604.16984](http://arxiv.org/abs/2604.16984)|null|
+|**2026-04-18**|**Hyperspectral Unmixing Hierarchies**|Joseph L. Garrett et.al.|[2604.16969](http://arxiv.org/abs/2604.16969)|null|
+|**2026-04-18**|**KIRA: Knowledge-Intensive Image Retrieval and Reasoning Architecture for Specialized Visual Domains**|Parthaw Goswami et.al.|[2604.16915](http://arxiv.org/abs/2604.16915)|null|
+|**2026-04-18**|**When Earth Foundation Models Meet Diffusion: An Application to Land Surface Temperature Super-Resolution**|Yiheng Chen et.al.|[2604.16841](http://arxiv.org/abs/2604.16841)|null|
+|**2026-04-17**|**LiDAR-based Crowd Navigation with Visible Edge Group Representation**|Allan Wang et.al.|[2604.16741](http://arxiv.org/abs/2604.16741)|null|
+|**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680](http://arxiv.org/abs/2604.16680)|null|
+|**2026-04-17**|**A Benchmark Study of Segmentation Models and Adaptation Strategies for Landslide Detection from Satellite Imagery**|Md Kowsher et.al.|[2604.16663](http://arxiv.org/abs/2604.16663)|null|
+|**2026-04-17**|**IncepDeHazeGAN: Novel Satellite Image Dehazing**|Tejeswar Pokuri et.al.|[2604.16609](http://arxiv.org/abs/2604.16609)|null|
 |**2026-04-17**|**DENALI: A Dataset Enabling Non-Line-of-Sight Spatial Reasoning with Low-Cost LiDARs**|Nikhil Behari et.al.|[2604.16201](http://arxiv.org/abs/2604.16201)|null|
 |**2026-04-17**|**From Articles to Canopies: Knowledge-Driven Pseudo-Labelling for Tree Species Classification using LLM Experts**|Michał Romaszewski et.al.|[2604.16115](http://arxiv.org/abs/2604.16115)|null|
 |**2026-04-17**|**MMGait: Towards Multi-Modal Gait Recognition**|Chenye Wang et.al.|[2604.15979](http://arxiv.org/abs/2604.15979)|null|
@@ -1267,6 +1281,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Reference-state System Reliability method for scalable uncertainty quantification of coherent systems**|Ji-Eun Byun et.al.|[2604.17066](http://arxiv.org/abs/2604.17066)|null|
+|**2026-04-17**|**Climate Risk Stress Testing in California: A Geospatial Framework for Banking and Climate-Exposed Sectors**|Satya Narayana Panda et.al.|[2604.16716](http://arxiv.org/abs/2604.16716)|null|
+|**2026-04-17**|**Agentic Risk-Aware Set-Based Engineering Design**|Varun Kumar et.al.|[2604.16687](http://arxiv.org/abs/2604.16687)|null|
+|**2026-04-17**|**A Benchmark Study of Segmentation Models and Adaptation Strategies for Landslide Detection from Satellite Imagery**|Md Kowsher et.al.|[2604.16663](http://arxiv.org/abs/2604.16663)|null|
 |**2026-04-17**|**FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale**|Aswathi Mundayatt et.al.|[2604.16265](http://arxiv.org/abs/2604.16265)|null|
 |**2026-04-17**|**Evidence Sufficiency Under Delayed Ground Truth: Proxy Monitoring for Risk Decision Systems**|Oleg Solozobov et.al.|[2604.15740](http://arxiv.org/abs/2604.15740)|null|
 |**2026-04-16**|**When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning**|Khalid Adnan Alsayed et.al.|[2604.15038](http://arxiv.org/abs/2604.15038)|null|
@@ -1459,6 +1477,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
+|**2026-04-19**|**A Model and Estimation of the Bitcoin Transaction Fee**|Daniel Aronoff et.al.|[2604.17183](http://arxiv.org/abs/2604.17183)|null|
+|**2026-04-18**|**PAPUS: Pauli-Space-Based Multiclass Quantum Classification**|Yuhang Tu et.al.|[2604.16877](http://arxiv.org/abs/2604.16877)|null|
+|**2026-04-18**|**Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy**|Chenwei Zhang et.al.|[2604.16851](http://arxiv.org/abs/2604.16851)|null|
 |**2026-04-17**|**Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum**|Harrison Nicholls et.al.|[2604.15891](http://arxiv.org/abs/2604.15891)|null|
 |**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714](http://arxiv.org/abs/2604.15714)|null|
 |**2026-04-16**|**Perron-Frobenius Contractive Operator Matching for Data-Driven Reachable Fault Identification and Recovery**|Joshua D. Ibrahim et.al.|[2604.15470](http://arxiv.org/abs/2604.15470)|null|
