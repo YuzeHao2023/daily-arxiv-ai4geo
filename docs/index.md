@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Universal compression of wave fields in weakly scattering media**|Pablo Jara et.al.|[2604.17617](http://arxiv.org/abs/2604.17617)|null|
 |**2026-04-18**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[2604.17029](http://arxiv.org/abs/2604.17029)|null|
 |**2026-04-14**|**Fe-H melting curve below 3 GPa: Implications for hydrogen in the lunar core**|Jun Takeshita et.al.|[2604.12222](http://arxiv.org/abs/2604.12222)|null|
 |**2026-04-13**|**Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover**|Conor Kresin et.al.|[2604.12124](http://arxiv.org/abs/2604.12124)|null|
@@ -55,6 +56,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems**|William Lavery et.al.|[2604.18548](http://arxiv.org/abs/2604.18548)|null|
+|**2026-04-20**|**Two-Dimensional Tomography and Fourier Analysis**|Andre Mas et.al.|[2604.18541](http://arxiv.org/abs/2604.18541)|null|
+|**2026-04-20**|**Physics-Informed Neural Networks for Maximizing Quantum Fisher Information in Time-Dependent Many-Body Systems**|Antonio Ferrer-Sánchez et.al.|[2604.18506](http://arxiv.org/abs/2604.18506)|null|
+|**2026-04-20**|**Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle**|Abdeladhim Tahimi et.al.|[2604.18481](http://arxiv.org/abs/2604.18481)|null|
+|**2026-04-20**|**Dissipative Latent Residual Physics-Informed Neural Networks for Modeling and Identification of Electromechanical Systems**|Youyuan Long et.al.|[2604.18277](http://arxiv.org/abs/2604.18277)|null|
+|**2026-04-20**|**Three-dimensional visualization of lattice defects in $β$-Ga$_2$O$_3$ via synchrotron-radiation Borrmann-effect X-ray topo-tomography**|Yongzhao Yao et.al.|[2604.17826](http://arxiv.org/abs/2604.17826)|null|
+|**2026-04-19**|**Thermal vapor quantum battery based on collective atomic spins**|Jinyi Li et.al.|[2604.17518](http://arxiv.org/abs/2604.17518)|null|
+|**2026-04-19**|**Quantum channel tomography: optimal bounds and a Heisenberg-to-classical phase transition**|Kean Chen et.al.|[2604.17369](http://arxiv.org/abs/2604.17369)|null|
+|**2026-04-19**|**Hierarchical Progressive Pauli Noise Modeling with Residual Compensation for Multi-Qubit Quantum Circuits**|Xiangyu Ge et.al.|[2604.17326](http://arxiv.org/abs/2604.17326)|null|
+|**2026-04-19**|**Efficient characterization of general Gottesman-Kitaev-Preskill qubits**|Vojtěch Kuchař et.al.|[2604.17303](http://arxiv.org/abs/2604.17303)|null|
 |**2026-04-18**|**Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles**|Khemraj Shukla et.al.|[2604.17156](http://arxiv.org/abs/2604.17156)|null|
 |**2026-04-18**|**Rethinking Cross-Dose PET Denoising: Mitigating Averaging Effects via Residual Noise Learning**|Yichao Liu et.al.|[2604.16925](http://arxiv.org/abs/2604.16925)|null|
 |**2026-04-18**|**Singularity Formation: Synergy in Theoretical, Numerical and Machine Learning Approaches**|Yixuan Wang et.al.|[2604.16842](http://arxiv.org/abs/2604.16842)|null|
@@ -589,6 +600,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection**|Hao Vo et.al.|[2604.18476](http://arxiv.org/abs/2604.18476)|null|
+|**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
+|**2026-04-20**|**Forecasting Ionospheric Irregularities on GNSS Lines of Sight Using Dynamic Graphs with Ephemeris Conditioning**|Mert Can Turkmen et.al.|[2604.18379](http://arxiv.org/abs/2604.18379)|null|
+|**2026-04-20**|**DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery**|Geet Sethi et.al.|[2604.18201](http://arxiv.org/abs/2604.18201)|null|
+|**2026-04-20**|**Understanding the complex morphology of a CME II: how pre-eruptive conditions shape CME evolution**|Abril Sahade et.al.|[2604.18188](http://arxiv.org/abs/2604.18188)|null|
+|**2026-04-20**|**Multi-stream Quickest Change Detection: Foundations and Recent Advances**|Topi Halme et.al.|[2604.18008](http://arxiv.org/abs/2604.18008)|null|
+|**2026-04-20**|**Producing High-Resolution Martian Surface Temperature Maps Using VIR-TIR Relationships**|Michael A. Frazer et.al.|[2604.17859](http://arxiv.org/abs/2604.17859)|null|
+|**2026-04-20**|**Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|[2604.17727](http://arxiv.org/abs/2604.17727)|null|
+|**2026-04-19**|**Self-Supervised Super-Resolution for Sentinel-5P Hyperspectral Images**|Hyam Omar Ali et.al.|[2604.17652](http://arxiv.org/abs/2604.17652)|null|
+|**2026-04-19**|**Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception**|Siyuan Meng et.al.|[2604.17651](http://arxiv.org/abs/2604.17651)|null|
 |**2026-04-19**|**RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**|Rui Min et.al.|[2604.17243](http://arxiv.org/abs/2604.17243)|null|
 |**2026-04-18**|**Deep Learning-Based Snow Depth Retrieval Using Sentinel-1 Repeat-Pass InSAR**|Nayan Yadav et.al.|[2604.17128](http://arxiv.org/abs/2604.17128)|null|
 |**2026-04-18**|**Adverse-to-the-eXtreme Panoptic Segmentation: URVIS 2026 Study and Benchmark**|Yiting Wang et.al.|[2604.16984](http://arxiv.org/abs/2604.16984)|null|
@@ -1189,6 +1210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Block-encodings as programming abstractions: The Eclipse Qrisp BlockEncoding Interface**|Matic Petrič et.al.|[2604.18276](http://arxiv.org/abs/2604.18276)|null|
 |**2026-04-17**|**A Game Theoretic Approach for Optimizing Quantum Error Budget Distribution**|Asif Akhtab Ronggon et.al.|[2604.15603](http://arxiv.org/abs/2604.15603)|null|
 |**2026-04-15**|**Distributed Variational Quantum Linear Solver**|Chao Lu et.al.|[2604.14435](http://arxiv.org/abs/2604.14435)|null|
 |**2026-04-14**|**Physics-informed reservoir characterization from bulk and extreme pressure events with a differentiable simulator**|Harun Ur Rashid et.al.|[2604.13291](http://arxiv.org/abs/2604.13291)|null|
@@ -1281,6 +1303,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Dynamic Risk Assessment by Bayesian Attack Graphs and Process Mining**|Francesco Vitale et.al.|[2604.18080](http://arxiv.org/abs/2604.18080)|null|
+|**2026-04-20**|**Community-Led AI Integration for Wildfire Risk Assessment: A Participatory AI Literacy and Explainability Integration (PALEI) Framework in Los Angeles, CA**|Sanaz Sadat Hosseini et.al.|[2604.17755](http://arxiv.org/abs/2604.17755)|null|
+|**2026-04-19**|**Vault as a credit instrument**|Anastasiia Zbandut et.al.|[2604.17579](http://arxiv.org/abs/2604.17579)|null|
 |**2026-04-18**|**Reference-state System Reliability method for scalable uncertainty quantification of coherent systems**|Ji-Eun Byun et.al.|[2604.17066](http://arxiv.org/abs/2604.17066)|null|
 |**2026-04-17**|**Climate Risk Stress Testing in California: A Geospatial Framework for Banking and Climate-Exposed Sectors**|Satya Narayana Panda et.al.|[2604.16716](http://arxiv.org/abs/2604.16716)|null|
 |**2026-04-17**|**Agentic Risk-Aware Set-Based Engineering Design**|Varun Kumar et.al.|[2604.16687](http://arxiv.org/abs/2604.16687)|null|
@@ -1477,6 +1502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Which Small-Sample Correction Should Be Used When Analyzing Stepped-Wedge Designs with Time-Varying Treatment Effects?**|Yongdong Ouyang et.al.|[2604.18323](http://arxiv.org/abs/2604.18323)|null|
+|**2026-04-19**|**System representations in subspaces of finite-sample signals and their application to data-driven fault detection**|Linlin Li et.al.|[2604.17444](http://arxiv.org/abs/2604.17444)|null|
 |**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
 |**2026-04-19**|**A Model and Estimation of the Bitcoin Transaction Fee**|Daniel Aronoff et.al.|[2604.17183](http://arxiv.org/abs/2604.17183)|null|
 |**2026-04-18**|**PAPUS: Pauli-Space-Based Multiclass Quantum Classification**|Yuhang Tu et.al.|[2604.16877](http://arxiv.org/abs/2604.16877)|null|
@@ -1669,6 +1696,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
+|**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
 |**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
 |**2026-04-17**|**Stylistic-STORM (ST-STORM) : Perceiving the Semantic Nature of Appearance**|Hamed Ouattara et.al.|[2604.16086](http://arxiv.org/abs/2604.16086)|null|
 |**2026-04-17**|**SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification**|Enhui Chai et.al.|[2604.15711](http://arxiv.org/abs/2604.15711)|null|
