@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -56,6 +56,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Deep Image Prior for photoacoustic tomography can mitigate limited-view artifacts**|Hanna Pulkkinen et.al.|[2604.19176](http://arxiv.org/abs/2604.19176)|null|
+|**2026-04-21**|**Wave--particle transition and quantum Zeno effect in which-way experiments with a superconducting quantum processor**|Shiyu Wang et.al.|[2604.19115](http://arxiv.org/abs/2604.19115)|null|
+|**2026-04-21**|**DUSG-Tomo-Net: A Deep Unfolded Neural Network for Super-Resolving Gridless Spaceborne SAR Tomography via Learned Toeplitz-Structured Covariance Representation**|Kun Qian et.al.|[2604.19084](http://arxiv.org/abs/2604.19084)|null|
+|**2026-04-21**|**On-demand generation of all four Bell states using a single PPKTP entangled photon source**|Gayatri Thik et.al.|[2604.19013](http://arxiv.org/abs/2604.19013)|null|
 |**2026-04-20**|**Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems**|William Lavery et.al.|[2604.18548](http://arxiv.org/abs/2604.18548)|null|
 |**2026-04-20**|**Two-Dimensional Tomography and Fourier Analysis**|Andre Mas et.al.|[2604.18541](http://arxiv.org/abs/2604.18541)|null|
 |**2026-04-20**|**Physics-Informed Neural Networks for Maximizing Quantum Fisher Information in Time-Dependent Many-Body Systems**|Antonio Ferrer-Sánchez et.al.|[2604.18506](http://arxiv.org/abs/2604.18506)|null|
@@ -600,6 +604,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition**|Xiaoqi Zhuang et.al.|[2604.19392](http://arxiv.org/abs/2604.19392)|null|
+|**2026-04-21**|**PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving**|Yining Pan et.al.|[2604.19379](http://arxiv.org/abs/2604.19379)|null|
+|**2026-04-21**|**Multimodal embodiment-aware navigation transformer**|Louis Dezons et.al.|[2604.19267](http://arxiv.org/abs/2604.19267)|null|
+|**2026-04-21**|**Adaptive Slicing-Assisted Hyper Inference for Enhanced Small Object Detection in High-Resolution Imagery**|Francesco Moretti et.al.|[2604.19233](http://arxiv.org/abs/2604.19233)|null|
+|**2026-04-21**|**Attention-based Multi-modal Deep Learning Model of Spatio-temporal Crop Yield Prediction with Satellite, Soil and Climate Data**|Gopal Krishna Shyam et.al.|[2604.19217](http://arxiv.org/abs/2604.19217)|null|
+|**2026-04-21**|**ExplainS2A: Explainable Spectral-Spatial Duality Model for Fast Transforming Sentinel-2 Image to AVIRIS-Level Hyperspectral Image**|Chia-Hsiang Lin et.al.|[2604.19007](http://arxiv.org/abs/2604.19007)|null|
+|**2026-04-20**|**A Proxy Consistency Loss for Grounded Fusion of Earth Observation and Location Encoders**|Zhongying Wang et.al.|[2604.18881](http://arxiv.org/abs/2604.18881)|null|
+|**2026-04-20**|**HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images**|Pourya Shamsolmoali et.al.|[2604.18866](http://arxiv.org/abs/2604.18866)|null|
+|**2026-04-20**|**ConvVitMamba: Efficient Multiscale Convolution, Transformer, and Mamba-Based Sequence modelling for Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|[2604.18856](http://arxiv.org/abs/2604.18856)|null|
+|**2026-04-20**|**Feasibility of Indoor Frame-Wise Lidar Semantic Segmentation via Distillation from Visual Foundation Model**|Haiyang Wu et.al.|[2604.18831](http://arxiv.org/abs/2604.18831)|null|
 |**2026-04-20**|**SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection**|Hao Vo et.al.|[2604.18476](http://arxiv.org/abs/2604.18476)|null|
 |**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
 |**2026-04-20**|**Forecasting Ionospheric Irregularities on GNSS Lines of Sight Using Dynamic Graphs with Ephemeris Conditioning**|Mert Can Turkmen et.al.|[2604.18379](http://arxiv.org/abs/2604.18379)|null|
@@ -1210,6 +1224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics**|Joshua Courtney et.al.|[2604.19319](http://arxiv.org/abs/2604.19319)|null|
+|**2026-04-20**|**An Implicit Compact-Kernel Material Point Method for Computational Solid Mechanics**|Qirui Fu et.al.|[2604.18917](http://arxiv.org/abs/2604.18917)|null|
 |**2026-04-20**|**Block-encodings as programming abstractions: The Eclipse Qrisp BlockEncoding Interface**|Matic Petrič et.al.|[2604.18276](http://arxiv.org/abs/2604.18276)|null|
 |**2026-04-17**|**A Game Theoretic Approach for Optimizing Quantum Error Budget Distribution**|Asif Akhtab Ronggon et.al.|[2604.15603](http://arxiv.org/abs/2604.15603)|null|
 |**2026-04-15**|**Distributed Variational Quantum Linear Solver**|Chao Lu et.al.|[2604.14435](http://arxiv.org/abs/2604.14435)|null|
@@ -1303,9 +1319,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Fairness Audits of Institutional Risk Models in Deployed ML Pipelines**|Kelly McConvey et.al.|[2604.19468](http://arxiv.org/abs/2604.19468)|null|
+|**2026-04-20**|**Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States**|Ben Seiyon Lee et.al.|[2604.18840](http://arxiv.org/abs/2604.18840)|null|
 |**2026-04-20**|**Dynamic Risk Assessment by Bayesian Attack Graphs and Process Mining**|Francesco Vitale et.al.|[2604.18080](http://arxiv.org/abs/2604.18080)|null|
 |**2026-04-20**|**Community-Led AI Integration for Wildfire Risk Assessment: A Participatory AI Literacy and Explainability Integration (PALEI) Framework in Los Angeles, CA**|Sanaz Sadat Hosseini et.al.|[2604.17755](http://arxiv.org/abs/2604.17755)|null|
-|**2026-04-19**|**Vault as a credit instrument**|Anastasiia Zbandut et.al.|[2604.17579](http://arxiv.org/abs/2604.17579)|null|
+|**2026-04-21**|**Vault as a credit instrument**|Anastasiia Zbandut et.al.|[2604.17579](http://arxiv.org/abs/2604.17579)|null|
 |**2026-04-18**|**Reference-state System Reliability method for scalable uncertainty quantification of coherent systems**|Ji-Eun Byun et.al.|[2604.17066](http://arxiv.org/abs/2604.17066)|null|
 |**2026-04-17**|**Climate Risk Stress Testing in California: A Geospatial Framework for Banking and Climate-Exposed Sectors**|Satya Narayana Panda et.al.|[2604.16716](http://arxiv.org/abs/2604.16716)|null|
 |**2026-04-17**|**Agentic Risk-Aware Set-Based Engineering Design**|Varun Kumar et.al.|[2604.16687](http://arxiv.org/abs/2604.16687)|null|
@@ -1502,6 +1520,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**TabEmb: Joint Semantic-Structure Embedding for Table Annotation**|Ehsan Hoseinzade et.al.|[2604.18939](http://arxiv.org/abs/2604.18939)|null|
+|**2026-04-20**|**Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis**|Bibek Aryal et.al.|[2604.18765](http://arxiv.org/abs/2604.18765)|null|
+|**2026-04-19**|**Projection, Measure, and Idempotent Relations: Independent Axioms and a Fixed-Point Coupling Law**|Yunbeom Yi et.al.|[2604.18640](http://arxiv.org/abs/2604.18640)|null|
 |**2026-04-20**|**Which Small-Sample Correction Should Be Used When Analyzing Stepped-Wedge Designs with Time-Varying Treatment Effects?**|Yongdong Ouyang et.al.|[2604.18323](http://arxiv.org/abs/2604.18323)|null|
 |**2026-04-19**|**System representations in subspaces of finite-sample signals and their application to data-driven fault detection**|Linlin Li et.al.|[2604.17444](http://arxiv.org/abs/2604.17444)|null|
 |**2026-04-19**|**Massive-scale unlabeled field and labeled synthetic seismic datasets of global shelf-edge clinothems**|Hui Gao et.al.|[2604.17235](http://arxiv.org/abs/2604.17235)|null|
