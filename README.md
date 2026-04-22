@@ -69,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Quadrature-Enhanced Monte Carlo fPINN Method for High-Dimensional Fractional PDEs**|Qingkui Ma et.al.|[2604.19601](http://arxiv.org/abs/2604.19601)|null|
 |**2026-04-21**|**Deep Image Prior for photoacoustic tomography can mitigate limited-view artifacts**|Hanna Pulkkinen et.al.|[2604.19176](http://arxiv.org/abs/2604.19176)|null|
 |**2026-04-21**|**Wave--particle transition and quantum Zeno effect in which-way experiments with a superconducting quantum processor**|Shiyu Wang et.al.|[2604.19115](http://arxiv.org/abs/2604.19115)|null|
 |**2026-04-21**|**DUSG-Tomo-Net: A Deep Unfolded Neural Network for Super-Resolving Gridless Spaceborne SAR Tomography via Learned Toeplitz-Structured Covariance Representation**|Kun Qian et.al.|[2604.19084](http://arxiv.org/abs/2604.19084)|null|
@@ -619,6 +620,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](http://arxiv.org/abs/2604.19596)|null|
+|**2026-04-21**|**Structure-Semantic Decoupled Modulation of Global Geospatial Embeddings for High-Resolution Remote Sensing Mapping**|Jienan Lyu et.al.|[2604.19591](http://arxiv.org/abs/2604.19591)|null|
 |**2026-04-21**|**HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition**|Xiaoqi Zhuang et.al.|[2604.19392](http://arxiv.org/abs/2604.19392)|null|
 |**2026-04-21**|**PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving**|Yining Pan et.al.|[2604.19379](http://arxiv.org/abs/2604.19379)|null|
 |**2026-04-21**|**Multimodal embodiment-aware navigation transformer**|Louis Dezons et.al.|[2604.19267](http://arxiv.org/abs/2604.19267)|null|
@@ -1545,6 +1548,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-21**|**Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models**|Mark Fornace et.al.|[2604.19718](http://arxiv.org/abs/2604.19718)|null|
+|**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631](http://arxiv.org/abs/2604.19631)|null|
 |**2026-04-21**|**TabEmb: Joint Semantic-Structure Embedding for Table Annotation**|Ehsan Hoseinzade et.al.|[2604.18939](http://arxiv.org/abs/2604.18939)|null|
 |**2026-04-20**|**Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis**|Bibek Aryal et.al.|[2604.18765](http://arxiv.org/abs/2604.18765)|null|
 |**2026-04-19**|**Projection, Measure, and Idempotent Relations: Independent Axioms and a Fixed-Point Coupling Law**|Yunbeom Yi et.al.|[2604.18640](http://arxiv.org/abs/2604.18640)|null|
