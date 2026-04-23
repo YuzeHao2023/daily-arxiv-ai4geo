@@ -69,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**CO $_2$ sequestration hybrid solver using isogeometric alternating-directions and collocation-based robust variational physics informed neural networks (IGA-ADS-CRVPINN)**|Askold Vilkha et.al.|[2604.20731](http://arxiv.org/abs/2604.20731)|null|
 |**2026-04-22**|**On the convergence of an adaptive denoiser driven iterative regularization with early stopping**|Harshit Bajpai et.al.|[2604.20360](http://arxiv.org/abs/2604.20360)|null|
 |**2026-04-22**|**Autonomous operation of the DIAG0 diagnostic line for 6D phase-space monitoring at LCLS-II**|Ryan Roussel et.al.|[2604.20125](http://arxiv.org/abs/2604.20125)|null|
 |**2026-04-22**|**A Physics-Informed Neural Network for Solving the Quasi-static Magnetohydrodynamic Equations**|Jonathan S. Arnaud et.al.|[2604.20085](http://arxiv.org/abs/2604.20085)|null|
@@ -624,6 +625,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series**|Thorsten Hoeser et.al.|[2604.20822](http://arxiv.org/abs/2604.20822)|null|
+|**2026-04-22**|**Physics-Conditioned Synthesis of Internal Ice-Layer Thickness for Incomplete Layer Traces**|Zesheng Liu et.al.|[2604.20783](http://arxiv.org/abs/2604.20783)|null|
 |**2026-04-22**|**RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-N Ranking**|Roie Kazoom et.al.|[2604.20623](http://arxiv.org/abs/2604.20623)|null|
 |**2026-04-22**|**SoK: The Next Frontier in AV Security: Systematizing Perception Attacks and the Emerging Threat of Multi-Sensor Fusion**|Shahriar Rahman Khan et.al.|[2604.20621](http://arxiv.org/abs/2604.20621)|null|
 |**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Xi Chen et.al.|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
@@ -1255,6 +1258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Heat Transfer Modeling in Enhanced Geothermal Energy: A Three-Temperature Approach for Solid, Injected, and Residing Fluids**|Yi-Yung Yang et.al.|[2604.20710](http://arxiv.org/abs/2604.20710)|null|
 |**2026-04-21**|**An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics**|Joshua Courtney et.al.|[2604.19319](http://arxiv.org/abs/2604.19319)|null|
 |**2026-04-20**|**An Implicit Compact-Kernel Material Point Method for Computational Solid Mechanics**|Qirui Fu et.al.|[2604.18917](http://arxiv.org/abs/2604.18917)|null|
 |**2026-04-20**|**Block-encodings as programming abstractions: The Eclipse Qrisp BlockEncoding Interface**|Matic Petrič et.al.|[2604.18276](http://arxiv.org/abs/2604.18276)|null|
@@ -1764,6 +1768,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
 |**2026-04-22**|**Self-supervised pretraining for an iterative image size agnostic vision transformer**|Nedyalko Prisadnikov et.al.|[2604.20392](http://arxiv.org/abs/2604.20392)|null|
 |**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
 |**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
