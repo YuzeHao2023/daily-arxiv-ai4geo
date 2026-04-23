@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -56,6 +56,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**On the convergence of an adaptive denoiser driven iterative regularization with early stopping**|Harshit Bajpai et.al.|[2604.20360](http://arxiv.org/abs/2604.20360)|null|
+|**2026-04-22**|**Autonomous operation of the DIAG0 diagnostic line for 6D phase-space monitoring at LCLS-II**|Ryan Roussel et.al.|[2604.20125](http://arxiv.org/abs/2604.20125)|null|
+|**2026-04-22**|**A Physics-Informed Neural Network for Solving the Quasi-static Magnetohydrodynamic Equations**|Jonathan S. Arnaud et.al.|[2604.20085](http://arxiv.org/abs/2604.20085)|null|
+|**2026-04-21**|**Mapping-based Hard-constrained Physics-Informed Neural Networks for unbounded wave problems**|Tao Zhang et.al.|[2604.19843](http://arxiv.org/abs/2604.19843)|null|
 |**2026-04-21**|**Quadrature-Enhanced Monte Carlo fPINN Method for High-Dimensional Fractional PDEs**|Qingkui Ma et.al.|[2604.19601](http://arxiv.org/abs/2604.19601)|null|
 |**2026-04-21**|**Deep Image Prior for photoacoustic tomography can mitigate limited-view artifacts**|Hanna Pulkkinen et.al.|[2604.19176](http://arxiv.org/abs/2604.19176)|null|
 |**2026-04-21**|**Wave--particle transition and quantum Zeno effect in which-way experiments with a superconducting quantum processor**|Shiyu Wang et.al.|[2604.19115](http://arxiv.org/abs/2604.19115)|null|
@@ -605,8 +609,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-N Ranking**|Roie Kazoom et.al.|[2604.20623](http://arxiv.org/abs/2604.20623)|null|
+|**2026-04-22**|**SoK: The Next Frontier in AV Security: Systematizing Perception Attacks and the Emerging Threat of Multi-Sensor Fusion**|Shahriar Rahman Khan et.al.|[2604.20621](http://arxiv.org/abs/2604.20621)|null|
+|**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Xi Chen et.al.|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
+|**2026-04-22**|**Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection**|Minghong Wei et.al.|[2604.20281](http://arxiv.org/abs/2604.20281)|null|
+|**2026-04-22**|**Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging**|Peiming Luo et.al.|[2604.20128](http://arxiv.org/abs/2604.20128)|null|
+|**2026-04-21**|**3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects**|Lyuheng Yuan et.al.|[2604.19982](http://arxiv.org/abs/2604.19982)|null|
+|**2026-04-21**|**Equinox: Decentralized Scheduling for Hardware-Aware Orbital Intelligence**|Ansel Kaplan Erol et.al.|[2604.19958](http://arxiv.org/abs/2604.19958)|null|
 |**2026-04-21**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](http://arxiv.org/abs/2604.19596)|null|
-|**2026-04-21**|**Structure-Semantic Decoupled Modulation of Global Geospatial Embeddings for High-Resolution Remote Sensing Mapping**|Jienan Lyu et.al.|[2604.19591](http://arxiv.org/abs/2604.19591)|null|
+|**2026-04-22**|**Structure-Semantic Decoupled Modulation of Global Geospatial Embeddings for High-Resolution Remote Sensing Mapping**|Jienan Lyu et.al.|[2604.19591](http://arxiv.org/abs/2604.19591)|null|
 |**2026-04-21**|**HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition**|Xiaoqi Zhuang et.al.|[2604.19392](http://arxiv.org/abs/2604.19392)|null|
 |**2026-04-21**|**PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving**|Yining Pan et.al.|[2604.19379](http://arxiv.org/abs/2604.19379)|null|
 |**2026-04-21**|**Multimodal embodiment-aware navigation transformer**|Louis Dezons et.al.|[2604.19267](http://arxiv.org/abs/2604.19267)|null|
@@ -1294,6 +1305,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Second-order topology in two-dimensional azulenoid kekulene carbon lattices**|Xiaorong Zou et.al.|[2604.20399](http://arxiv.org/abs/2604.20399)|null|
 |**2026-04-17**|**Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime**|J. P. Dadario Pereira et.al.|[2604.16152](http://arxiv.org/abs/2604.16152)|null|
 |**2026-04-11**|**PoreDiT: A Scalable Generative Model for Large-Scale Digital Rock Reconstruction**|Yizhuo Huang et.al.|[2604.10171](http://arxiv.org/abs/2604.10171)|null|
 |**2026-04-08**|**Modeling Ostwald Ripening Dynamics in Porous Microstructures**|Md Zahidul Islam Laku et.al.|[2604.06581](http://arxiv.org/abs/2604.06581)|null|
@@ -1322,6 +1334,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Co-State Based Data Fusion and Risk Aware Filtering for Spacecraft Navigation and Hazard Prediction**|Surya Ratna Prakash D et.al.|[2604.20485](http://arxiv.org/abs/2604.20485)|null|
+|**2026-04-22**|**Cold-Start Forecasting of New Product Life-Cycles via Conditional Diffusion Models**|Ruihan Zhou et.al.|[2604.20370](http://arxiv.org/abs/2604.20370)|null|
+|**2026-04-21**|**Depression Risk Assessment in Social Media via Large Language Models**|Giorgia Gulino et.al.|[2604.19887](http://arxiv.org/abs/2604.19887)|null|
 |**2026-04-21**|**Fairness Audits of Institutional Risk Models in Deployed ML Pipelines**|Kelly McConvey et.al.|[2604.19468](http://arxiv.org/abs/2604.19468)|null|
 |**2026-04-20**|**Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States**|Ben Seiyon Lee et.al.|[2604.18840](http://arxiv.org/abs/2604.18840)|null|
 |**2026-04-20**|**Dynamic Risk Assessment by Bayesian Attack Graphs and Process Mining**|Francesco Vitale et.al.|[2604.18080](http://arxiv.org/abs/2604.18080)|null|
@@ -1722,6 +1737,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Self-supervised pretraining for an iterative image size agnostic vision transformer**|Nedyalko Prisadnikov et.al.|[2604.20392](http://arxiv.org/abs/2604.20392)|null|
 |**2026-04-20**|**Randomly Initialized Networks Can Learn from Peer-to-Peer Consensus**|Esteban Rodríguez-Betancourt et.al.|[2604.18390](http://arxiv.org/abs/2604.18390)|null|
 |**2026-04-20**|**Can LLM-Generated Text Empower Surgical Vision-Language Pre-training?**|Chengan Che et.al.|[2604.18134](http://arxiv.org/abs/2604.18134)|null|
 |**2026-04-17**|**Polyglot: Multilingual Style Preserving Speech-Driven Facial Animation**|Federico Nocentini et.al.|[2604.16108](http://arxiv.org/abs/2604.16108)|null|
