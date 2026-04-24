@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography**|Avalon Roberts et.al.|[2604.21857](http://arxiv.org/abs/2604.21857)|null|
 |**2026-04-23**|**Transferable Physics-Informed Representations via Closed-Form Head Adaptation**|Jian Cheng Wong et.al.|[2604.21761](http://arxiv.org/abs/2604.21761)|null|
 |**2026-04-23**|**OptoCENTAL: a standardised, bench-testing platform based on phantoms for validating optical systems aimed at clinical monitoring of the placenta**|Luca Giannoni et.al.|[2604.21747](http://arxiv.org/abs/2604.21747)|null|
 |**2026-04-23**|**Entanglement of two optical emitters mediated by a terahertz channel**|Yanis Le Fur et.al.|[2604.21723](http://arxiv.org/abs/2604.21723)|null|
@@ -620,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Cross-Modal Phantom: Coordinated Camera-LiDAR Spoofing Against Multi-Sensor Fusion in Autonomous Vehicles**|Shahriar Rahman Khan et.al.|[2604.21841](http://arxiv.org/abs/2604.21841)|null|
 |**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[2604.21801](http://arxiv.org/abs/2604.21801)|null|
 |**2026-04-23**|**High-speed hyperspectral 3D ghost imaging LiDAR**|Jing Hu et.al.|[2604.21742](http://arxiv.org/abs/2604.21742)|null|
 |**2026-04-23**|**Ufil: A Unified Framework for Infrastructure-based Localization**|Simon Schäfer et.al.|[2604.21471](http://arxiv.org/abs/2604.21471)|null|
