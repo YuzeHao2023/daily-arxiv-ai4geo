@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -57,7 +57,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-23**|**Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography**|Avalon Roberts et.al.|[2604.21857](http://arxiv.org/abs/2604.21857)|null|
+|**2026-04-24**|**Enhanced Phase Sensitive SD-OCT for flow imaging using ultrasonically sculpted optical waveguides**|Lloyd Lobo et.al.|[2604.22646](http://arxiv.org/abs/2604.22646)|null|
+|**2026-04-24**|**A Deep Learning Approach to Describing the Plasma Sheath**|Ethan Webb et.al.|[2604.22566](http://arxiv.org/abs/2604.22566)|null|
+|**2026-04-24**|**Catheter Monitoring in Intelligent Endovascular Navigation Systems: Interactive Simulations and Mixed Reality for Enhanced Navigational Awareness**|Veronica Ruozzi et.al.|[2604.22497](http://arxiv.org/abs/2604.22497)|null|
+|**2026-04-24**|**CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease**|Bulent Soykan et.al.|[2604.22428](http://arxiv.org/abs/2604.22428)|null|
+|**2026-04-24**|**Computational Control of Nonlinear Partial Differential Equations Using Machine Learning**|Maximilian Kurbanov et.al.|[2604.22414](http://arxiv.org/abs/2604.22414)|null|
+|**2026-04-24**|**Four-dimensional QCD equation of state from a quasi-parton model with physics-informed neural networks**|Fu-Peng Li et.al.|[2604.22352](http://arxiv.org/abs/2604.22352)|null|
+|**2026-04-24**|**Anatomy-Aware Unsupervised Detection and Localization of Retinal Abnormalities in Optical Coherence Tomography**|Tania Haghighi et.al.|[2604.22139](http://arxiv.org/abs/2604.22139)|null|
+|**2026-04-24**|**Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography**|Avalon Roberts et.al.|[2604.21857](http://arxiv.org/abs/2604.21857)|null|
 |**2026-04-23**|**Transferable Physics-Informed Representations via Closed-Form Head Adaptation**|Jian Cheng Wong et.al.|[2604.21761](http://arxiv.org/abs/2604.21761)|null|
 |**2026-04-23**|**OptoCENTAL: a standardised, bench-testing platform based on phantoms for validating optical systems aimed at clinical monitoring of the placenta**|Luca Giannoni et.al.|[2604.21747](http://arxiv.org/abs/2604.21747)|null|
 |**2026-04-23**|**Entanglement of two optical emitters mediated by a terahertz channel**|Yanis Le Fur et.al.|[2604.21723](http://arxiv.org/abs/2604.21723)|null|
@@ -621,6 +628,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**ChangeQuery: Advancing Remote Sensing Change Analysis for Natural and Human-Induced Disasters from Visual Detection to Semantic Understanding**|Dongwei Sun et.al.|[2604.22333](http://arxiv.org/abs/2604.22333)|null|
+|**2026-04-23**|**Global remote sensing reveals vegetation clustering as a physical footprint of shifting aridity trends in drylands**|David Pinto-Ramos et.al.|[2604.22122](http://arxiv.org/abs/2604.22122)|null|
+|**2026-04-23**|**Robust Localization for Autonomous Vehicles in Highway Scenes**|Daqian Cheng et.al.|[2604.22040](http://arxiv.org/abs/2604.22040)|null|
 |**2026-04-23**|**Cross-Modal Phantom: Coordinated Camera-LiDAR Spoofing Against Multi-Sensor Fusion in Autonomous Vehicles**|Shahriar Rahman Khan et.al.|[2604.21841](http://arxiv.org/abs/2604.21841)|null|
 |**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[2604.21801](http://arxiv.org/abs/2604.21801)|null|
 |**2026-04-23**|**High-speed hyperspectral 3D ghost imaging LiDAR**|Jing Hu et.al.|[2604.21742](http://arxiv.org/abs/2604.21742)|null|
@@ -1357,6 +1367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Finite element model updating of building structures under seismic excitation: A parallelized latent space-based Bayesian framework**|Taro Yaoyama et.al.|[2604.22305](http://arxiv.org/abs/2604.22305)|null|
+|**2026-04-24**|**FixV2W: Correcting Invalid CVE-CWE Mappings with Knowledge Graph Embeddings**|Sevval Simsek et.al.|[2604.22176](http://arxiv.org/abs/2604.22176)|null|
+|**2026-04-23**|**Reliability Auditing for Downstream LLM tasks in Psychiatry: LLM-Generated Hospitalization Risk Scores**|Shevya Pandya et.al.|[2604.22063](http://arxiv.org/abs/2604.22063)|null|
 |**2026-04-23**|**Exploring climate change effects on concurrent floods and concurrent droughts via statistical deep learning**|C. J. R. Murphy-Barltrop et.al.|[2604.21647](http://arxiv.org/abs/2604.21647)|null|
 |**2026-04-23**|**PLAS-Net: Pixel-Level Area Segmentation for UAV-Based Beach Litter Monitoring**|Yongying Liu et.al.|[2604.21313](http://arxiv.org/abs/2604.21313)|null|
 |**2026-04-23**|**Identifying dynamical network markers of financial market instability**|Mariko I. Ito et.al.|[2604.21297](http://arxiv.org/abs/2604.21297)|null|
@@ -1567,6 +1580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Quality-Driven Selective Mutation for Deep Learning**|Zaheed Ahmed et.al.|[2604.22640](http://arxiv.org/abs/2604.22640)|null|
 |**2026-04-23**|**Estimator-Aligned Prospective Sample Size Determination for Designs Using Inverse Probability of Treatment Weighting**|Taekwon Hong et.al.|[2604.21658](http://arxiv.org/abs/2604.21658)|null|
 |**2026-04-21**|**Direct RNA sequence design under codon constraints using expressive tensor-based secondary structure models**|Mark Fornace et.al.|[2604.19718](http://arxiv.org/abs/2604.19718)|null|
 |**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631](http://arxiv.org/abs/2604.19631)|null|
@@ -1767,6 +1781,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Jose Geraldo Fernandes et.al.|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
+|**2026-04-24**|**ArmSSL: Adversarial Robust Black-Box Watermarking for Self-Supervised Learning Pre-trained Encoders**|Yongqi Jiang et.al.|[2604.22550](http://arxiv.org/abs/2604.22550)|null|
+|**2026-04-24**|**Distilling Vision Transformers for Distortion-Robust Representation Learning**|Konstantinos Alexis et.al.|[2604.22529](http://arxiv.org/abs/2604.22529)|null|
+|**2026-04-24**|**Advancing automatic speech recognition using feature fusion with self-supervised learning features: A case study on Fearless Steps Apollo corpus**|Szu-Jui Chen et.al.|[2604.22203](http://arxiv.org/abs/2604.22203)|null|
+|**2026-04-23**|**A Hybrid Reinforcement and Self-Supervised Learning Aided Benders Decomposition Algorithm**|Bernard T. Agyeman et.al.|[2604.22107](http://arxiv.org/abs/2604.22107)|null|
 |**2026-04-23**|**Generalizing Numerical Reasoning in Table Data through Operation Sketches and Self-Supervised Learning**|Hanjun Cho et.al.|[2604.21495](http://arxiv.org/abs/2604.21495)|null|
 |**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[2604.21349](http://arxiv.org/abs/2604.21349)|null|
 |**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
