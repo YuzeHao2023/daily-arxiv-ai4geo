@@ -2,17 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Leveraging natural fluctuations for matrix-based aberration correction in photoacoustic imaging**|Yevgeny Slobodkin et.al.|[2604.27774](http://arxiv.org/abs/2604.27774)|null|
 |**2026-04-29**|**Particle seismology: mechanical and gravitational properties from parton-hadron duality**|Enrique Ruiz Arriola et.al.|[2604.26537](http://arxiv.org/abs/2604.26537)|null|
 |**2026-04-22**|**Localization of fast and slow slip in fault gouge and fracture energy scaling**|Dmitry I. Garagash et.al.|[2604.20997](http://arxiv.org/abs/2604.20997)|null|
 |**2026-04-19**|**Universal compression of wave fields in weakly scattering media**|Pablo Jara et.al.|[2604.17617](http://arxiv.org/abs/2604.17617)|null|
-|**2026-04-18**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[2604.17029](http://arxiv.org/abs/2604.17029)|null|
+|**2026-04-30**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[2604.17029](http://arxiv.org/abs/2604.17029)|null|
 |**2026-04-14**|**Fe-H melting curve below 3 GPa: Implications for hydrogen in the lunar core**|Jun Takeshita et.al.|[2604.12222](http://arxiv.org/abs/2604.12222)|null|
 |**2026-04-13**|**Causal inference for spatiotemporal point processes in the presence of outcome spillover and carryover**|Conor Kresin et.al.|[2604.12124](http://arxiv.org/abs/2604.12124)|null|
 |**2026-04-17**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
@@ -59,6 +60,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**An adaptive wavelet-based PINN for problems with localized high-magnitude source**|Himanshu Pandey et.al.|[2604.28180](http://arxiv.org/abs/2604.28180)|null|
+|**2026-04-30**|**Quantum Lattice Boltzmann Solutions for Transport under 3D Spatially Varying Advection on Trapped Ion Hardware**|Sayonee Ray et.al.|[2604.28121](http://arxiv.org/abs/2604.28121)|null|
+|**2026-04-30**|**Branch-Resolved Characterization of Feed-Forward Error in Dynamic Teleportation via Classical Choi Shadows**|Mason Edwards et.al.|[2604.28037](http://arxiv.org/abs/2604.28037)|null|
+|**2026-04-30**|**Heisenberg-limited Hamiltonian learning without short-time control**|Myeongjin Shin et.al.|[2604.27838](http://arxiv.org/abs/2604.27838)|null|
+|**2026-04-30**|**Macroscopic photon counting beating the Poisson noise limit**|Timon Schapeler et.al.|[2604.27761](http://arxiv.org/abs/2604.27761)|null|
+|**2026-04-30**|**An adaptive Deep Ritz framework for second-order fully nonlinear partial differential equations**|Alexandre Caboussat et.al.|[2604.27731](http://arxiv.org/abs/2604.27731)|null|
+|**2026-04-30**|**A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management**|Bahadur Yadav et.al.|[2604.27610](http://arxiv.org/abs/2604.27610)|null|
+|**2026-04-30**|**Computation of frequency- and time-domain Jacobians in optical tomography with Monte Carlo simulations**|Pauliina Hirvi et.al.|[2604.27558](http://arxiv.org/abs/2604.27558)|null|
+|**2026-04-30**|**Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.|[2604.27552](http://arxiv.org/abs/2604.27552)|null|
+|**2026-04-30**|**Wave-Equation Migration Velocity Analysis for Multistatic Synthetic Aperture Ultrasound**|Rehman Ali et.al.|[2604.27428](http://arxiv.org/abs/2604.27428)|null|
 |**2026-04-29**|**Meta-learning-enhanced implicit full waveform inversion**|Huan Song et.al.|[2604.26938](http://arxiv.org/abs/2604.26938)|null|
 |**2026-04-29**|**Designing Solutions to Geophysical Inverse Problems by Changing Variables**|Xuebin Zhao et.al.|[2604.26937](http://arxiv.org/abs/2604.26937)|null|
 |**2026-04-29**|**Digital Simulation of Non-Hermitian Knotted Bands on Quantum Hardware**|Truman Yu Ng et.al.|[2604.26914](http://arxiv.org/abs/2604.26914)|null|
@@ -649,6 +660,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**LiDAR-based Dynamic Blockage Prediction: A Data-driven Approach for Learning Interactive Bayesian Models**|Saleemullah Memon et.al.|[2604.28040](http://arxiv.org/abs/2604.28040)|null|
+|**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
+|**2026-04-30**|**Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps**|Nimrod Millenium Ndulue et.al.|[2604.27821](http://arxiv.org/abs/2604.27821)|null|
+|**2026-04-30**|**A generalised pre-training strategy for deep learning networks in semantic segmentation of remotely sensed images**|Yuan Fang et.al.|[2604.27704](http://arxiv.org/abs/2604.27704)|null|
+|**2026-04-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|[2604.27653](http://arxiv.org/abs/2604.27653)|null|
+|**2026-04-30**|**ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data**|Al Zadid Sultan Bin Habib et.al.|[2604.27606](http://arxiv.org/abs/2604.27606)|null|
+|**2026-04-30**|**Demonstration of Exponential Quantum Speedup with Constant-Depth Compiled Circuits for Simon's Problem**|Phattharaporn Singkanipa et.al.|[2604.27457](http://arxiv.org/abs/2604.27457)|null|
+|**2026-04-30**|**RAY-TOLD: Ray-Based Latent Dynamics for Dense Dynamic Obstacle Avoidance with TDMPC**|Seungho Han et.al.|[2604.27450](http://arxiv.org/abs/2604.27450)|null|
+|**2026-04-30**|**Beyond the Mean: Within-Model Reliable Change Detection for LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27405](http://arxiv.org/abs/2604.27405)|null|
+|**2026-04-30**|**Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|[2604.27364](http://arxiv.org/abs/2604.27364)|null|
 |**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
 |**2026-04-29**|**Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification**|Ralntion Komini et.al.|[2604.26675](http://arxiv.org/abs/2604.26675)|null|
 |**2026-04-29**|**Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.|[2604.26478](http://arxiv.org/abs/2604.26478)|null|
@@ -1310,6 +1331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**DOT-Sim: Differentiable Optical Tactile Simulation with Precise Real-to-Sim Physical Calibration**|Yang You et.al.|[2604.27367](http://arxiv.org/abs/2604.27367)|null|
 |**2026-04-23**|**Quadrupolar bremsstrahlung waveform at the third-and-a-half post-Newtonian accuracy**|Donato Bini et.al.|[2604.21522](http://arxiv.org/abs/2604.21522)|null|
 |**2026-04-22**|**Heat Transfer Modeling in Enhanced Geothermal Energy: A Three-Temperature Approach for Solid, Injected, and Residing Fluids**|Yi-Yung Yang et.al.|[2604.20710](http://arxiv.org/abs/2604.20710)|null|
 |**2026-04-21**|**An Oracle-Free Quantum Algorithm for Nonadiabatic Quantum Molecular Dynamics**|Joshua Courtney et.al.|[2604.19319](http://arxiv.org/abs/2604.19319)|null|
@@ -1408,6 +1430,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs**|Andrey Voronin et.al.|[2604.28017](http://arxiv.org/abs/2604.28017)|null|
+|**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
+|**2026-04-30**|**ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data**|Al Zadid Sultan Bin Habib et.al.|[2604.27606](http://arxiv.org/abs/2604.27606)|null|
+|**2026-04-30**|**The Likelihood Ratio Wall: Structural Limits on Accurate Risk Assessment for Rare Violence**|Marco Pollanen et.al.|[2604.27282](http://arxiv.org/abs/2604.27282)|null|
+|**2026-04-29**|**Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment**|Isaac Tettey Adjokatse et.al.|[2604.27102](http://arxiv.org/abs/2604.27102)|null|
 |**2026-04-29**|**Improving Bias Correction Methods for Daily Rainfall Using a Markov Chain Approach**|Danny Parsons et.al.|[2604.26884](http://arxiv.org/abs/2604.26884)|null|
 |**2026-04-28**|**Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles**|Aliasghar Arab et.al.|[2604.26050](http://arxiv.org/abs/2604.26050)|null|
 |**2026-04-28**|**Fixed-parameter tractable inference for discrete probabilistic programs, via string diagram algebraisation**|Benedikt Peterseim et.al.|[2604.25321](http://arxiv.org/abs/2604.25321)|null|
@@ -1605,6 +1632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Hybrid Fourier Neural Operator-Lattice Boltzmann Method**|Alexandra Junk et.al.|[2604.27158](http://arxiv.org/abs/2604.27158)|null|
 |**2026-04-09**|**A bounded-interval multiwavelet formulation with conservative finite-volume transport for one-dimensional Buckley--Leverett waterflooding**|Christian Tantardini et.al.|[2603.28981](http://arxiv.org/abs/2603.28981)|null|
 |**2026-03-26**|**Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations**|Matteo Salis et.al.|[2603.25779](http://arxiv.org/abs/2603.25779)|null|
 |**2026-03-21**|**Effects of fluid rheology and geometric disorder on the enhanced resistance of viscoelastic flows through porous media**|Simon J Haward et.al.|[2603.20592](http://arxiv.org/abs/2603.20592)|null|
@@ -1629,6 +1657,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures**|Sigma Jahan et.al.|[2604.28118](http://arxiv.org/abs/2604.28118)|null|
+|**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et.al.|[2604.27004](http://arxiv.org/abs/2604.27004)|null|
+|**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
 |**2026-04-29**|**A Test Taxonomy and Continuous Integration Ecosystem for Dynamic Resource Management in HPC**|Petter Sandås et.al.|[2604.26824](http://arxiv.org/abs/2604.26824)|null|
 |**2026-04-29**|**Probabilistic Condition, Decision and Path Coverage of Circuit-based Quantum Programs**|Daniel Fortunato et.al.|[2604.26609](http://arxiv.org/abs/2604.26609)|null|
 |**2026-04-29**|**Unsupervised Graph Modeling for Anomaly Detection in Accounting Subject Relationships**|Yuhan Wang et.al.|[2604.26216](http://arxiv.org/abs/2604.26216)|null|
@@ -1843,6 +1874,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Self-Supervised Learning of Plant Image Representations**|Ilyass Moummad et.al.|[2604.27538](http://arxiv.org/abs/2604.27538)|null|
+|**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448](http://arxiv.org/abs/2604.27448)|null|
+|**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
+|**2026-04-29**|**Adaptive Self-Supervised Surface-Related Multiple Suppression**|Huan Song et.al.|[2604.27069](http://arxiv.org/abs/2604.27069)|null|
 |**2026-04-28**|**Evaluating the Alignment Between GeoAI Explanations and Domain Knowledge in Satellite-Based Flood Mapping**|Hyunho Lee et.al.|[2604.26051](http://arxiv.org/abs/2604.26051)|null|
 |**2026-04-27**|**GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility**|Yihong Zhou et.al.|[2604.24549](http://arxiv.org/abs/2604.24549)|null|
 |**2026-04-27**|**Self-Supervised Representation Learning via Hyperspherical Density Shaping**|Esteban Rodríguez-Betancourt et.al.|[2604.24498](http://arxiv.org/abs/2604.24498)|null|
