@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -60,6 +60,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature**|Verena Jasmin Hallitschke et.al.|[2605.02720](http://arxiv.org/abs/2605.02720)|null|
+|**2026-05-04**|**OphMAE: Bridging Volumetric and Planar Imaging with a Foundation Model for Adaptive Ophthalmological Diagnosis**|Tienyu Chang et.al.|[2605.02714](http://arxiv.org/abs/2605.02714)|null|
+|**2026-05-04**|**SAIL: Structure-Aware Interpretable Learning for Anatomy-Aligned Post-hoc Explanations in OCT**|Tienyu Chang et.al.|[2605.02707](http://arxiv.org/abs/2605.02707)|null|
+|**2026-05-04**|**Temporal State Tomography via Quantum Snapshotting the Temporal Quasiprobabilities**|Zhian Jia et.al.|[2605.02655](http://arxiv.org/abs/2605.02655)|null|
+|**2026-05-04**|**Representation learning from OCT images**|Hedi Tabia et.al.|[2605.02589](http://arxiv.org/abs/2605.02589)|null|
+|**2026-05-04**|**Physics-Informed Neural Learning for State Reconstruction and Parameter Identification in Coupled Greenhouse Climate Dynamics**|Sani Biswas et.al.|[2605.02524](http://arxiv.org/abs/2605.02524)|null|
+|**2026-05-04**|**Geometric Quantum Physics Informed Neural Network**|Wai-Hong Tam et.al.|[2605.02352](http://arxiv.org/abs/2605.02352)|null|
+|**2026-05-04**|**A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture**|Shuwei Zhou et.al.|[2605.02310](http://arxiv.org/abs/2605.02310)|null|
+|**2026-05-04**|**Variational Matrix-Learning Fourier Networks for Parametric Multiphysics Surrogates**|Xinyu Li et.al.|[2605.02280](http://arxiv.org/abs/2605.02280)|null|
+|**2026-05-04**|**Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering**|Ayushi Awasthi Ishwar Kant Arushi Sharma M. R. Ganesh Kumar et.al.|[2605.02264](http://arxiv.org/abs/2605.02264)|null|
 |**2026-04-30**|**An adaptive wavelet-based PINN for problems with localized high-magnitude source**|Himanshu Pandey et.al.|[2604.28180](http://arxiv.org/abs/2604.28180)|null|
 |**2026-04-30**|**Quantum Lattice Boltzmann Solutions for Transport under 3D Spatially Varying Advection on Trapped Ion Hardware**|Sayonee Ray et.al.|[2604.28121](http://arxiv.org/abs/2604.28121)|null|
 |**2026-04-30**|**Branch-Resolved Characterization of Feed-Forward Error in Dynamic Teleportation via Classical Choi Shadows**|Mason Edwards et.al.|[2604.28037](http://arxiv.org/abs/2604.28037)|null|
@@ -660,6 +670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**InsureConnect: Blockchain and Digital Identity for the Property Insurance Market**|João Eduardo Travassos et.al.|[2605.02824](http://arxiv.org/abs/2605.02824)|null|
+|**2026-05-04**|**LiDAR Teach, Radar Repeat: Robust Cross-Modal Navigation in Degenerate and Varying Environments**|Renxiang Xiao et.al.|[2605.02809](http://arxiv.org/abs/2605.02809)|null|
+|**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
+|**2026-05-04**|**AI and Open-data Driven Scalable Solar Power Profiling**|Shiliang Zhang et.al.|[2605.02738](http://arxiv.org/abs/2605.02738)|null|
+|**2026-05-04**|**Beyond Specialization: Robust Reinforcement Learning Navigation via Procedural Map Generators**|Christian Jestel et.al.|[2605.02528](http://arxiv.org/abs/2605.02528)|null|
+|**2026-05-04**|**Development and Validation of an Integrated LiDAR-Camera System for Real-Time Monitoring of Underground Longwall Operations**|Pasindu Ranasinghe et.al.|[2605.02516](http://arxiv.org/abs/2605.02516)|null|
+|**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
+|**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
+|**2026-05-04**|**Super-resolution of airborne laser scanning point clouds for forest inventory**|Jinyuan Shao et.al.|[2605.02201](http://arxiv.org/abs/2605.02201)|null|
+|**2026-05-04**|**SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation**|Ce Wang et.al.|[2605.02198](http://arxiv.org/abs/2605.02198)|null|
 |**2026-04-30**|**LiDAR-based Dynamic Blockage Prediction: A Data-driven Approach for Learning Interactive Bayesian Models**|Saleemullah Memon et.al.|[2604.28040](http://arxiv.org/abs/2604.28040)|null|
 |**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
 |**2026-04-30**|**Learning-Based Hierarchical Scene Graph Matching for Robot Localization Leveraging Prior Maps**|Nimrod Millenium Ndulue et.al.|[2604.27821](http://arxiv.org/abs/2604.27821)|null|
@@ -1331,6 +1351,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-03**|**A Review of Modeling and Waveform Inversion for Marine Seismic Data**|Guoxin Chen et.al.|[2605.01677](http://arxiv.org/abs/2605.01677)|null|
+|**2026-05-02**|**Learning Stratigraphically Consistent Relative Geologic Time from 3D Seismic Data via Sinusoidal Mapping**|Yimin Dou et.al.|[2605.01273](http://arxiv.org/abs/2605.01273)|null|
 |**2026-04-30**|**DOT-Sim: Differentiable Optical Tactile Simulation with Precise Real-to-Sim Physical Calibration**|Yang You et.al.|[2604.27367](http://arxiv.org/abs/2604.27367)|null|
 |**2026-04-23**|**Quadrupolar bremsstrahlung waveform at the third-and-a-half post-Newtonian accuracy**|Donato Bini et.al.|[2604.21522](http://arxiv.org/abs/2604.21522)|null|
 |**2026-04-22**|**Heat Transfer Modeling in Enhanced Geothermal Energy: A Three-Temperature Approach for Solid, Injected, and Residing Fluids**|Yi-Yung Yang et.al.|[2604.20710](http://arxiv.org/abs/2604.20710)|null|
@@ -1430,6 +1452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-03**|**Beyond ECE: Calibrated Size Ratio, Risk Assessment, and Confidence-Weighted Metrics**|Fernando Martin-Maroto et.al.|[2605.01796](http://arxiv.org/abs/2605.01796)|null|
 |**2026-04-30**|**Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs**|Andrey Voronin et.al.|[2604.28017](http://arxiv.org/abs/2604.28017)|null|
 |**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
 |**2026-04-30**|**ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data**|Al Zadid Sultan Bin Habib et.al.|[2604.27606](http://arxiv.org/abs/2604.27606)|null|
@@ -1632,6 +1655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution**|T. Ansah-Narh et.al.|[2605.00056](http://arxiv.org/abs/2605.00056)|null|
 |**2026-04-29**|**Hybrid Fourier Neural Operator-Lattice Boltzmann Method**|Alexandra Junk et.al.|[2604.27158](http://arxiv.org/abs/2604.27158)|null|
 |**2026-04-09**|**A bounded-interval multiwavelet formulation with conservative finite-volume transport for one-dimensional Buckley--Leverett waterflooding**|Christian Tantardini et.al.|[2603.28981](http://arxiv.org/abs/2603.28981)|null|
 |**2026-03-26**|**Pure and Physics-Guided Deep Learning Solutions for Spatio-Temporal Groundwater Level Prediction at Arbitrary Locations**|Matteo Salis et.al.|[2603.25779](http://arxiv.org/abs/2603.25779)|null|
@@ -1657,6 +1681,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Development and performance of npd for the evaluation of models with ordinal data**|Marc Cerou et.al.|[2605.02403](http://arxiv.org/abs/2605.02403)|null|
+|**2026-05-04**|**Distributed Observer-based Fault Detection over Intelligent Networked Multi-Vehicle Systems**|Mohammadreza Doostmohammadian et.al.|[2605.02235](http://arxiv.org/abs/2605.02235)|null|
+|**2026-05-03**|**Polymorphic crystallites model for monolayer amorphous materials**|Le-Ye Zhu et.al.|[2605.01881](http://arxiv.org/abs/2605.01881)|null|
+|**2026-05-02**|**CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction**|Hyeonseok Jin et.al.|[2605.01277](http://arxiv.org/abs/2605.01277)|null|
+|**2026-05-02**|**Learning Stratigraphically Consistent Relative Geologic Time from 3D Seismic Data via Sinusoidal Mapping**|Yimin Dou et.al.|[2605.01273](http://arxiv.org/abs/2605.01273)|null|
+|**2026-05-01**|**Nuclear structure and saturation effects from diffractive vector meson production**|Heikki Mäntysaari et.al.|[2605.00454](http://arxiv.org/abs/2605.00454)|null|
 |**2026-04-30**|**DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures**|Sigma Jahan et.al.|[2604.28118](http://arxiv.org/abs/2604.28118)|null|
 |**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et.al.|[2604.27004](http://arxiv.org/abs/2604.27004)|null|
 |**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
@@ -1874,6 +1904,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering**|Ayushi Awasthi Ishwar Kant Arushi Sharma M. R. Ganesh Kumar et.al.|[2605.02264](http://arxiv.org/abs/2605.02264)|null|
+|**2026-05-03**|**SignMAE: Segmentation-Driven Self-Supervised Learning for Sign Language Recognition**|Kunyuan Xie et.al.|[2605.02094](http://arxiv.org/abs/2605.02094)|null|
+|**2026-05-03**|**TumorXAI: Self-Supervised Deep Learning Framework for Explainable Brain MRI Tumor Classification**|Abrar Hossain Zahin et.al.|[2605.01999](http://arxiv.org/abs/2605.01999)|null|
+|**2026-05-03**|**ProtoFair: Fair Self-Supervised Contrastive Learning via Pseudo-Counterfactual Pairs**|Marah Halawa et.al.|[2605.01971](http://arxiv.org/abs/2605.01971)|null|
+|**2026-05-03**|**PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning**|Xinxing Yu et.al.|[2605.01759](http://arxiv.org/abs/2605.01759)|null|
+|**2026-05-03**|**Adaptive Texture-aware Masking for Self-Supervised Learning in 3D Dental CBCT Analysis**|Xinquan Yang et.al.|[2605.01741](http://arxiv.org/abs/2605.01741)|null|
+|**2026-05-03**|**TRIMMER: A New Paradigm for Video Summarization through Self-Supervised Reinforcement Learning**|Pritam Mishra et.al.|[2605.01659](http://arxiv.org/abs/2605.01659)|null|
+|**2026-05-02**|**GraphSculptor: Sculpting Pre-training Coreset for Graph Self-supervised Learning**|Chuang Liu et.al.|[2605.01310](http://arxiv.org/abs/2605.01310)|null|
+|**2026-05-02**|**Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI**|Ruthwik Reddy Doodipala et.al.|[2605.01240](http://arxiv.org/abs/2605.01240)|null|
+|**2026-05-01**|**Physiology-Aware Masked Cross-Modal Reconstruction for Biosignal Representation Learning**|Hao Zhou et.al.|[2605.00973](http://arxiv.org/abs/2605.00973)|null|
 |**2026-04-30**|**Self-Supervised Learning of Plant Image Representations**|Ilyass Moummad et.al.|[2604.27538](http://arxiv.org/abs/2604.27538)|null|
 |**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448](http://arxiv.org/abs/2604.27448)|null|
 |**2026-04-30**|**BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning**|Yizhou Wu et.al.|[2604.27277](http://arxiv.org/abs/2604.27277)|null|
