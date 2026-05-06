@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -60,6 +60,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Generalized Virtual-Wave Theory for Photothermal Coherence Tomography under Arbitrary Excitation Toward Non-Contact Industrial Inspection of Composite Materials**|Pengfei Zhu et.al.|[2605.03747](http://arxiv.org/abs/2605.03747)|null|
+|**2026-05-05**|**Random test functions, $H^{-1}$ norm equivalence, and stochastic variational physics-informed neural networks**|Diego Marcondes et.al.|[2605.03542](http://arxiv.org/abs/2605.03542)|null|
+|**2026-05-05**|**Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations**|Zhao Wei et.al.|[2605.03511](http://arxiv.org/abs/2605.03511)|null|
+|**2026-05-05**|**Analytical two-pulse control of universal single-qubit gates in rotational ultracold NaCs molecules**|Qi Chen et.al.|[2605.03461](http://arxiv.org/abs/2605.03461)|null|
+|**2026-05-05**|**Estimating noise for airborne electromagnetic data from repeat flight lines or inversion residuals**|Tim Scarr et.al.|[2605.03454](http://arxiv.org/abs/2605.03454)|null|
+|**2026-05-05**|**Mirror Quantum Tomography Finds Unexpected Polarization Phenomena in Z Boson Production in pp Collisions at the LHC**|A. Gautam et.al.|[2605.03254](http://arxiv.org/abs/2605.03254)|null|
+|**2026-05-04**|**Phy2-ExposNet: A Physics-Informed Neural Network for EMF Exposure Mapping in Complex Urban Environments**|Shuangning Li et.al.|[2605.03207](http://arxiv.org/abs/2605.03207)|null|
+|**2026-05-04**|**Learning to Segment using Summary Statistics and Weak Supervision**|Omkar Kulkarni et.al.|[2605.03059](http://arxiv.org/abs/2605.03059)|null|
+|**2026-05-04**|**Exchange-Only Silicon Based Spin Qubits: Charge Noise, PINN Optimised Pulse Sequences,and Gate-Level Fidelity**|Rajdeep Rameshchandra Dwivedi et.al.|[2605.03056](http://arxiv.org/abs/2605.03056)|null|
 |**2026-05-04**|**PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature**|Verena Jasmin Hallitschke et.al.|[2605.02720](http://arxiv.org/abs/2605.02720)|null|
 |**2026-05-04**|**OphMAE: Bridging Volumetric and Planar Imaging with a Foundation Model for Adaptive Ophthalmological Diagnosis**|Tienyu Chang et.al.|[2605.02714](http://arxiv.org/abs/2605.02714)|null|
 |**2026-05-04**|**SAIL: Structure-Aware Interpretable Learning for Anatomy-Aligned Post-hoc Explanations in OCT**|Tienyu Chang et.al.|[2605.02707](http://arxiv.org/abs/2605.02707)|null|
@@ -670,6 +679,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal**|Lorenzo Beltrame et.al.|[2605.03610](http://arxiv.org/abs/2605.03610)|null|
+|**2026-05-05**|**SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for Cross-Scene Hyperspectral Image Classification**|Yiwen Liu et.al.|[2605.03371](http://arxiv.org/abs/2605.03371)|null|
+|**2026-05-04**|**Enwar 3.0: An Agentic Multi-Modal LLM Orchestrator for Situation-Aware Beamforming, Blockage Prediction, and Handover Management**|Ahmad M. Nazar et.al.|[2605.03215](http://arxiv.org/abs/2605.03215)|null|
+|**2026-05-04**|**Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning**|Lucrezia Tosato et.al.|[2605.03189](http://arxiv.org/abs/2605.03189)|null|
+|**2026-05-04**|**DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery**|Ryan Faulkenberry et.al.|[2605.03175](http://arxiv.org/abs/2605.03175)|null|
 |**2026-05-04**|**InsureConnect: Blockchain and Digital Identity for the Property Insurance Market**|João Eduardo Travassos et.al.|[2605.02824](http://arxiv.org/abs/2605.02824)|null|
 |**2026-05-04**|**LiDAR Teach, Radar Repeat: Robust Cross-Modal Navigation in Degenerate and Varying Environments**|Renxiang Xiao et.al.|[2605.02809](http://arxiv.org/abs/2605.02809)|null|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
@@ -1351,6 +1365,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Reservoir property image slices from the Groningen gas field for image translation and segmentation**|Abdulrahman Al-Fakih et.al.|[2605.03942](http://arxiv.org/abs/2605.03942)|null|
+|**2026-05-05**|**Quantum Resource Estimation for Minimising Energy Grid Losses**|Camille de Valk et.al.|[2605.03467](http://arxiv.org/abs/2605.03467)|null|
+|**2026-05-05**|**GeoDecider: A Coarse-to-Fine Agentic Workflow for Explainable Lithology Classification**|Jiahao Wang et.al.|[2605.03383](http://arxiv.org/abs/2605.03383)|null|
 |**2026-05-03**|**A Review of Modeling and Waveform Inversion for Marine Seismic Data**|Guoxin Chen et.al.|[2605.01677](http://arxiv.org/abs/2605.01677)|null|
 |**2026-05-02**|**Learning Stratigraphically Consistent Relative Geologic Time from 3D Seismic Data via Sinusoidal Mapping**|Yimin Dou et.al.|[2605.01273](http://arxiv.org/abs/2605.01273)|null|
 |**2026-04-30**|**DOT-Sim: Differentiable Optical Tactile Simulation with Precise Real-to-Sim Physical Calibration**|Yang You et.al.|[2604.27367](http://arxiv.org/abs/2604.27367)|null|
@@ -1452,7 +1469,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-03**|**Beyond ECE: Calibrated Size Ratio, Risk Assessment, and Confidence-Weighted Metrics**|Fernando Martin-Maroto et.al.|[2605.01796](http://arxiv.org/abs/2605.01796)|null|
+|**2026-05-05**|**Cross-Slice Co-Location Risk-Aware SFC Provisioning in Multi-Slice LEO Satellite Networks**|Mohammed Mahyoub et.al.|[2605.03656](http://arxiv.org/abs/2605.03656)|null|
+|**2026-05-05**|**Communicating results in trials with multiple hypotheses or adaptive design features**|Elina Asikanius et.al.|[2605.03554](http://arxiv.org/abs/2605.03554)|null|
+|**2026-05-05**|**Beyond ECE: Calibrated Size Ratio, Risk Assessment, and Confidence-Weighted Metrics**|Fernando Martin-Maroto et.al.|[2605.01796](http://arxiv.org/abs/2605.01796)|null|
 |**2026-04-30**|**Characterizing Path-Independent Fees: A Route to Zero Impermanent Loss in CPMMs**|Andrey Voronin et.al.|[2604.28017](http://arxiv.org/abs/2604.28017)|null|
 |**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
 |**2026-04-30**|**ZAYAN: Disentangled Contrastive Transformer for Tabular Remote Sensing Data**|Al Zadid Sultan Bin Habib et.al.|[2604.27606](http://arxiv.org/abs/2604.27606)|null|
@@ -1904,6 +1923,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
+|**2026-05-05**|**Understanding Self-Supervised Learning via Latent Distribution Matching**|Fabian A Mikulasch et.al.|[2605.03517](http://arxiv.org/abs/2605.03517)|null|
+|**2026-05-05**|**Text-Conditional JEPA for Learning Semantically Rich Visual Representations**|Chen Huang et.al.|[2605.03245](http://arxiv.org/abs/2605.03245)|null|
 |**2026-05-04**|**Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering**|Ayushi Awasthi Ishwar Kant Arushi Sharma M. R. Ganesh Kumar et.al.|[2605.02264](http://arxiv.org/abs/2605.02264)|null|
 |**2026-05-03**|**SignMAE: Segmentation-Driven Self-Supervised Learning for Sign Language Recognition**|Kunyuan Xie et.al.|[2605.02094](http://arxiv.org/abs/2605.02094)|null|
 |**2026-05-03**|**TumorXAI: Self-Supervised Deep Learning Framework for Explainable Brain MRI Tumor Classification**|Abrar Hossain Zahin et.al.|[2605.01999](http://arxiv.org/abs/2605.01999)|null|
