@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
@@ -61,6 +61,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](http://arxiv.org/abs/2605.06558)|null|
+|**2026-05-07**|**Nonlinear RMM-GKS for Large-Scale Dynamic and Streaming Inverse Problems with Uncertain Forward Operators**|Toluwani Okunola et.al.|[2605.06336](http://arxiv.org/abs/2605.06336)|null|
+|**2026-05-07**|**INEUS: Iterative Neural Solver for High-Dimensional PIDEs**|Jean-Loup Dupret et.al.|[2605.06281](http://arxiv.org/abs/2605.06281)|null|
+|**2026-05-07**|**Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions**|Tatsuhiro Misumi et.al.|[2605.06022](http://arxiv.org/abs/2605.06022)|null|
+|**2026-05-07**|**Thermodynamic incompleteness in non-Markovian Majorana transport I: Island dynamics and missing transport statistics**|Yang Tian et.al.|[2605.05754](http://arxiv.org/abs/2605.05754)|null|
+|**2026-05-07**|**Programmable spatial coherence tomography: diffraction-limited three-dimensional reflection imaging under modulated monochromatic illumination**|Herve Hugonnet et.al.|[2605.05747](http://arxiv.org/abs/2605.05747)|null|
+|**2026-05-06**|**Quantum Proper Scoring Rules: Minimax Estimation and Resource-Theoretic Advantages**|M. W. AlMasri et.al.|[2605.05268](http://arxiv.org/abs/2605.05268)|null|
 |**2026-05-06**|**3D Ultrasound-Derived Pseudo-CT Synthesis Using a Transformer-Augmented Residual Network for Real-Time Operator Guidance**|Sapna Sachan et.al.|[2605.04856](http://arxiv.org/abs/2605.04856)|null|
 |**2026-05-06**|**Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems**|Miloš Babić et.al.|[2605.04708](http://arxiv.org/abs/2605.04708)|null|
 |**2026-05-06**|**Online Riemannian Gradient Descent for Quantum State Tomography with Matrix Product Operators**|Jian-Feng Cai et.al.|[2605.04533](http://arxiv.org/abs/2605.04533)|null|
@@ -688,6 +695,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.|[2605.06628](http://arxiv.org/abs/2605.06628)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
+|**2026-05-07**|**Earth-o1: A Grid-free Observation-native Atmospheric World Model**|Junchao Gong et.al.|[2605.06337](http://arxiv.org/abs/2605.06337)|null|
+|**2026-05-07**|**Passive Imaging with Quantum Advantage**|Li Gong et.al.|[2605.05961](http://arxiv.org/abs/2605.05961)|null|
+|**2026-05-07**|**Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis**|Yuhan Xia et.al.|[2605.05897](http://arxiv.org/abs/2605.05897)|null|
+|**2026-05-07**|**R2H-Diff: Guided Spectral Diffusion Model for RGB-to-Hyperspectral Reconstruction**|Songyu Ding et.al.|[2605.05688](http://arxiv.org/abs/2605.05688)|null|
+|**2026-05-07**|**Region-adaptable retrieval of coastal biogeochemical parameters from near-surface hyperspectral remote sensing reflectance using physics-aware meta-learning**|Yiqing Guo et.al.|[2605.05623](http://arxiv.org/abs/2605.05623)|null|
+|**2026-05-07**|**Uncertainty-Guided Edge Learning for Deep Image Regression in Remote Sensing**|Anh Vu Nguyen et.al.|[2605.05590](http://arxiv.org/abs/2605.05590)|null|
+|**2026-05-07**|**Characterizing Brazilian Atlantic Forest Restoration Outcomes with Geospatial AlphaEarth Embeddings**|Alice Heiman et.al.|[2605.05547](http://arxiv.org/abs/2605.05547)|null|
+|**2026-05-06**|**Zero-Shot Satellite Image Retrieval through Joint Embeddings: Application to Crisis Response**|James Walsh et.al.|[2605.05405](http://arxiv.org/abs/2605.05405)|null|
 |**2026-05-06**|**Height-Guided Projection Reparameterization for Camera-LiDAR Occupancy**|Yuan Wu et.al.|[2605.05072](http://arxiv.org/abs/2605.05072)|null|
 |**2026-05-06**|**Photonic-crystal microresonator-based LiDAR engine**|Kenji Nishimoto et.al.|[2605.05069](http://arxiv.org/abs/2605.05069)|null|
 |**2026-05-06**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|null|
@@ -1384,6 +1401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effec**|Alan L. McCann et.al.|[2605.05248](http://arxiv.org/abs/2605.05248)|null|
 |**2026-05-06**|**Reduced-order Neural Modeling with Differentiable Simulation for High-Detail Tactile Perception**|Yuhu Guo et.al.|[2605.05053](http://arxiv.org/abs/2605.05053)|null|
 |**2026-05-05**|**Reservoir property image slices from the Groningen gas field for image translation and segmentation**|Abdulrahman Al-Fakih et.al.|[2605.03942](http://arxiv.org/abs/2605.03942)|null|
 |**2026-05-05**|**Quantum Resource Estimation for Minimising Energy Grid Losses**|Camille de Valk et.al.|[2605.03467](http://arxiv.org/abs/2605.03467)|null|
@@ -1489,6 +1507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Evaluating the Reliability of Multiple Large Language Models in Risk Assessment: A CIS Controls Based Approach**|Gustavo Roberto Pinto et.al.|[2605.05424](http://arxiv.org/abs/2605.05424)|null|
 |**2026-05-06**|**Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach**|Eva Oberholzer et.al.|[2605.05145](http://arxiv.org/abs/2605.05145)|null|
 |**2026-05-06**|**DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents**|Zhaorun Chen et.al.|[2605.04808](http://arxiv.org/abs/2605.04808)|null|
 |**2026-05-05**|**Cross-Slice Co-Location Risk-Aware SFC Provisioning in Multi-Slice LEO Satellite Networks**|Mohammed Mahyoub et.al.|[2605.03656](http://arxiv.org/abs/2605.03656)|null|
@@ -1722,6 +1741,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**RAM-H1200: A Unified Evaluation and Dataset on Hand Radiographs for Rheumatoid Arthritis**|Songxiao Yang et.al.|[2605.05616](http://arxiv.org/abs/2605.05616)|null|
 |**2026-05-06**|**Computational acceleration strategies for large-scale energy system optimization: a comparative study of GPU-accelerated and distributed-memory solvers**|Janina Zittel et.al.|[2605.04605](http://arxiv.org/abs/2605.04605)|null|
 |**2026-05-05**|**Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs**|Vincenzo Marco De Luca et.al.|[2605.04169](http://arxiv.org/abs/2605.04169)|null|
 |**2026-05-04**|**Development and performance of npd for the evaluation of models with ordinal data**|Marc Cerou et.al.|[2605.02403](http://arxiv.org/abs/2605.02403)|null|
@@ -1947,6 +1967,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
+|**2026-05-07**|**SIGMA-ASL: Sensor-Integrated Multimodal Dataset for Sign Language Recognition**|Xiaofang Xiao et.al.|[2605.06351](http://arxiv.org/abs/2605.06351)|null|
+|**2026-05-06**|**Robustness of Graph Self-Supervised Learning to Real-World Noise: A Case Study on Text-Driven Biomedical Graphs**|Othmane Kabal et.al.|[2605.05463](http://arxiv.org/abs/2605.05463)|null|
 |**2026-05-06**|**Chaotic Contrastive Learning for Robust Texture Classification**|Joao B Florindo et.al.|[2605.05012](http://arxiv.org/abs/2605.05012)|null|
 |**2026-05-06**|**Attention-Based Chaotic Self-Supervision for Medical Image Classification**|Joao Batista Florindo et.al.|[2605.04985](http://arxiv.org/abs/2605.04985)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
