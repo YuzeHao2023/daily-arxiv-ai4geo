@@ -74,7 +74,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](http://arxiv.org/abs/2605.06558)|null|
+|**2026-05-08**|**Advances in quantum learning theory with bosonic systems**|Francesco Anna Mele et.al.|[2605.08082](http://arxiv.org/abs/2605.08082)|null|
+|**2026-05-08**|**PET-Adapter: Test-Time Domain Adaptation for Full and Limited-Angle PET Image Reconstruction**|Rüveyda Yilmaz et.al.|[2605.08030](http://arxiv.org/abs/2605.08030)|null|
+|**2026-05-08**|**Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data**|Eunhan Ka et.al.|[2605.08028](http://arxiv.org/abs/2605.08028)|null|
+|**2026-05-08**|**Commutativity from a single Bargmann invariant equality**|Rafael Wagner et.al.|[2605.07405](http://arxiv.org/abs/2605.07405)|null|
+|**2026-05-08**|**A fast Physics-Informed Neural Networks based approach to the 2D design of turbine blades**|Yuan Huang et.al.|[2605.07131](http://arxiv.org/abs/2605.07131)|null|
+|**2026-05-08**|**Stabilized neural Hamilton--Jacobi--Bellman solvers: Error analysis and applications in model-based reinforcement learning**|Minseok Kim et.al.|[2605.07116](http://arxiv.org/abs/2605.07116)|null|
+|**2026-05-08**|**Functional-prior-based Bayesian PDE-constrained inversion using PINNs**|Ryoichiro Agata et.al.|[2605.07060](http://arxiv.org/abs/2605.07060)|null|
+|**2026-05-07**|**Learned Lyapunov Shielding for Adaptive Control**|Giansalvo Cirrincione et.al.|[2605.06934](http://arxiv.org/abs/2605.06934)|null|
+|**2026-05-07**|**Overcoming data scarcity through multi-center federated learning for organs-at-risk segmentation in pediatric upper abdominal radiotherapy**|Mianyong Ding et.al.|[2605.06820](http://arxiv.org/abs/2605.06820)|null|
+|**2026-05-08**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](http://arxiv.org/abs/2605.06558)|null|
 |**2026-05-07**|**Nonlinear RMM-GKS for Large-Scale Dynamic and Streaming Inverse Problems with Uncertain Forward Operators**|Toluwani Okunola et.al.|[2605.06336](http://arxiv.org/abs/2605.06336)|null|
 |**2026-05-07**|**INEUS: Iterative Neural Solver for High-Dimensional PIDEs**|Jean-Loup Dupret et.al.|[2605.06281](http://arxiv.org/abs/2605.06281)|null|
 |**2026-05-07**|**Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions**|Tatsuhiro Misumi et.al.|[2605.06022](http://arxiv.org/abs/2605.06022)|null|
@@ -710,6 +719,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
+|**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978](http://arxiv.org/abs/2605.07978)|null|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741](http://arxiv.org/abs/2605.07741)|null|
+|**2026-05-08**|**LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|[2605.07640](http://arxiv.org/abs/2605.07640)|null|
+|**2026-05-08**|**Beyond GSD-as-Token: Continuous Scale Conditioning for Remote Sensing VLMs**|Song Zhang et.al.|[2605.07562](http://arxiv.org/abs/2605.07562)|null|
+|**2026-05-08**|**Tracking Large-scale Shared Bikes with Inertial Motion Learning in GNSS Blocked Environments**|Feng Liu et.al.|[2605.07412](http://arxiv.org/abs/2605.07412)|null|
+|**2026-05-08**|**MORPH-U: Multi-Objective Resilient Motion Planning for V2X-Enabled Autonomous Driving in High-Uncertainty Environments via Simulation**|Shih-Yu Lai et.al.|[2605.07370](http://arxiv.org/abs/2605.07370)|null|
+|**2026-05-08**|**Weather-Robust Scene Semantics with Vision-Aligned 4D Radar**|Kali Hamilton et.al.|[2605.07367](http://arxiv.org/abs/2605.07367)|null|
+|**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
+|**2026-05-08**|**GEM: Generating LiDAR World Model via Deformable Mamba**|Yang Wu et.al.|[2605.07326](http://arxiv.org/abs/2605.07326)|null|
 |**2026-05-07**|**LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.|[2605.06628](http://arxiv.org/abs/2605.06628)|null|
 |**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
 |**2026-05-07**|**Earth-o1: A Grid-free Observation-native Atmospheric World Model**|Junchao Gong et.al.|[2605.06337](http://arxiv.org/abs/2605.06337)|null|
@@ -1418,6 +1437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Price and Payoff: Non-Determinism in Fault Tolerant Quantum Computation**|Aditi Awasthi et.al.|[2605.07983](http://arxiv.org/abs/2605.07983)|null|
 |**2026-05-05**|**Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effec**|Alan L. McCann et.al.|[2605.05248](http://arxiv.org/abs/2605.05248)|null|
 |**2026-05-06**|**Reduced-order Neural Modeling with Differentiable Simulation for High-Detail Tactile Perception**|Yuhu Guo et.al.|[2605.05053](http://arxiv.org/abs/2605.05053)|null|
 |**2026-05-05**|**Reservoir property image slices from the Groningen gas field for image translation and segmentation**|Abdulrahman Al-Fakih et.al.|[2605.03942](http://arxiv.org/abs/2605.03942)|null|
@@ -1528,6 +1548,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Jagged AI in Scientific Peer Review: Evidence from POMP Data Analysis**|Jin Wook Lee et.al.|[2605.07855](http://arxiv.org/abs/2605.07855)|null|
+|**2026-05-08**|**Debiased Counterfactual Generation via Flow Matching from Observations**|Hugh Dance et.al.|[2605.07665](http://arxiv.org/abs/2605.07665)|null|
+|**2026-05-07**|**Towards Security-Auditable LLM Agents: A Unified Graph Representation**|Chaofan Li et.al.|[2605.06812](http://arxiv.org/abs/2605.06812)|null|
 |**2026-05-06**|**Evaluating the Reliability of Multiple Large Language Models in Risk Assessment: A CIS Controls Based Approach**|Gustavo Roberto Pinto et.al.|[2605.05424](http://arxiv.org/abs/2605.05424)|null|
 |**2026-05-06**|**Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach**|Eva Oberholzer et.al.|[2605.05145](http://arxiv.org/abs/2605.05145)|null|
 |**2026-05-06**|**DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents**|Zhaorun Chen et.al.|[2605.04808](http://arxiv.org/abs/2605.04808)|null|
@@ -1766,6 +1789,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**GenAI Powered Dynamic Causal Inference with Unstructured Data**|Kentaro Nakamura et.al.|[2605.07834](http://arxiv.org/abs/2605.07834)|null|
+|**2026-05-08**|**Water adsorption on a model silicate surface: wollastonite (100)**|Luca Lezuo et.al.|[2605.07337](http://arxiv.org/abs/2605.07337)|null|
+|**2026-05-07**|**Mid-Circuit Measurements for Clifford Noise Reduction in Hamiltonian Simulations**|James Brown et.al.|[2605.06792](http://arxiv.org/abs/2605.06792)|null|
 |**2026-05-07**|**RAM-H1200: A Unified Evaluation and Dataset on Hand Radiographs for Rheumatoid Arthritis**|Songxiao Yang et.al.|[2605.05616](http://arxiv.org/abs/2605.05616)|null|
 |**2026-05-06**|**Computational acceleration strategies for large-scale energy system optimization: a comparative study of GPU-accelerated and distributed-memory solvers**|Janina Zittel et.al.|[2605.04605](http://arxiv.org/abs/2605.04605)|null|
 |**2026-05-05**|**Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs**|Vincenzo Marco De Luca et.al.|[2605.04169](http://arxiv.org/abs/2605.04169)|null|
@@ -1994,6 +2020,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**ShellfishNet: A Domain-Specific Benchmark for Visual Recognition of Marine Molluscs**|Ziheng Zhou et.al.|[2605.07338](http://arxiv.org/abs/2605.07338)|null|
+|**2026-05-08**|**Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization**|Lyra Zhornyak et.al.|[2605.07157](http://arxiv.org/abs/2605.07157)|null|
+|**2026-05-08**|**Learning to Track Instance from Single Nature Language Description**|Yaozong Zheng et.al.|[2605.07064](http://arxiv.org/abs/2605.07064)|null|
+|**2026-05-08**|**Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness**|Qiangqiang Wu et.al.|[2605.07055](http://arxiv.org/abs/2605.07055)|null|
+|**2026-05-07**|**TRAJGANR: Trajectory-Centric Urban Multimodal Learning via Geospatially Aligned Neural Representations**|Maria Despoina Siampou et.al.|[2605.06990](http://arxiv.org/abs/2605.06990)|null|
 |**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
 |**2026-05-07**|**SIGMA-ASL: Sensor-Integrated Multimodal Dataset for Sign Language Recognition**|Xiaofang Xiao et.al.|[2605.06351](http://arxiv.org/abs/2605.06351)|null|
 |**2026-05-06**|**Robustness of Graph Self-Supervised Learning to Real-World Noise: A Case Study on Text-Driven Biomedical Graphs**|Othmane Kabal et.al.|[2605.05463](http://arxiv.org/abs/2605.05463)|null|
