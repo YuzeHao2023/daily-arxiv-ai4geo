@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Seismology & Earthquake AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**On Observation Time for Recovering Latent Hawkes Networks**|Jonas Linkerhägner et.al.|[2605.08400](http://arxiv.org/abs/2605.08400)|null|
 |**2026-04-13**|**Sparse Autoencoder Decomposition of Clinical Sequence Model Representations: Feature Complexity, Task Specialisation, and Mortality Prediction**|Chris Sainsbury et.al.|[2605.04072](http://arxiv.org/abs/2605.04072)|null|
 |**2026-04-30**|**Leveraging natural fluctuations for matrix-based aberration correction in photoacoustic imaging**|Yevgeny Slobodkin et.al.|[2604.27774](http://arxiv.org/abs/2604.27774)|null|
 |**2026-04-29**|**Particle seismology: mechanical and gravitational properties from parton-hadron duality**|Enrique Ruiz Arriola et.al.|[2604.26537](http://arxiv.org/abs/2604.26537)|null|
@@ -61,6 +62,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Qlustering for Data Clustering via Network-Based Quantum Transport**|Shmuel Lorber et.al.|[2605.10844](http://arxiv.org/abs/2605.10844)|null|
+|**2026-05-11**|**CausalGS: Learning Physical Causality of 3D Dynamic Scenes with Gaussian Representations**|Nengbo Lu et.al.|[2605.10586](http://arxiv.org/abs/2605.10586)|null|
+|**2026-05-11**|**FrequencyCT: Frequency domain pseudo-label generation for self-supervised low-dose CT denoising**|Guoquan Wei et.al.|[2605.10583](http://arxiv.org/abs/2605.10583)|null|
+|**2026-05-11**|**Quantum and classical processing with photonic quantum machine learning**|J. C. López Carreño et.al.|[2605.10471](http://arxiv.org/abs/2605.10471)|null|
+|**2026-05-11**|**Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks**|Bum Jun Kim et.al.|[2605.10136](http://arxiv.org/abs/2605.10136)|null|
+|**2026-05-11**|**Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs**|Hoyeol Yoon et.al.|[2605.09975](http://arxiv.org/abs/2605.09975)|null|
+|**2026-05-11**|**Total Generalized Variation regularization closes the gap between neural-eld and classical methods in seismic travel-time tomography**|Isao Kurosawa et.al.|[2605.09960](http://arxiv.org/abs/2605.09960)|null|
+|**2026-05-11**|**Time-of-flight force sensing below the quantum zero-point fluctuation**|Sotatsu Otabe et.al.|[2605.09854](http://arxiv.org/abs/2605.09854)|null|
+|**2026-05-10**|**Adaptive Data Harvesting for Efficient Neural Network Learning with Universal Constraints**|Siteng Kang et.al.|[2605.09707](http://arxiv.org/abs/2605.09707)|null|
+|**2026-05-10**|**Mitigating cycle skipping in full waveform inversion using max-pooling-based approximate envelope and shot patching**|Xinru Mu et.al.|[2605.09564](http://arxiv.org/abs/2605.09564)|null|
 |**2026-05-08**|**Advances in quantum learning theory with bosonic systems**|Francesco Anna Mele et.al.|[2605.08082](http://arxiv.org/abs/2605.08082)|null|
 |**2026-05-08**|**PET-Adapter: Test-Time Domain Adaptation for Full and Limited-Angle PET Image Reconstruction**|Rüveyda Yilmaz et.al.|[2605.08030](http://arxiv.org/abs/2605.08030)|null|
 |**2026-05-08**|**Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data**|Eunhan Ka et.al.|[2605.08028](http://arxiv.org/abs/2605.08028)|null|
@@ -704,6 +715,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Safe Aerial 3D Path Planning for Autonomous UAVs using Magnetic Potential Fields**|Haechan Mark Bong et.al.|[2605.10880](http://arxiv.org/abs/2605.10880)|null|
+|**2026-05-11**|**Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction**|Quanyun Wu et.al.|[2605.10789](http://arxiv.org/abs/2605.10789)|null|
+|**2026-05-11**|**Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition**|David F. Ramirez et.al.|[2605.10772](http://arxiv.org/abs/2605.10772)|null|
+|**2026-05-11**|**MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation**|Ziyi Wang et.al.|[2605.10769](http://arxiv.org/abs/2605.10769)|null|
+|**2026-05-11**|**Geospatial-Temporal Sensemaking of Remote Sensing Activity Detections with Multimodal Large Language Model**|David F. Ramirez et.al.|[2605.10739](http://arxiv.org/abs/2605.10739)|null|
+|**2026-05-11**|**SenseBench: A Benchmark for Remote Sensing Low-Level Visual Perception and Description in Large Vision-Language Models**|Chen Zhong et.al.|[2605.10576](http://arxiv.org/abs/2605.10576)|null|
+|**2026-05-11**|**Geometrically Approximated Modeling for Emitter-Centric Ray-Triangle Filtering in Arbitrarily Dynamic LiDAR Simulation**|Rabin Gajmer et.al.|[2605.10457](http://arxiv.org/abs/2605.10457)|null|
+|**2026-05-11**|**Learning Point Cloud Geometry as a Statistical Manifold: Theory and Practice**|Jinwoo Lee et.al.|[2605.10456](http://arxiv.org/abs/2605.10456)|null|
+|**2026-05-11**|**AnomalyClaw: A Universal Visual Anomaly Detection Agent via Tool-Grounded Refutation**|Xi Jiang et.al.|[2605.10397](http://arxiv.org/abs/2605.10397)|null|
+|**2026-05-11**|**Coronal Mass Ejection and Heliospheric Current Sheet Interaction Causing a Long-Duration Magnetic Field Sector Transition**|Manuela Temmer et.al.|[2605.10193](http://arxiv.org/abs/2605.10193)|null|
 |**2026-05-08**|**123D: Unifying Multi-Modal Autonomous Driving Data at Scale**|Daniel Dauner et.al.|[2605.08084](http://arxiv.org/abs/2605.08084)|null|
 |**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978](http://arxiv.org/abs/2605.07978)|null|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741](http://arxiv.org/abs/2605.07741)|null|
@@ -1420,8 +1441,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Unitaria: Quantum Linear Algebra via Block Encodings**|Matthias Deiml et.al.|[2605.10768](http://arxiv.org/abs/2605.10768)|null|
+|**2026-05-11**|**UAV-Assisted Scan-to-Simulation for Landslides Using Physics-Informed Gaussian Splatting**|Zhenyu Liang et.al.|[2605.10715](http://arxiv.org/abs/2605.10715)|null|
+|**2026-05-09**|**An Overlapping Schwarz Space-Time Refinement Framework for Material Point Method**|Zhaofeng Luo et.al.|[2605.09097](http://arxiv.org/abs/2605.09097)|null|
 |**2026-05-08**|**Price and Payoff: Non-Determinism in Fault Tolerant Quantum Computation**|Aditi Awasthi et.al.|[2605.07983](http://arxiv.org/abs/2605.07983)|null|
-|**2026-05-05**|**Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effec**|Alan L. McCann et.al.|[2605.05248](http://arxiv.org/abs/2605.05248)|null|
+|**2026-05-11**|**Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effect**|Alan L. McCann et.al.|[2605.05248](http://arxiv.org/abs/2605.05248)|null|
 |**2026-05-06**|**Reduced-order Neural Modeling with Differentiable Simulation for High-Detail Tactile Perception**|Yuhu Guo et.al.|[2605.05053](http://arxiv.org/abs/2605.05053)|null|
 |**2026-05-05**|**Reservoir property image slices from the Groningen gas field for image translation and segmentation**|Abdulrahman Al-Fakih et.al.|[2605.03942](http://arxiv.org/abs/2605.03942)|null|
 |**2026-05-05**|**Quantum Resource Estimation for Minimising Energy Grid Losses**|Camille de Valk et.al.|[2605.03467](http://arxiv.org/abs/2605.03467)|null|
@@ -1505,7 +1529,7 @@ layout: default
 |**2026-04-02**|**CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks**|Felipe Hawthorne et.al.|[2604.02499](http://arxiv.org/abs/2604.02499)|null|
 |**2026-03-30**|**Process Development and First Cryogenic Operation of Compact Germanium Ring-Contact HPGe Prototypes**|Kunming Dong et.al.|[2603.28505](http://arxiv.org/abs/2603.28505)|null|
 |**2026-03-17**|**Flow of yield stress fluid in a percolating network**|Nathan Abitbol et.al.|[2603.16224](http://arxiv.org/abs/2603.16224)|null|
-|**2026-03-10**|**Network modelling of yield-stress fluid flow in randomly disordered porous media**|Cláudio P. Fonte et.al.|[2603.09801](http://arxiv.org/abs/2603.09801)|null|
+|**2026-05-10**|**Network modelling of yield-stress fluid flow in randomly disordered porous media**|Cláudio P. Fonte et.al.|[2603.09801](http://arxiv.org/abs/2603.09801)|null|
 |**2026-03-09**|**Glassy phase transition in immiscible steady-state two-phase flow in porous media**|Santanu Sinha et.al.|[2603.08586](http://arxiv.org/abs/2603.08586)|null|
 |**2026-03-25**|**Preservation Constraints on aDNA Information Generation and the HSF Posterior Sourcing Framework: A First-Principles Critique of Conventional Methods**|Wan-Qian Zhao et.al.|[2603.07137](http://arxiv.org/abs/2603.07137)|null|
 |**2026-02-23**|**Electronic dynamics in long linear and cyclic polyynes towards the carbyne limit**|Soumyadip Bhunia et.al.|[2602.20401](http://arxiv.org/abs/2602.20401)|null|
@@ -1527,6 +1551,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction**|Quanyun Wu et.al.|[2605.10789](http://arxiv.org/abs/2605.10789)|null|
+|**2026-05-11**|**MATRA: Modeling the Attack Surface of Agentic AI Systems -- OpenClaw Case Study**|Tim Van hamme et.al.|[2605.10763](http://arxiv.org/abs/2605.10763)|null|
+|**2026-05-11**|**Set Prediction for Next-Day Active Fire Forecasting**|Yuchen Bai et.al.|[2605.10298](http://arxiv.org/abs/2605.10298)|null|
+|**2026-05-10**|**NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning**|Tiehan Cui et.al.|[2605.09387](http://arxiv.org/abs/2605.09387)|null|
+|**2026-05-09**|**What Will Happen Next: Large Models-Driven Deduction for Emergency Instances**|Zhengqing Hu et.al.|[2605.08599](http://arxiv.org/abs/2605.08599)|null|
+|**2026-05-08**|**Quantifying Exposure Information Uncertainty in Regional Risk Assessment**|Chenhao Wu et.al.|[2605.08272](http://arxiv.org/abs/2605.08272)|null|
 |**2026-05-08**|**Jagged AI in Scientific Peer Review: Evidence from POMP Data Analysis**|Jin Wook Lee et.al.|[2605.07855](http://arxiv.org/abs/2605.07855)|null|
 |**2026-05-08**|**Debiased Counterfactual Generation via Flow Matching from Observations**|Hugh Dance et.al.|[2605.07665](http://arxiv.org/abs/2605.07665)|null|
 |**2026-05-07**|**Towards Security-Auditable LLM Agents: A Unified Graph Representation**|Chaofan Li et.al.|[2605.06812](http://arxiv.org/abs/2605.06812)|null|
@@ -1764,6 +1794,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Electron loss and target excitation in keV-energy proton collisions with B and C $^{+}$**|N. W. Antonio et.al.|[2605.10669](http://arxiv.org/abs/2605.10669)|null|
+|**2026-05-11**|**Micro-environment of the Eu interstitial in $β$-SiAlON:Eu$^{2+}$ green phosphor**|Julien Bouquiaux et.al.|[2605.10665](http://arxiv.org/abs/2605.10665)|null|
+|**2026-05-11**|**How sea level paces faulting at fast-spreading mid-ocean ridges**|Richard F Katz et.al.|[2605.10342](http://arxiv.org/abs/2605.10342)|null|
+|**2026-05-10**|**Nullspace-based Fault Diagnosis for Closed-Loop Mechatronic Systems with Application to Semiconductor Equipment**|Koen Classens et.al.|[2605.09689](http://arxiv.org/abs/2605.09689)|null|
+|**2026-05-10**|**Characterizing Dislocation Substructures in Creep-Deformed Olivine Using Electron Channeling Contrast Imaging**|M. Haroon Qaiser et.al.|[2605.09398](http://arxiv.org/abs/2605.09398)|null|
+|**2026-05-09**|**DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules**|Devin Yasith De Silva et.al.|[2605.08614](http://arxiv.org/abs/2605.08614)|null|
+|**2026-05-09**|**FLARE: One-Shot PE-Level Fault Localization in Systolic Arrays via Algebraic Test Vectors**|Logashree Venkatasubramanian et.al.|[2605.08594](http://arxiv.org/abs/2605.08594)|null|
 |**2026-05-08**|**GenAI Powered Dynamic Causal Inference with Unstructured Data**|Kentaro Nakamura et.al.|[2605.07834](http://arxiv.org/abs/2605.07834)|null|
 |**2026-05-08**|**Water adsorption on a model silicate surface: wollastonite (100)**|Luca Lezuo et.al.|[2605.07337](http://arxiv.org/abs/2605.07337)|null|
 |**2026-05-07**|**Mid-Circuit Measurements for Clifford Noise Reduction in Hamiltonian Simulations**|James Brown et.al.|[2605.06792](http://arxiv.org/abs/2605.06792)|null|
@@ -1993,6 +2030,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Learning to Perceive "Where": Spatial Pretext Tasks for Robust Self-Supervised Learning**|Yang Shen et.al.|[2605.09963](http://arxiv.org/abs/2605.09963)|null|
+|**2026-05-09**|**WavesFM: Hierarchical Representation Learning for Longitudinal Wearable Sensor Waveforms**|Peng Cao et.al.|[2605.09173](http://arxiv.org/abs/2605.09173)|null|
+|**2026-05-09**|**Inpainting physics: self-supervised learning for context-driven fluid simulation**|Jonas Weidner et.al.|[2605.08832](http://arxiv.org/abs/2605.08832)|null|
+|**2026-05-09**|**From pre-training to downstream performance: Does domain-specific pre-training make sense?**|Felix Krones et.al.|[2605.08819](http://arxiv.org/abs/2605.08819)|null|
+|**2026-05-09**|**Event Fields: Learning Latent Event Structure for Waveform Foundation Models**|Li Na et.al.|[2605.08685](http://arxiv.org/abs/2605.08685)|null|
+|**2026-05-08**|**SeBA: Semi-supervised few-shot learning via Separated-at-Birth Alignment for tabular data**|Kacper Jurek et.al.|[2605.08519](http://arxiv.org/abs/2605.08519)|null|
+|**2026-05-08**|**BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition**|Yize Cai et.al.|[2605.08296](http://arxiv.org/abs/2605.08296)|null|
 |**2026-05-08**|**ShellfishNet: A Domain-Specific Benchmark for Visual Recognition of Marine Molluscs**|Ziheng Zhou et.al.|[2605.07338](http://arxiv.org/abs/2605.07338)|null|
 |**2026-05-08**|**Learned Lagrangian Models of PDEs via Euler-Lagrange Residual Minimization**|Lyra Zhornyak et.al.|[2605.07157](http://arxiv.org/abs/2605.07157)|null|
 |**2026-05-08**|**Learning to Track Instance from Single Nature Language Description**|Yaozong Zheng et.al.|[2605.07064](http://arxiv.org/abs/2605.07064)|null|
