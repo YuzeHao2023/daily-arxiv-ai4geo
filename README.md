@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,12 +70,21 @@
 |**2025-12-21**|**Towards Understanding the Milky Way's Matter Field and Dynamical Accretion History based on AI-GS3 Hunter**|Hai-Feng Wang et.al.|[2512.18693](http://arxiv.org/abs/2512.18693)|null|
 |**2025-12-20**|**On Lorentz Variability of Magnetically Dominated Relativistic Outflows**|V. I. Berezhiani et.al.|[2512.18323](http://arxiv.org/abs/2512.18323)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Geophysical Imaging & Inversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**A Majorization-Minimization with Monte Carlo Approach for Hyperparameter Estimation**|Elle Buser et.al.|[2605.13620](http://arxiv.org/abs/2605.13620)|null|
+|**2026-05-13**|**Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks**|Lingfei Kong et.al.|[2605.13560](http://arxiv.org/abs/2605.13560)|null|
+|**2026-05-13**|**Generating synthetic computed tomography for radiotherapy: SynthRAD2025 challenge report**|Viktor Rogowski et.al.|[2605.13555](http://arxiv.org/abs/2605.13555)|null|
+|**2026-05-13**|**Imaging-formulation-based numerical speckle reduction for optical coherence tomography**|Xibo Wang et.al.|[2605.13443](http://arxiv.org/abs/2605.13443)|null|
+|**2026-05-13**|**MPINeuralODE: Multiple-Initial-Condition Physics-Informed Neural ODEs for Globally Consistent Dynamical System Learning**|Lake Yang et.al.|[2605.13305](http://arxiv.org/abs/2605.13305)|null|
+|**2026-05-13**|**Physics Guided Generative Optimization for Trotter Suzuki Decomposition**|WenBin Yan et.al.|[2605.13268](http://arxiv.org/abs/2605.13268)|null|
+|**2026-05-13**|**Unified generalization analysis for physics informed neural networks**|Yuka Hashimoto et.al.|[2605.13260](http://arxiv.org/abs/2605.13260)|null|
+|**2026-05-13**|**Observation of an aperiodic polariton monotile**|Sergey Alyatkin et.al.|[2605.13206](http://arxiv.org/abs/2605.13206)|null|
+|**2026-05-12**|**Few-Shot Physics-Informed Neural Network for Shape Reconstruction of Concentric-Tube Robots**|Navid Feizi et.al.|[2605.12790](http://arxiv.org/abs/2605.12790)|null|
 |**2026-05-12**|**H3D-MarNet: Wavelet-Guided Dual-Path Learning for Metal Artifact Suppression and CT Modality Transformation for Radiotherapy Workflows**|Mubashara Rehman et.al.|[2605.12252](http://arxiv.org/abs/2605.12252)|null|
 |**2026-05-12**|**A Comparative Analysis of CT Degradation for LDCT Nodule Classification using Radiomics**|Jiaying Liu et.al.|[2605.12164](http://arxiv.org/abs/2605.12164)|null|
 |**2026-05-12**|**A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography**|Tatiana A. Bubba et.al.|[2605.12085](http://arxiv.org/abs/2605.12085)|null|
@@ -734,12 +743,22 @@
 |**2026-01-19**|**Multi-level Monte Carlo Dropout for Efficient Uncertainty Quantification**|Aaron Pim et.al.|[2601.13272](http://arxiv.org/abs/2601.13272)|null|
 |**2026-01-19**|**Covariant tomography of fields**|Radosław Antoni Kycia et.al.|[2601.13261](http://arxiv.org/abs/2601.13261)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Remote Sensing & Geological Mapping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
+|**2026-05-13**|**LMPath: Language-Mediated Priors and Path Generation for Aerial Exploration**|Jonathan A. Diller et.al.|[2605.13782](http://arxiv.org/abs/2605.13782)|null|
+|**2026-05-13**|**GHGbench: A Unified Multi-Entity, Multi-Task Benchmark for Carbon Emission Prediction**|Yifan Duan et.al.|[2605.13743](http://arxiv.org/abs/2605.13743)|null|
+|**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](http://arxiv.org/abs/2605.13741)|null|
+|**2026-05-13**|**HADAR-Based Thermal Infrared Hyperspectral Image Restoration**|Cheng Dai et.al.|[2605.13664](http://arxiv.org/abs/2605.13664)|null|
+|**2026-05-13**|**Phy-CoSF: Physics-Guided Continuous Spectral Fields Reconstruction and Super-Resolution for Snapshot Compressive Imaging**|Wudi Chen et.al.|[2605.13583](http://arxiv.org/abs/2605.13583)|null|
+|**2026-05-13**|**HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation**|Li Pang et.al.|[2605.13581](http://arxiv.org/abs/2605.13581)|null|
+|**2026-05-13**|**High-order mid-infrared nonlinear topological differentiator**|Jixi Zhang et.al.|[2605.13541](http://arxiv.org/abs/2605.13541)|null|
+|**2026-05-13**|**A Multi-Modal Intelligent U2V Channel Model for 6G Sensing-Communication Integration**|Shuo Wang et.al.|[2605.13502](http://arxiv.org/abs/2605.13502)|null|
+|**2026-05-13**|**RS-Claw: Progressive Active Tool Exploration via Hierarchical Skill Trees for Remote Sensing Agents**|Liangtian Liu et.al.|[2605.13391](http://arxiv.org/abs/2605.13391)|null|
 |**2026-05-12**|**Agent-Based Post-Hoc Correction of Agricultural Yield Forecasts**|Matthew Beddows et.al.|[2605.12375](http://arxiv.org/abs/2605.12375)|null|
 |**2026-05-12**|**Large-Small Model Collaboration for Farmland Semantic Change Detection**|Xinjia Li et.al.|[2605.12282](http://arxiv.org/abs/2605.12282)|null|
 |**2026-05-12**|**NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities**|Jina Kim et.al.|[2605.12276](http://arxiv.org/abs/2605.12276)|null|
@@ -1472,12 +1491,13 @@
 |**2026-01-20**|**Outage Identification from Electricity Market Data: Quickest Change Detection Approach**|Milad Hoseinpour et.al.|[2601.13605](http://arxiv.org/abs/2601.13605)|null|
 |**2026-01-20**|**DIS2: Disentanglement Meets Distillation with Classwise Attention for Robust Remote Sensing Segmentation under Missing Modalities**|Nhi Kieu et.al.|[2601.13502](http://arxiv.org/abs/2601.13502)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Mineral & Energy Resource Exploration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
 |**2026-05-12**|**Benchmarking and Resource Analysis for Augmented-Lagrangian Quantum Hamiltonian Descent**|Zeguan Wu et.al.|[2605.12066](http://arxiv.org/abs/2605.12066)|null|
 |**2026-05-11**|**Unitaria: Quantum Linear Algebra via Block Encodings**|Matthias Deiml et.al.|[2605.10768](http://arxiv.org/abs/2605.10768)|null|
 |**2026-05-11**|**UAV-Assisted Scan-to-Simulation for Landslides Using Physics-Informed Gaussian Splatting**|Zhenyu Liang et.al.|[2605.10715](http://arxiv.org/abs/2605.10715)|null|
@@ -1556,12 +1576,13 @@
 |**2026-01-07**|**MPM-QIR: Measurement-Probability Matching for Quantum Image Representation and Compression via Variational Quantum Circuit**|Chong-Wei Wang et.al.|[2601.03855](http://arxiv.org/abs/2601.03855)|null|
 |**2026-01-04**|**PartImageNet++ Dataset: Enhancing Visual Models with High-Quality Part Annotations**|Xiao Li et.al.|[2601.01454](http://arxiv.org/abs/2601.01454)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Sedimentology, Stratigraphy & Basin Analysis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Time-Resolved Pore-Scale Imaging of Multiphase Dissolution during CO2-Saturated Brine Injection into a Carbonate: Competition between Hydrocarbon Mobilisation and Swelling**|Qianqian Ma et.al.|[2605.12696](http://arxiv.org/abs/2605.12696)|null|
 |**2026-04-30**|**Time-dependent pore-network modelling of Ostwald ripening in porous media**|Ademola Isaac Adebimpe et.al.|[2605.10955](http://arxiv.org/abs/2605.10955)|null|
 |**2026-04-23**|**Second-order topology in two-dimensional azulenoid kekulene carbon lattices**|Xiaorong Zou et.al.|[2604.20399](http://arxiv.org/abs/2604.20399)|null|
 |**2026-04-17**|**Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime**|J. P. Dadario Pereira et.al.|[2604.16152](http://arxiv.org/abs/2604.16152)|null|
@@ -1588,12 +1609,13 @@
 |**2025-10-20**|**Water saturation in texturally porous carbonate rocks: Shock thermodynamics and dampening of the shock**|Juulia-Gabrielle Moreau et.al.|[2510.17446](http://arxiv.org/abs/2510.17446)|null|
 |**2026-01-04**|**A domain decomposition approach to pore-network modeling of porous media flow**|Shuyu Sun et.al.|[2510.13429](http://arxiv.org/abs/2510.13429)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Geohazard Assessment & Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Predicting Endocrine Disruptors: A Deep Learning QSAR Model for Estrogen Receptor Activity**|Belaguppa Manjunath Ashwin Desai et.al.|[2605.13364](http://arxiv.org/abs/2605.13364)|null|
 |**2026-05-12**|**In-context learning to predict critical transitions in dynamical systems**|Yunus Sevinchan et.al.|[2605.12308](http://arxiv.org/abs/2605.12308)|null|
 |**2026-05-12**|**A geometry-aligned multi-fidelity framework for uncertainty quantification of wildfire spread**|Konstantinos Vogiatzoglou et.al.|[2605.12007](http://arxiv.org/abs/2605.12007)|null|
 |**2026-05-12**|**Generative climate downscaling enables high-resolution compound risk assessment by preserving multivariate dependencies**|Takuro Kutsuna et.al.|[2605.11531](http://arxiv.org/abs/2605.11531)|null|
@@ -1811,7 +1833,7 @@
 |**2026-01-14**|**A Hybrid Machine Learning Framework for Improved Short-Term Peak-Flow Forecasting**|Gabriele Bertoli et.al.|[2601.09336](http://arxiv.org/abs/2601.09336)|null|
 |**2026-01-14**|**Long-term sedimentary earthquake records along the northern branch of the North Anatolian Fault in the Sea of Marmara (NW Türkiye)**|M. Namık Çağatay et.al.|[2601.09335](http://arxiv.org/abs/2601.09335)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Hydrogeology & Environmental Geoscience
 
@@ -1839,13 +1861,19 @@
 |**2026-01-04**|**A domain decomposition approach to pore-network modeling of porous media flow**|Shuyu Sun et.al.|[2510.13429](http://arxiv.org/abs/2510.13429)|null|
 |**2025-09-25**|**Accelerating the Monte Carlo simulation of the Enskog equation for multiscale dense gas flows**|Bin Hu et.al.|[2509.20816](http://arxiv.org/abs/2509.20816)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Petrology & Structural Geology
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-12**|**Estimation Problems and the Modulating Function Method: The Algebra of Modulating Functions**|Davi G. Accioli et.al.|[2605.12244](http://arxiv.org/abs/2605.12244)|null|
+|**2026-05-13**|**Discovery of Hidden Miscalibration Regimes**|Katarzyna Kobalczyk et.al.|[2605.13484](http://arxiv.org/abs/2605.13484)|null|
+|**2026-05-13**|**Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor**|Shaheim Ogbomo-Harmitt et.al.|[2605.13366](http://arxiv.org/abs/2605.13366)|null|
+|**2026-05-13**|**PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution**|Zihang Xu et.al.|[2605.13027](http://arxiv.org/abs/2605.13027)|null|
+|**2026-05-12**|**Graph-Based Financial Fraud Detection with Calibrated Risk Scoring and Structural Regularization**|Yunfei Nie et.al.|[2605.12782](http://arxiv.org/abs/2605.12782)|null|
+|**2026-05-12**|**Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage**|Fusheng Luo et.al.|[2605.12764](http://arxiv.org/abs/2605.12764)|null|
+|**2026-05-12**|**Divergent Multi-Version Execution (DME): Canonical Instruction-Trace Fault Detection via Structural Address-Space Decorrelation**|Petro Baran Yrievich et.al.|[2605.12576](http://arxiv.org/abs/2605.12576)|null|
+|**2026-05-13**|**Estimation Problems and the Modulating Function Method: The Algebra of Modulating Functions**|Davi G. Accioli et.al.|[2605.12244](http://arxiv.org/abs/2605.12244)|null|
 |**2026-05-12**|**A Unified Graph Language Model for Multi-Domain Multi-Task Graph Alignment Instruction Tuning**|Haibo Chen et.al.|[2605.12197](http://arxiv.org/abs/2605.12197)|null|
 |**2026-05-11**|**ASIP-Planner: Adaptive Planning for UAV Surface Inspection in Partially Known Indoor Environments**|Hanyu Jin et.al.|[2605.11119](http://arxiv.org/abs/2605.11119)|null|
 |**2026-05-09**|**Seeing the Needle in the Haystack: Towards Weakly-Supervised Log Instance Anomaly Localization via Counterfactual Perturbation**|Yutszyuk Wong et.al.|[2605.10988](http://arxiv.org/abs/2605.10988)|null|
@@ -2081,12 +2109,15 @@
 |**2026-01-15**|**Early Fault Detection on CMAPSS with Unsupervised LSTM Autoencoders**|P. Sánchez et.al.|[2601.10269](http://arxiv.org/abs/2601.10269)|null|
 |**2026-01-14**|**LP-LLM: End-to-End Real-World Degraded License Plate Text Recognition via Large Multimodal Models**|Haoyan Gong et.al.|[2601.09116](http://arxiv.org/abs/2601.09116)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Geoscience Foundation Models & Knowledge Graphs
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation**|Asim Osman et.al.|[2605.13554](http://arxiv.org/abs/2605.13554)|null|
+|**2026-05-13**|**ECG-NAT: A Self-supervised Neighborhood Attention Transformer for Multi-lead Electrocardiogram Classification**|Mahsa Gazeran et.al.|[2605.13194](http://arxiv.org/abs/2605.13194)|null|
+|**2026-05-12**|**A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions**|Mohamed Mahmoud Amar et.al.|[2605.12685](http://arxiv.org/abs/2605.12685)|null|
 |**2026-05-12**|**NARA: Anchor-Conditioned Relation-Aware Contextualization of Heterogeneous Geoentities**|Jina Kim et.al.|[2605.12276](http://arxiv.org/abs/2605.12276)|null|
 |**2026-05-12**|**Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study**|M A Al-Masud et.al.|[2605.12241](http://arxiv.org/abs/2605.12241)|null|
 |**2026-05-12**|**Modulation Consistency-based Contrastive Learning for Self-Supervised Automatic Modulation Classification**|Chenxu Wang et.al.|[2605.11875](http://arxiv.org/abs/2605.11875)|null|
@@ -2407,7 +2438,7 @@
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
 |**2026-01-14**|**Linear Complexity Self-Supervised Learning for Music Understanding with Random Quantizer**|Petros Vavaroutsos et.al.|[2601.09603](http://arxiv.org/abs/2601.09603)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4geo-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4geo-arxiv-daily/graphs/contributors
